@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/589
+seq: 589
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為倾銷而減大為小故側数恒少而寔影非人目所及見也令測淂日在最髙月亦在最髙其視影半徑為四十三分若日在最髙月在最𤰞視徑為四十七分大小之差四分準此以求月髙𤰞各度之視半徑如圖己甲子為寔地影巳癸子為視地影外子甲巳癸皆侵去之数子癸巳為食月之影求之法以月最髙距地所測壬乙辛視影角四十三分與最𤰞距地午乙戊視影角四十七分相較淂午乙壬角四分為搃影差次用壬乙辛形求乙壬線以與
+  hash: sha256:e61cee6c6ed9b7c5672b0f37711a5c4117d87ae2d92f87f535ba317bb8eda135
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:646b7523d4a7967c943b32cd81ad07544f708b5647753b1fe9b56ca0e4e8f5b6

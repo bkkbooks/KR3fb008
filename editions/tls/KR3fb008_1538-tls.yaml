@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1538
+seq: 1538
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求平朔太陽平行以太陽平行根典太陽平行朔策相加淂平朔太陽平行求平朔太陽引数以太陽引数根典太陽引数朔策相加淂平朔太陽引数求平朔太陰引数以太陰引数根典太陰引数朔策相加淂平朔太陰引数求平朔太陰交周以太陰交周根典太陰交周朔策相加得平朔太陰交周推日月相距第二求太陽均数
+  hash: sha256:1e3189b907053e70aae24f643d70b4fa4de16added5c57b31e6812a30fe0aa33
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6bf9921edd9f3b065a01d228b436a2bc24f4ffe42e52033e8f4d798d9d0757a8

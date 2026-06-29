@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2481
+seq: 2481
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:71eddeedda4a58d0267b1c29bbeb5cbf188c8a768340be011e4b06b4e6b9b1ee

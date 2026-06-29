@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/559
+seq: 559
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非可遽合也蓋初用之引數其所指者中會之引數非實會之引數則其加减度所推實時特近于實時非正實時也夫中會與實會之加减相差恆至數時加减最多至一十四時則日與月又各有其平行及自行度分法冝更求中實會之間日月平行自行之度為次引數求其均數以淂二曜實相距度化為時刻或加或减于中會時刻乃淂正實時刻若欲更密須三推之視終所淂時刻分秒不異于次淂即合天無疑舊法止等一次尚未為密耳實會視時用次引數復求日月相距所淂會望時刻已合天矣然與人目所見猶未合也何則交食表內所用之日時皆為平日分則依此推
+  hash: sha256:370819e81f96f9b3fa5b6229de8d01382bff2115793a70e0be221cb0f01d70d2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:75196a25c439280714bff591eda8f9f3222cf00f2d5ec53d48da4d5dbdb6fe9d

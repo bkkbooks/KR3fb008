@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1363
+seq: 1363
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求星距地心線用土木距地表以星距日次引宮度察其所對之數淂星距地數求視緯以星距地心線為一率星距黃道線為二率半徑一千萬為三率求淂四率為視緯之正弦檢表淂視緯星距黃道線當以次輪心距地心線與初緯之正弦為比例今表中前列星距黃道線即初緯之正弦而星距地心線亦以次輪心在中距立算故其比例仍同也求黃道宿度依日躔求宿度法求淂本年黃道宿鈴察黃道寔行足減本年黃道宿鈴內某宿度分則減之餘為黃道宿度
+  hash: sha256:6978a813e0f432fd74fc0fa9c32fbe9cb07622d48acc88d76369e39863822ff6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:95c5dcbc330120205556ad876c1ff2bb362711a966294eb6b4dddf568093e04a

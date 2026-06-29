@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/965
+seq: 965
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而一淂每年所行度分土星最高多祿某前測淂在大火宮二十三度歌白泥於明正德九年甲戌測淂在析木宮二十七度三十五分亦用三次沖日度測之相差為三十四度三十五分以積年一千三百八十年有奇為法而一淂每年最高之行後第穀定為一分二十秒十二微與古測不遠木星多祿某於漢永和元年丙子測淂最高在鶉尾十一度後第穀改算該在十四度又第穀於萬曆庚子測淂本年在壽星宮七度三十二分相差為二十三度三十二分以積年一千四百六十四年為法而一淂每年行五十七秒五十二微
+  hash: sha256:ef70ac6f95e661c0499ebbadb0cc68b0451d96bb4335b82d47621048d01db57f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ec6f7c70ead5ce8ed4d714f45023d0c5add6b7ecabb1378a6e7f33784e12e7a9

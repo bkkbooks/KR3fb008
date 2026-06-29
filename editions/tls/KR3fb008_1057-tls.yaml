@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1057
+seq: 1057
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度之緯相減淂北加減分凡北緯小於南緯用減大於南緯用加以淂本時緯限求五星緯度中分算緯度用中分者亦以歲輪心距地遠近不等歲輪上各度所生之緯限大小不同因而自交至大距九十度之緯亦各不等不能一一列表故設中分法以該之也如圖丁戊圈為星道丁巳圈為黃道丁為正交壬為中交其兩道交角五星緯行最大不遇八度戊巳弧不論何度皆命之六十分為中分之全自戊左右皆漸小至兩交則無中分故表以星距正交為引數如星距正交為丙丁求中分則從黃極甲遇星骵作甲丙辛
+  hash: sha256:a1284da1e37e96c9973ec21c854d07b8376cabffeb4dc050b7ee074200d144eb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0df631d2e6fdd85a6d1e40929e4b01e97db860713f03e6cbab4184e241e39a75

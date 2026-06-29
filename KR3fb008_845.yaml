@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/845
+seq: 845
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二十度三十五分若影遇丁角在甲丁邊上遇庚則甲庚為戊庚弧之餘切線故壬甲與甲庚線若全數與戊庚弧之餘切線壬甲與戊丁等以此求時用乙丙丁斜三角形有乙丁為極高之餘有乙丙為太陽距赤道之餘有乙丁丙角為對地平至半周餘弧之角求丁乙丙即對赤道弧之角既得赤道距午度用以化時即得虧復等相應時分也交食曆元戊辰年天正冬至後第一平朔即十二月朔日為交食曆元首朔十四二十六時二十六分四十六秒太陽平行宮十五度二十一分二十一秒太陽引數宮九度二十一分二
+  hash: sha256:d19c3cde422d8b2cb4802572d8f031c883550a39c86e93f0d10bb19910637154
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ba8f8ebbf0122b221b9b757bd53750806381093dccc517c4c085c8a27b30cf52

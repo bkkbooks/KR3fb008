@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 轉之則甲丙餘割與乙丙餘割若乙角餘切與其餘弦如此推求一法又變十餘法若以曲線形所用諸比例轉輾相推錯綜互用其法生生不窮乃至無盡也
+  hash: sha256:486314c1cf32ba70e68ce1a5778efa114f1d72d7dc406200ce934b70d3e8673f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:64f3b1bc6aedf07af4f3ddf3a0a30b24f2b85cfcbc4e759be21fb05a3bb6340a

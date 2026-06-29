@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1741
+seq: 1741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在白平象限之東而視經度申更差而東太陰實高午在黃道北而視高未反在黃道南北三差成未午申正弧三角形申為直角對高下差未午申白道高弧交角對未申南北差午未申餘角對午申東西差是為太陰白道上之寔差也若以黃道論之從黃極戊作戊午戊未兩弧一遇寔高午一遇視高未又作子午弧與黃道平行淂辰午子為黃道高弧交角辰午子角與辰巳辛角等淂午乙為東西差未乙為南北差與高下差為乙午未勾
+  hash: sha256:aa68a1a44f29433e7d65a9980994377e777262c1f4e4679028d462a04f8aa51a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bd7b2f353f4a32a178b3ba81607ac4aff8d67b6d7f2e329b21ef7e2d79ddfee3

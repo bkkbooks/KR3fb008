@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1441
+seq: 1441
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽本輪半徑二十六萬八千八百一十二太陽均輪半徑八萬九千六百四太隂本天半徑一千萬太隂本輪半徑五十八萬太隂均輪半徑二十九萬太隂次均輪半徑一十一萬七千五百太陽光分半徑六百三十七命地半徑為一百分立算下同太隂寔半徑二十七太陽最高距地一千一十七萬九千二百八與地半徑之比例為一十一萬六千二百
+  hash: sha256:d852708fb0ff24f0e9c8d4fc03b7174fbe7d2d45b01762da7c41141852ac9325
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:549b9698e960829572be63eed6527a60f13e87a51bcfd708e76e802c9d2dcd22

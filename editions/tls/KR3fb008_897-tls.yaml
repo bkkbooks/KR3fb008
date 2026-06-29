@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/897
+seq: 897
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三乙戊丁甲戊丁二形同用戊丁邊是戊丁邊有二數今以兩戊丁依變率法通為同類以求戊乙線法乙戊丁形之戊丁二六九四八與甲戊丁形之戊丁七二二六若乙戊丁形之乙戊五六七三六與後乙戊一五二二一是甲戊甲丁戊乙丁戊四線皆為同類四甲戊乙形有甲戊乙角乘甲乙弧三十七度五十一分半有甲戊乙戊兩邊依法求甲乙邊淂度九五九八五甲乙線有兩數一為甲乙弧七十五度四三之全弦一度二二
+  hash: sha256:c6302a93f9de5d2eb98fddd064cf876bb3fbffcb507b3635a26533a31f1afdd0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4b92b6ed55fe418dfd7e439adcf126539d42bae72c1aa86639f5f97a955c62dc

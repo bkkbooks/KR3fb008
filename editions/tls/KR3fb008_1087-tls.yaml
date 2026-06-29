@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1087
+seq: 1087
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徵木星正交行古測在鶉首宮一度二十一分今測在本宮六度五十三分行差為五度三十二分如前中積而一淂一年之行為十三秒三十六微土星正交古測在鶉首宮三度二十一分今測在本宮二十度二十三分行差為十七度二分以前中積為法而一淂一年之行為四十一秒五十三微金星正交與最高約為同行恒在最高前十六度水星正交與最高為同行處無異已上諸測乃萬曆二十八年所定也依此淂新法曆元諸應
+  hash: sha256:c8eff032cde862e7cd80c23c6c5160edab5fa18a6e7f8c9911ef05a5583c0c90
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3a2466df44d558f67563869c949d10c469179801fbe1ef5f32f15955b44bce02

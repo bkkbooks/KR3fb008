@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1823
+seq: 1823
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦象考成太陽均数表太陽均数表按最高最卑分順逆列之引数礽宮至五宮為最卑後列于上引数六宮至十一宮為最高後列于下前後列引数度分分順逆以別加减中列逐宮逐度之均数太陽引数在上六宮者用順度其號爲加太陽引数在下六宮者用逆度其號為減用表之法以引数之宮對引数之度分其縱橫相遏
+  hash: sha256:09549b89db35b44c14b83978a74a4c6397d1c6d7761ac2a4b5c64157a681aaa6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e2c4f9c3ccdc65517b68f48259772055ea5349563bb5c42a9c35484b1b6e66be

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1995
+seq: 1995
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相加反是則相減也淂三十一分零五秒為所求之交均其號為減卽為減均又察六宮八度所對之距限四度五十八分五十三秒卽所求之距限也因八度一十五分與八度近與九度遠故卽用八度之數
+  hash: sha256:6e448b54ef7accc9917e1be54f26efe157837cf8d35f777f9a82fb5825779d68
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:002880d56de67d629f2410d1fce7ffa8ff0dfba39f998e5e03bbfa83f06f184d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1813
+seq: 1813
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊術亦用緯限中分法今依輪心所居隨時求次輪上視緯如圖甲為地心邜寅為星本道寅為正交寅甲為交線設伏見輪心在壬距正交為壬寅弧丙子癸丑為伏見輪子丑為樞線子為次正交丑為次中交次輪子丙丑半周在黃道南丑癸子半周在黃道北指金星言水星反是丙點為南大距庚點為北大距亥壬丙為次輪交本道之角如金星為三度二十九分壬甲為次輪心距地心線未乙為
+  hash: sha256:277352bb4acee461927200571bf21a2de788305cfba99eed576674366cb16f79
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e40cb453e50a2e5dc13528ddf7cde6744fd0ce386e5c3c36414e6b844d5160fa

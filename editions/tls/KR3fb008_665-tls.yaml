@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/665
+seq: 665
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淂子亥為東西差未申同亥辛為南北差距北淂癸壬為東西差午未同丑壬為南北差其申午两點則指太陰黄道上視經度也太陰有距度求南北東西差太陰有距度求南北東西差其法稍繁然日食時月距黄道甚少即以無距度筭若欲細求之如啚甲巳丙為子午圈甲乙丙為地平丁乙為黄道天頂在巳太陰在子則子邜為髙弧子癸為髙差辛為北極戊庚圈負黄道極戊自戊出大圈之弧戊壬過丑指太陰寔經度而丑子為寔距度又出一大圈弧戊癸至太陰視度癸徔癸作垂線至壬淂
+  hash: sha256:db00ab8e9c093cd1e048fc8ff829fc3509146b071b868042ed7e7829e6f4c2bc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2ddd9b3ccd43d166c44a5a18c8db5cb3afb9f662b0234f3c7592ec0999208aab

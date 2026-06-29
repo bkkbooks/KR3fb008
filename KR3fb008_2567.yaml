@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2567
+seq: 2567
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 土星距地表土星距地表按星距日次引宮度分順逆列之初宮至五宮列于上六宮至十一宮列于下前後列星距日次引度中列逐宮逐度之星距地數星距地者乃次輪心在中距土星行次輪周逐宮逐度之距地心線土星距日次引在上六宮者用順度土星距日次引在下六宮者用逆度用表之法以星距日次引之宮對星距日次引之度其縱橫相遇卽所求之星距地心線也設土星距日次引為初宮一十二度求星距地心線則察初宮一
+  hash: sha256:f9769b74dda2170177adf2b514be7f7457f02f18b96610366fc6aeab94168df4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:84634ea876ae05d3c456b101092bae71695e2ff9471e0c6dcc2515800ecddf53

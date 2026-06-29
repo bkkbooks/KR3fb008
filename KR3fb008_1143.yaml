@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1143
+seq: 1143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為一率得四率數如法妝之得三均三均與次均恒相加淂定均數將定均依次均號加減于實經距日次引初宮至六宮為加六六至十二宮為減五星同為星視經度置實經內減去正交行即得星距正交以距交入緯度表查中分以次引查緯限各淂數中分化秒為三率緯限化秒為二率三千六百秒為一率求四率數妝之得星視緯定南北向以距交宮度定之前六宮一二三四五在北後六宮六七八九十十一在南視經度如是躔法減宿淂星本日宿次度分求火星經緯度
+  hash: sha256:8b5e413ff54900d4ebee44253805489ce3fc2424c6fc6c2412185852e0bcc7cc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:426cf8f03f48ac94b430ab7d18d6184f88ef4ca677f6e2a57d8c8dfc2f00e697

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2085
+seq: 2085
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名赤道經度赤道緯度等河鼓三初宮二十二度五十一分北九度五十四分三河鼓二初宮二十三度五十分北八度零七分二右旗東七初宮二十四度零三分北初度一十七分三河鼓一初宮二十四度五十七分北五度四十五分三右旗東八初宮二十八度四十六分南一度四十一分三牛宿一一宮初度五十一分南一十五度四十一分三天津一一宮二度四十六分北三十九度一十八分三女宿一一宮七度四十一分南一十度三十三分四
+  hash: sha256:abc768703ff0d0ccf2b697f4b0646d54c8fbfe505b11ecfcb9726d7dbaa1d99a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ad4f109a592fd2f787f7bf922754f84c3c6079e6762cd4696d60b2360f2a9a15

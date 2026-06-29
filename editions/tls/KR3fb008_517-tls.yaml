@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/517
+seq: 517
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分五十五秒并淂五十八分十五秒若距度與之等者依前法推交常度淂十一度十六分此限以内月遇影必有食也必者無不食也抑此两者論寔望時之食限耳若論平望其限尤寛如圖甲乙為黄道甲丙為白道甲為交乙為地影心丙為太陰心月切影在丁其最大两半徑為乙丙淂一度四分二十秒則相值之甲丙淂十二度二十八分為定望食限設平望尚在前為戊則戊平望距丙定望最遠者二度三十八分有竒為丙戊弧以加甲丙弧淂甲戊一十五度六分有竒為太陰切影之時以其心距两交之度今定寔望之食限最大為
+  hash: sha256:94b63cc1505113e7df6c30deb1804402677fa99f2735b2c8ddb80dbf201a2e29
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d981b39d8a0e925b0b7a63214be6f9f6cd3fdbdf65c10e0b8f74c750e02cba10

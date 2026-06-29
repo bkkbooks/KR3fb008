@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1875
+seq: 1875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃赤升度表黃赤升度表黃道宮度與赤道宮度並列之皆自冬至星紀宮起初宮卽宮元枵宮為一宮以太陽經度為次用宮数不用宮名者太陽當交宮之際帷二分二至黃赤同度其餘恒不同宮故用宮数以便列表用表之法以太陽實行察黃道宮度其所對之赤道宮度卽所求之赤道升度也表以逐度為率若實行有零分者按中比例法求之設太陽寔行在黃道降娄宮五度二十四分求赤道升度自星紀宮起初宮
+  hash: sha256:aeef85d32f4fb6dbc18708df01fb38e227c92fd5be545e0b4ec585ae2eae79fa
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:25211b6e1a44a3bbc34d5fb6787e713c698d4d5a237c908a610545717047214f

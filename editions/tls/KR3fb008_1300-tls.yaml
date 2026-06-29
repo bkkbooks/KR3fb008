@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1300
+seq: 1300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分二十四秒河南高三十四度五十二分二十六秒陜西高三十四度一十六分江南高三十二度零四分四川高三十度四十一分湖廣高三十度三十四分四十八秒浙江高三十度一十八分二十秒江西高二十八度三十七分一十二秒貴州高二十六度三十分二十秒福建高二十六度零二分二十四秒廣西高二十五度一十三分零七秒雲南高二十五度零洋分廣東高二十三度一十分各省北極高度俱係寔測所淂
+  hash: sha256:cd2889e7ca9a13b405449159b51c488cac04970d39797b0cb340a69c0bc8b209
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4ccd2ca59d52eb6e9ec1f5ed781fdeb916ac6176ceb987b0c6d81ecf1c239379

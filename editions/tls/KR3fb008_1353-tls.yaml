@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1353
+seq: 1353
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求正交年根以積日與土木正交每日平行土星十分秒之一又一四六七二八木星百分秒之三又七二三五五七相乘淂數為積日正交平行加土木正交應土星六宮二十一度二十分五十七秒二十四㣲木星六宮七度二十一分四十九秒三十五㣲淂土木二星正交年根上攷徃古則置土木正交應減積日正交平行淂正交年根求土木日數以所設日數與土木每日平行土星一百二十秒六二二五五木星二百九十九秒二八五二九六八相乘淂數為秒以度分收之淂土木二星日數求最高日數以所設日數與土木最高每日平行土星十分秒之二又一九五八三木星十分秒之一
+  hash: sha256:fbba6408e6d0fdb5e57c8e7043c165dce4acd77f3b68bee1091373a15a912844
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7ee0f6cee2677e873f3ab9fd14cb65160377b488ff92fd35bc1d4673bba4d42a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1153
+seq: 1153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 引即星距正交以次寔引入前緯表查前中分以伏見實行查前緯限中緯各化秒相乘三千六百而一淂星前緯記書南北號又以次寔引入後緯表查後中分以伏見寔行查後緯限水星後緯限有二表中緯各化秒相乘三千六百而一得星後緯亦記南北號視前後緯號同者俱南俱北也兩緯相加如號異者一南一北也兩緯相減即淂視緯人南北以數大者定之異號相減南緯大都是命其減餘為南北大者則命為北也求羅睺計都經度以本年所推月離經緯內正交經度中交經度查距宿鈐表減本年宿如日躔法淂羅計宿度分
+  hash: sha256:b38a1e0a20826a1eb33d223268db498b01ed79b08e29d99df60fde0a844b23be
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ff8f268834403cf11fe1d52291c7e768f11ba96ac6dfd0060d39709bd6ba5a97

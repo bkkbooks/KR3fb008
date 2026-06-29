@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1935
+seq: 1935
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陰初均表太陰初均表按最高最卑分順逆列之引数初宮至五宮為最高後列于上引数六宮至十一宮為最卑後列于下前後列引數度分分順逆以別加減中列逐宮逐度之初均数太陰引數在上六宮者用順度其號為減太陰引數在下六宮者用逆度其號為加用表之法以引數之宮對引数之度分其縱橫相遇卽所求之初均数也表以十分為率若引数有零分者按中比例法求之設太陰引数為一宮三度四十
+  hash: sha256:ec5739ed188d1102f25af44c728370654a6132fd0f07664d7e3c932415022b2c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6dff6f249f4a4fd7de9f423b6344305e131f99c90080329582955cef5b3bed28

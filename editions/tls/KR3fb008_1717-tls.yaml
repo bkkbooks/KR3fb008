@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1717
+seq: 1717
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度数略相等也今求黄平象限及黄道高弧交角舆舊法同而推高弧立算較捷盖舊術以太陽午正高度爲主先定距午時刻及太陽距赤道南北然後依各方北極出地度算之今法一以黄平象限之高度爲主依太陽距黄平象限之逺近用一直角形可得而作表亦甚簡也如圖甲爲天頂丙甲乙爲子午圈乙丙爲地平丁爲赤極丁丙爲極高戊已庚爲赤道辛爲黄極壬癸丑爲黄道已爲春分丑爲黄道交西地平之點壬爲黄平象限距丑九十度壬癸爲黄平象限距午度壬寅爲黄
+  hash: sha256:40c9273817b38127978e77d769d925b2a3d19685e490dcc60af83a2ce1248d26
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:eef5f43b31b8efb12b0d51d28835b77246d4d5d21815b00234b12c499954e8bf

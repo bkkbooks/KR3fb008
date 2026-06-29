@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/741
+seq: 741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 啚太陰心行到丁則全入影為食既至戊即生光得丙丁及丙戊亦略相等故求得丙丁倍之即丁戊為太陰全入影至生光之總弧法用甲丙丁三角形甲丙為距度甲丁為地半影減月半徑之餘以甲丙甲丁上兩方相減餘開之得丁丙線為食既至食甚月所行度分也丙戊食甚至生光同若欲精求之不聽甲乙丙為平行仍作兩線斜交于乙太陰初虧在丁食甚在丙復圓在戊丙丁是太陰在影之半為
+  hash: sha256:1a3de1deb478eaecafa3fe1bae313dee15b926d8e0eb7ad4f385c9d9ad671f85
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9e992e04a7ca3c704167315edf347aba5935ad0920ee0fe5abd851ca04254360

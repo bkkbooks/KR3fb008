@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2069
+seq: 2069
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名黃道經度黃道緯度等外廚一七宮四度二十分南二十三度三柳宿一七宮五度五十六分南一十二度二十七分四星宿一七宮二十二度五十六分南二十二度二十四分一軒轅十四七宮二十五度二十五分北初度二十七分一張宿一八宮一度一十九分南二十六度一十二分五天相一八宮三度零七分南一十六度三五帝座八宮一十七度一十三分北一十二度一十八分一內屏一八宮一十八度五十四分北六度零七分三
+  hash: sha256:3dde666715fe000c96918319fe2338bf8f1358cebcdd79ac5e3c40d3bb094228
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:031d6f9466bd8bcb4df87c537655ded9749f4307e46f5e52f2f9dc0cff27778a

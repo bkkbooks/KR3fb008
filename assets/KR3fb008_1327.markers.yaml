@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fb008/bkk/v1/markers/1327
+seq: 1327
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p450.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup435, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3fb008_tls_001-p450.s2}
+  - {type: line-break, offset: 5, content: '', id: KX_2_dup443, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fb008_tls_001-p450.s3}
+  - {type: line-break, offset: 20, content: '', id: KX_3_dup443, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fb008_tls_001-p450.s4}
+  - {type: line-break, offset: 24, content: '', id: KX_4_dup441, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3fb008_tls_001-p450.s5}
+  - {type: line-break, offset: 49, content: '', id: KX_5_dup440, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3fb008_tls_001-p450.s6}
+  - {type: line-break, offset: 56, content: '', id: KX_6_dup442, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3fb008_tls_001-p450.s7}
+  - {type: line-break, offset: 61, content: '', id: KX_7_dup437, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3fb008_tls_001-p450.s8}
+  - {type: line-break, offset: 76, content: '', id: KX_8_dup437, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR3fb008_tls_001-p450.s9}
+  - {type: line-break, offset: 81, content: '', id: KX_9_dup436, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR3fb008_tls_001-p450.s10}
+  - {type: line-break, offset: 106, content: '', id: KX_10_dup432, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  back: []
+hash: sha256:49fe14629e665ad4bfa645f68f525b63aa165b7825b8042fab2da0d1d754f6bd

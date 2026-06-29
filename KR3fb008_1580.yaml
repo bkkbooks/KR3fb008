@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1580
+seq: 1580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用交食太陽高弧表以真時月距限及真時限距地高之度察其所對之度分秒淂真時太陰高弧求真時黃道高弧交角用交食黃道高弧交角表以真時月距限及真時限距地高之度察其所對之度分秒淂真時黃道高弧交角求真時白道高弧交角置真時黃道高弧交角加減黃白交角四度五十八分三十秒加減典用時白道高弧交角同淂真時白道高弧交角求真時高下差用日躔太陽地半徑差表以真時太陰高弧按太陽實引宮限察
+  hash: sha256:1a63ae108d90f724742bb05899295667e2548f84fe42d130fddde21ac5fb24e8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:77861e6870cc64548deb930fc7bb4895298193e4d7296d929cc65f2bb6188ec7

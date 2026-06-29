@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/569
+seq: 569
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為視徑而視徑又復大小不同則以日月本天有最高𤰞故也蓋在最高則視徑加大在最𤰞則視徑加小雖其實徑原無大小之殊而人目視角必因之而有大小如圖大圈為本輪戊為最高乙為最𤰞設日月一在最高戊一在最𤰞乙兩實徑本等而人目徔甲視之高則為己甲庚角視徑小𤰞則為丁甲兩角視徑大其餘自戊至乙一百八十度俱一一不等而漸次加大也一蒙氣能變視徑之大小上論視徑之大小由于本輪之高低此外又有兩種變易其一由于蒙氣蒙氣者地上清蒙之氣乃次
+  hash: sha256:8468a63b0fa71001147c59977299d1880d500ffc184d452b052781aa5fa9c47c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bc49e73e1583c5f333a3677c5cff4d002fc2da135f9c02a62e4a37daf21f0ea0

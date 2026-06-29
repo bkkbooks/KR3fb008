@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2771
+seq: 2771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦象考成金星均數表金星均數表以引數宮度求初均及中分以伏見實行宮度求次均及較分初宮至五宮依次順列扵前六宮至十一宮依次逆列扵後表名初均者乃金星本輪均輪所生之均數順度為減逆度為加中分者則逐宮逐度次輪心距地心與最高距地心之較為六十分中之幾分也求中分之法以金星次輪心在最高距地心之一一四三一
+  hash: sha256:49356d7eea8f76c938f120e1230164b0ee5ce58c9bb26c0cb4a4d33056855e72
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d6ee22e1c2accd12f963d9abfc188b5589e1bd01df23740b326466de0d108d46

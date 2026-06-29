@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2005
+seq: 2005
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 取用黃白大距逐日不同故以朔望時黃白大距四度五十八分三十秒與兩弦時黃白大距五度一十七分三十秒均分為六限各求其距緯列表每限大距相差三分有餘大大距止差三分則距緯所差甚微可以不計故依距限相近者取用也設距限為五度太陰距交實行為一宮五度求黃白距度則察大距四度五十八分三十秒黃白距度表為與距限五度相近一宮五度所對之數為二度五十一分零四秒卽所求之黃白距度也若距交實行有零分者亦按中比例法求之
+  hash: sha256:16d73e13111e410a523e636d1f731db6f31f9ac7fb452938d0458f531e755094
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:49082697303d9666e3e2a509f164d59ce3ffeb2de97581ffa21e74fd2c265053

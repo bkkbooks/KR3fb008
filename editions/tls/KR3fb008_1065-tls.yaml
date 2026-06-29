@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1065
+seq: 1065
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則辰與亥為合伏各巳點俱為退合輪心旋居於本天輪周則與本天斜交如輪心在本天甲辛丙諸點其輪周上半午壬子如向南下半子癸午必向北其伏見輪面與本道面相交之子午一線名為樞線兩相割其交處必一直線如黃赤道相交其交處為春秋分線此線遇伏見輪心分輪周為上下二半半在北半在南又此線任輪心居本道何度必各自為平行如各子午線皆為平行故恒淂伏見輪上半如在北下半必在南也若輪心至甲恰淂庚為合
+  hash: sha256:cbf251e55aaecd263ef567bea9eb79b016c129f0fdb47ed34917f18402589c63
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:02644d859708576e3893fbd560bc55df4f01e5516c6983e23231350816b3f4d6

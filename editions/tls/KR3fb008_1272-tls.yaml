@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1272
+seq: 1272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月食圖甲為地影心內大圈為地影外為影月兩半徑並之圈三小圈為月甲丁為地影半徑丙癸為月半徑甲辛為影月兩徑並丙甲為距緯度巳丙戊三點為月心月行至已乙點為初虧月行至丙行庚丁為食甚月行到戊則壬點為復圓
+  hash: sha256:54adbfb2626f375b445ec055d2d86d1a34b2e20f15996c143b8a4b77af25b0ce
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:82bb58c4a8b0676ae86230ca4cc98f5cd0f9aef6345a12e474b1df1e18d01020

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2431
+seq: 2431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南西南北差表南西南北差表以交角及高下差分順逆列之交角自一度至四十五度順列於前自四十五度至八十九度逆列於後中按高下差分數列逐度東西南北差之分秒順度用上東西南北差逆度用下東西南北差用表之法以高下差之分對交角之度其縱橫相遇即所求之東西南北差也設高下差三分交角二十五度求東西南北差則察高下差三分與交角二十
+  hash: sha256:e44a09ef9b69f36c3b1a5d48410d923a0f2be3a0c6d1f0e29f830663572a1dfa
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:73b6305864ce9fa747d406f7a4b5154df7c70a12673e03b55ea8b4f35aa35b78

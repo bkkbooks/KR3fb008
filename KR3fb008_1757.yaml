@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1757
+seq: 1757
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃以真時推淂邜辛南北差為太陰白道緯差以加減白道實緯即為月距日之視緯也求日食初虧復圓用時求日食初虧復圓距食甚之時刻必先求初虧復圓距食甚之弧度盖初虧復圓之距食甚其弧度恒相等而所歷時刻因東西差恒不等然不等者視行也而相等者寔行也非先以寔行求其相等之時刻則無以求東西差而淂視行故以一小時月寔行與虧澓距弧相比淂時分以加減食甚真時為初虧復圓用時既有用時則可以求初虧復圓真時故日食虧復時刻雖不以用時而定而寔以用時為入筽之本如圖甲乙為黃道丁為日甲丙為白道巳戊庚
+  hash: sha256:114d33ee0e347d50f37d066fd4f426c947563ede8ad183be6c82cd22a22eca9e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3bc706bd0ca54bc03069759a905c90cec5158a249f8fdde1e10225c4ddcad4cb

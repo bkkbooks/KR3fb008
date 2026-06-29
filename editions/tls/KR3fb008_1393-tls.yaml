@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1393
+seq: 1393
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星均輪半徑八萬八千八百五十二金星次輪半徑七百二十二萬四千八百五十金星次輪面於黃道交角三度二十九分氣應七日六五六三七四九二六金星平行應二十分一十九秒一十八㣲與暦元甲子年天正冬至次日子正初刻太陽平行度同金星最高應六宮一度三十三分三是一秒四㣲金星伏見應初宮一十八度三十八分一十三秒六㣲推水星用數康熙二十三年甲子天正冬至為暦元
+  hash: sha256:c42972fc83fe74ae4787255aaf235f9392fe9a2bed4a8801433f53f5a1d56890
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:975367495c7f77db3109861a1591dfbc4be14d607ea3e70a79ec1913a6f31331

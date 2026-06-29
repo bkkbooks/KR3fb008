@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1367
+seq: 1367
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火星正交每日平行十分秒之一又四四九七二三火星正交每歲平行五十二秒五十七㣲以周歲除之淂每日平行八㣲四十一纎五十四忽一芒以秒法通之即淂火星本天半徑一千萬火星本輪半徑一百四十八萬四千火星均輪半徑三十七萬一千火星最小次輪半徑六百三十萬二千七百五十本天高卑大差二十五萬八千五百太陽高卑大差二十三萬五千火星本道與黃道交角一度五十分氣應七日六五六三七四九二六
+  hash: sha256:501e405b6b0f5089bf7bc9253974c15786e697438c16d9f4cebd1ad59c497291
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d02ed38633c3965a95896f0d6e469c04e9688800e0328dc67dd04644542f6b21

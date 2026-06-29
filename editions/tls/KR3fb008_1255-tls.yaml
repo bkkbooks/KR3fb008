@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1255
+seq: 1255
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以月寔引查視半徑表得太陰半徑又以月寔引查視半徑表太陰半徑下層得地影半徑以日寔引加減六宮查視半徑表得地影差地影半徑丙減去地影差為寔影以寔影與月半徑相並淂並徑置並徑以月距黃緯減之淂並徑減距分如距緯大於並徑不及減則不食九求食分以並徑減距及月全徑查食分表並徑減距從右月全徑從上橫直相遇淂月食分秒又法以月半徑倍之為一率並徑減距為二率月食十分化秒為三率求得四率妝之淂食分
+  hash: sha256:b9aca7797a33e23bc5673aeb06cd9387690ebedc05f12199cef318fa9492adb2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:37f10320062e73f04cb42e80db3ff66a493730482b789b14acfbef83fe8e0c4f

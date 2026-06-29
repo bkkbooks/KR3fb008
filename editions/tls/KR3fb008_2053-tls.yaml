@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2053
+seq: 2053
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦元若干年與歲差五十一秒相乘淂数加于各宿黃道經度然後與諸曜黃道經度相減餘卽為諸曜黃道宿度也
+  hash: sha256:9b35e144baa46dd98526e12d27a5fed88423c94c92e1a10108dc076e20039624
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bd40b7fd96c2a0f2e14eeec5baff054e7a53dd0edd8586c7e98e52e3dbae0c00

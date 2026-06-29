@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/475
+seq: 475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交食上交食總說大圜之中惟二曜為體大而光盛故其相掩食也皆人目所共見而分秒時刻先浚並歷歷可稽治曆者恆于此殫心竭慮為夫日之有食以太陽由黃道每日東行一度太陰由白道每日東行十三度至二十九日五十刻一十四分三秒而東西同度謂之合翔若翔時月行正在黃白二道之交人視為與日同經同緯是人目與日月相參直而月魄正隔日光于人目則為日食日食者非日失其光光為月掩耳凡太陰距太陽一百八十度而正與之冲謂
+  hash: sha256:6685f2be39cbc09a49dc317fcbfefe52980dd7ecf8ba8e6b77b3cdbeb9f41c70
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4fdce01c51f8e9974bb65bc748a0999c8ee1faab5608831785a464ed639c61d6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1403
+seq: 1403
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求積日置中積分加氣應分六五六三七四九二六不用日減本年天正冬至分亦不用日淂積日上攷徃古則置中積分減氣應分加本年天正冬至分淂積日求金星水星年根以積日與金水每日平行金星每日平行三千五百四十八秒三三五一六九水星同相乘滿周天一百二十九萬六千秒去之餘為二星積日平行加金水平行應金星為二十分一十九秒一十八㣲水星同則置金水平行應減積日平行淂金水年根求金水最高年根
+  hash: sha256:4efd5faccf8d7a72c7f34b317ac2f31763a7fc2374fb0e0418d23a6d4ca8d345
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8143dac579c859eaf02a34895c491e1281cf4f26809827e1b21ef8a96c89359d

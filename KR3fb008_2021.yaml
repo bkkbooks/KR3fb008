@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2021
+seq: 2021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四分五十秒卽所求之黃白升度羌其號為減是為減羌也若距交寔行有零分者亦按中比例法求之
+  hash: sha256:e031249bdc4c24a01118dcfda991f831d961d1297ce0858c511cc53a02c6c1ad
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f6a99ce68a7b4d395f159f048a5d11e7a8b42c129d1b495d5364a51eff3e3836

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1431
+seq: 1431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求金水二星晨夕伏見限金星限為五度水星限為一十度合伏前後或退合伏前後某日太陽寔行與本星寔行相距近此限度即以某日本星寔行宮度察五星伏見距日黃道度表取其與本星相對之數為距日黃道度又以本日本星實行宮度察五星伏見距日加減差表取其與木星緯度相對之數為距日加減差乃宜距日加減差與距日黃道度相加減緯南則加緯北則減淂伏見限度合伏前某日太陽實行與星寔行相距近此限度即為某日晨不見合伏後某日近此限度即為某日夕見合退伏前某日近此限度即為某日夕不見合退伏後某日近此限度即為某日晨見
+  hash: sha256:ff1b31301be192b67d7efa57f16e07753691b173b5ebf3f9c136e6c07d1860cf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:132e998fdba7113cfc0a43756eaa377130fda39bb6fa78a07730bccac8e1062e

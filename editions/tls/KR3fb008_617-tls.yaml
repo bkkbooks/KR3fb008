@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/617
+seq: 617
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙為子午圈士子為赤道戊為北極戊為丁極出地度與壬庚赤道距頂等戊庚為極出地之餘與壬乙赤道高等春秋分日太陽自甲出地平為夘正漸高距甲三十度至未為辰正六十度正己為己正九十度至忍為午至而壬乙即太陽赤道上午正時高弧自比又漸低距壬三十度已點為未正六十度未點為申正九十度甲點為酉正而酉正而入地平比春秋兩分書夜所以相等也求赤道上某刻高弧設戊丁極高為三十八度則壬乙赤道而必五十二度取其壬災正弦度七八八一次設距午八刻末正時在已化度潯壬己弧三十度做己辛線即未正時高弧正
+  hash: sha256:1f3626f9a4214dc1b3195b2eaa79e148b14f826e7d569d7f7543e9b563b0a0ce
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bfffba65b7faa57727cad33617720af109fa3c842c79ebc533f66f7105f9c4db

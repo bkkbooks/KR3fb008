@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1622
+seq: 1622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推各省日食法求各省日食時刻分秒以京師食甚用時按各省東西偏度加減之典推各省蓈氣時刻加減法同淂各省食甚用時乃以各省食甚用時按各省北極高度依京師推近時真時食分及初杅復圓真時法筽之淂各省日食時刻分秒求各省日食方位以各省黃道高弧交角及各省初杅復圓視緯依京師推日食方位法筽之淂各省日食方位推日食𢃄食法求𢃄食距時
+  hash: sha256:7613049d9d0ccb5dc63f8fb60d1884d6e27ba4ed37633ec2e2c64914bf68b903
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6b39aa8adffd404283f47e2539b04d51177220853e779703e97104c9f935f56a

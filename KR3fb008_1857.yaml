@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1857
+seq: 1857
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卽所求之距度也表以十分為率若實行有零分者按中比例法求之設太陽實行在黃道大火宮二十一度一十五分求黃赤距度則以大火宮二十一度一十分所對之数一十八度零五分二十四秒與下層二十一度二十分所對之数一十八度零八分零二秒相減餘二分三十八秒為一十分之較乃以一十分為一率較数二分三十八秒化作一百五十八秒為二率設数五分為三率求淂四率七十九秒收作一分一十九秒與大火宮二十一度一十分之距
+  hash: sha256:86b2c06ed49bc3ee201b734b1cf3e63969fc481df8397071cca68bb915d89bbd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e2efefdb425f51326936f786c411e9debd347bd83fb4bfe610efda0d9414707b

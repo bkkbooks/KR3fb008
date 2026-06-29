@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1445
+seq: 1445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 首朔太陽引數應初宮一十九度一十分二十七秒二十一微暦元甲子年首朔太陽距本輪㝡卑之行度也首朔太隂引數應九宮一十八度三十四分二十六秒一十六微暦元甲子年首朔太隂距本輪最高之行度也首朔太隂交周應六宮初度三十分五十五秒一十四微暦元甲子年首朔太隂距正交之行度也
+  hash: sha256:e1c92909bbebfc30e16d76746727853fb838eb8d86164de94b985964b4ded258
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6641e35de447073fdec5d6b6eef65a33d47bd02a5961c6fd099d9f03b6e8c9b3

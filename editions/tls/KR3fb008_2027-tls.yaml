@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2027
+seq: 2027
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陰地半徑差表太陰地半徑差表按太陰距地與地半徑比例数分十限列之自距地五十三地半徑至距地六十二地半徑表內度分秒卽各限實高度所生之地半徑差也用表之法如太陰距地五十三地半徑推得太陰實高二十六度求地半徑差則察太陰距地五十三地半徑表實高二十六度所對之数為五十八分四十七秒卽所求之地半徑差與實高二十六度相減餘二十五度零一分一十三秒為本時太陰之視高也
+  hash: sha256:db25b259774ae64b8fd365506bf0e87d0e0c35480c3c1c706455c211b338754e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0dd543b0a1f17410079dd521ab4a2e0c5f7afa727dcd95e4d5056623117e744f

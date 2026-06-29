@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1119
+seq: 1119
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與月明時四小星尤較著金星旁無小星時其本骵如月有弦望之形又太陽四周亦有多小星用遠鏡隱映受之每見黑子有大有小行從日徑徃遇來續明不在日骵之內又不甚遠又非空中物又見太陽骵中有明點其光甚大又日出入時見日骵為偏圓非全圓形其周如鋸齒狀此等皆不關人目之謬用器之缺另有他書詳之曆元五星諸根數戊辰年大正冬至後第一子正為曆元紀日巳邜值宿井宿土星距冬至平行八宮二十八度分二十七秒最高行十一宮二十七度一十一分一十五秒正交行六宮二十度
+  hash: sha256:108e8c28bae6fd221f0e01660aabff1d2a3a855f3a6c69175bd3dc35a77d8262
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7a2a9c2d233a264b186c2e085be810404258862bb175ab214b6283d6eb5e47a8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1059
+seq: 1059
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧用丁丙辛三角形求淂丁辛星道同升之度次全數與戊巳六十分若辛丁弧正弦與辛丙中分若干即丁丙距交相當之中分也引中分與前經度中分不同五星皆等求土木火三星各日緯度上三星以中分與緯限相乘即淂本時緯度者亦變率之法也如圖甲為地心醜交圈為黃道午交圈為星道醜午為大距度如星寔行距正交為午交星止午午即歲輪心未沖為歲輪面設星在歲輪最高未即未甲丙角為星本時之緯度夫前置歲輪心在本道大距午算淂未甲丑角為緯限醜丁弧也星骵亦置在最高未即醜丁弧為星在歲輪最高時相當之大距人目視星在丁作丁交弧為星本時
+  hash: sha256:3741330ada46d9cec428e39d9875edf577b5fd5ed8fee41f9d0ad6fcea48cfaa
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f9ba8ca1352981a0bace948341d38199b82f1233769d35799c705ff45d8eeb94

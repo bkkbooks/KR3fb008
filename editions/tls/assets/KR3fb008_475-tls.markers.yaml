@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/markers/475
+seq: 475
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p232.s2}
+  - {type: line-break, offset: 0, content: '', id: KX_2_dup226, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3fb008_tls_001-p232.s3}
+  - {type: line-break, offset: 3, content: '', id: KX_3_dup226, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR3fb008_tls_001-p232.s4}
+  - {type: line-break, offset: 7, content: '', id: KX_4_dup224, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3fb008_tls_001-p232.s5}
+  - {type: line-break, offset: 32, content: '', id: KX_5_dup224, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR3fb008_tls_001-p232.s6}
+  - {type: line-break, offset: 59, content: '', id: KX_6_dup227, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3fb008_tls_001-p232.s7}
+  - {type: line-break, offset: 84, content: '', id: KX_7_dup225, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: punctuation, offset: 91, content: 〇, id: KR3fb008_tls_475-bkkpn1}
+  - {type: punctuation, offset: 96, content: 〇, id: KR3fb008_tls_475-bkkpn2}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR3fb008_tls_001-p232.s8}
+  - {type: line-break, offset: 107, content: '', id: KX_8_dup224, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR3fb008_tls_001-p232.s9}
+  - {type: line-break, offset: 132, content: '', id: KX_9_dup225, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 157, content: '', id: KR3fb008_tls_001-p232.s10}
+  - {type: line-break, offset: 157, content: '', id: KX_10_dup222, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  back: []
+hash: sha256:ae8ddd3da1ab8ff69be98d06e879654c642829bdf5b2e5cfbe54f29a2a1f04b4

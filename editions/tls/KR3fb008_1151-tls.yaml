@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1151
+seq: 1151
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以引數宮度查加減表相較淂初均記加減號隨于初均下取中分初均依號加減于平行及引數淂寔經寔引以初均反用其加減號加減伏見平行得伏見寔行以伏見寔行入加減表查次均相較淂次均度記加減號隨于次均下淂較分中分較分各化秒相乘三千六百除之淂三均以加於次均即定均三均恒加定均依號加減于寔經伏見寔行在前六宮為加後六宮為減得星視經度金星實引內恒加十六度為次寔引水星即以實引為次實引次實
+  hash: sha256:e6fc2d9fb995f216357144263ac20218095a6848a5ad90270e60c739f48d81e2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ccabbf607f5fe0eabd6f7af1f893cce1cacff1a256cd013e829a3c310684b0c8

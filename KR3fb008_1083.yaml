@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1083
+seq: 1083
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各有專家而所用之率互有不同故耶求金水二星各日緯度金水以前緯後緯各用中分相乘同類相加異類相減即淂他處之緯者如圖甲為地心乙丁為星本道即黃道丁為交乙為大距前緯為乙戊向南作丁戊弧又設後緯為丁庚亦向南作戊庚弧三弧皆一象限次如星距交為丁已即已壬為前中分法乙戊六十分與乙戊前緯限若壬已中分與壬已緯度又以丁已距交丁交仝查淂壬辛後中分法庚丁六十分與丁庚後緯限若壬辛後中分與壬辛緯度二緯皆向南為同類相加淂辛已為本時
+  hash: sha256:5b6daa4f1b6e14a9dc68483233ffa4e060748ec6841af9fa012160376a4fccb9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:92172f4885389d45fd78a79d2a1984e2143b024e90aeeeae95d5e668d48ac5d3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/991
+seq: 991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽最卑天半徑九六四一六與所測歲輪半徑若丙甲太陽高卑之較三五八四與兩甲最大日差萬二千三百五十分為太陽最高至最卑火星歲輪半徑極大之差也火星歲輪軌跡圍日之象火星歲輪既與日天等大則星行歲輪一周必成圍日之象以日為心如圖甲未為太陽天癸申為火星本天辛酉寅午二圈為歲輪甲為日體合伏時日在甲星在辛退沖時日行滿一周復至甲星在午其餘自辛至午歲輪上星所應一周之軌跡成辛邜午
+  hash: sha256:bc2293651bca30e9794be31c26decaf4511afcd5979118a6bd07e361841488b2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:64e7be87de8e07c3b9761ae813f4173ab018f1bc51f8197ae605c23b61235c3f

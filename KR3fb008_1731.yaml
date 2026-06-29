@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1731
+seq: 1731
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧交角先用庚子未斜弧三角形求子角即白平象限距地平之丑巳弧及未子弧此形有庚角黃平象限高度辛邜之餘弧有未角四度五八三有未庚弧以寅庚太陽距黃平象限之餘度加未寅寔朔交周即淂求淂子角為白平象限距地平之高丑巳又弧也求淂未子弧內減去食甚交周遇正交之度未午餘午子與丑子九十度相減淂丑午弧為太陰距白平象限西之度次用子午申宜角形求及午角午申弧形有申宜角有子角有午子弧求淂子午申角為白道高弧交角人求午申弧為太陰高弧也
+  hash: sha256:c68ed3b6607dab6a891277f3c2a63da91fa7ca61501cc00dac53f8020eeb29ca
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4b251e4f63c66a9d315cad68d0614f8070c8d516d93b4daf3ae3a2c660515fd7

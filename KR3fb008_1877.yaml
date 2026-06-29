@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1877
+seq: 1877
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 計之為三宮五度二十四分則以黃道三宮五度所對之数三宮四度三十五分一十五秒與下層三宮六度所對之数三宮五度三十分二十一秒相減餘五十五分零六秒為一度之較乃以一度化作六十分為一率較数五十五分零六秒化作三千三百零六秒為三率設数二十四分為三率求淂四率一千三百二十二秒收作二十二分零二秒與三宮五度之赤道度三宮四度三十五分一十五秒相加淂三宮四度五十七分一十七秒為所求之赤道升度也
+  hash: sha256:7cb81cfb2cd27d470814f67600f054ff4a8d2096594042bfb276ec920cea68a7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b1d291a755f0841a65a04fd0c1360d507c2842fb8840f348239aef597277ea1a

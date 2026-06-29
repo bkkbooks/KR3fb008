@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/561
+seq: 561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭所淂會望時刻亦必是平日分之時而人目所見必為視時故湏以寔會時刻加减平視差分乃淂人目所見為視會也理詳五卷日躔内如啚癸庚為赤道丙庚為黄道甲為赤極設癸丁為赤道上一度則癸為今日午正丁為明日午正而太陽一平日行黄道上一度丙巳當赤道上之壬夫依平日丁為午正而視時寔在壬尚居午東其較為丁壬升差則應以丁壬化時分减丁點平時而淂人目于午前某刻見太陽躔黄道上已也若依平時必俟午正太陽方躔已點安淂合天筭法以黄赤两道升度差化為時分視赤道大于黄道用加小于黄道用减又本表與月離日差表同而加减相反
+  hash: sha256:86821ac5deab4292c84ea0060b7de5b56e4436fc35c3f0754881cdbaee8f3508
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:247cfaabb69a16ea842ca5be57cb79578fd15f8c746ba62ec5f5934aae762c12

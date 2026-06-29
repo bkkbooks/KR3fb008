@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1588
+seq: 1588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 杅復圓距弧求初杅復圓距時以月距日寔行化秒為一率三千六百秒為二率初杅復圓距弧化秒為三率求淂四率為秒以時分收之淂初杅復圓距時求初杅用時置食甚真時減初杅復圓距時淂初杅用時求初杅春分距午時分用交食北極高四十度黃平象限表以太陽黃道經度察黃道宮度取其典時分所對之数為太陽距春分後時分又以初杅用時加減十二時不及十二時則加十二時過十二時則減十二時為太陽距午後時分两数
+  hash: sha256:227b2c0e1c8636caea1f2de7f077e2ebc2c3b278acd92445e6ce408a524a5f84
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ae3b2055c6d8726015aff10c30ef1dabdb99cb010ddf6fc541dc8977bbd33a3f

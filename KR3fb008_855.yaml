@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/855
+seq: 855
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古圖中心為諸天及地球之心第一小圈內函容地球水附焉次氣次火是為四元行月圈巳上各有本名各星本天中又有不同心圈有小輪因論天為實體不相通而相切也新圖地球居中其心為日月恆星三星之天又日為心作兩小圈為金星水星兩天又一大圈
+  hash: sha256:42edfc238073e744a2bb45c15d5335ae599c26c64dda4680d0887c3e4cd2c522
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:192bc4715e55cea522bd3c6689b6e8858b01c07b4f2f62b68d3e684900778827

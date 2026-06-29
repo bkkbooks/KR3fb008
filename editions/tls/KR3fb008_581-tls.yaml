@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/581
+seq: 581
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小半其影為漸大而無窮甲為明骵乙為暗骵甲發光以戊辛巳弧乙受光以丙壬丁弧戊辛巳必大于丙壬丁施大受小其所生癸影為漸展而無窮一明暗两骵等彂光受光各一半其影為平行而無窮如甲乙明暗两骵相等其發光受光必各半周所生癸影為平行而無窮一明骵大暗骵小發光以小半受光以大半其影為角骵漸小以趨盡如甲明骵大乙暗骵小甲發光以戊辛巳弧乙受光以丙
+  hash: sha256:9fb2ae271e0aa2d66f1e7e25d7ad245644aa12bea20772284ea076721da4c1bb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2ddd152c81b2f37b57fc7dd951341daff39db3c4dafbfdad723b5e2e463d712b

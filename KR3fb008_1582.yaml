@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1582
+seq: 1582
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其所對之数為太陽地半徑差又用月離太陰地半徑差表以真時太陰高弧按太陰距地限察其所對之数為太陰地半徑差兩地半徑差相減餘為真時高下差求真時東西差用交食東西南北差表以真時白道高弧交角及真時高下差察其典東西差所對之数淂真時東西差求真時南北差用交食東西南北差表以真時白道高弧交角及真時高下差察其典難別差所對之数淂真時南北差求食甚視緯
+  hash: sha256:dfd67517bb86e7bb7e8f0e0773f5d488cdc737de909713dbecd1eb7b3480293d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:50f2161c62a593c8fd724512318467a6212de7a67042b0bfa824df35fb06bc30

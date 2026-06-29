@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1251
+seq: 1251
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置太陰平引以月引弧加減之為月寔引四復求日月相距以日寔引宮度查加減表相較得日寔均記加減號以月寔引宮度查加減表相較得月寔均記加減號以日月寔均同號相減異號相加淂寔距弧用寔距弧度分查四行時表月距日橫行內如前法查得時分為寔距時加減號同前距時五求寔望置平望以寔距時加減之為寔望如加滿二十四時則進一日若不及減借二十四時減之則寔望退一日算
+  hash: sha256:f1112c5e89b5d394b3c4652bc431d56151203cd349a87bc43ca1c835e671fa3b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1f0a1c7bb264529185f4c70579e5770391fd5b04d3c27da8cd4048df5d6360fc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/999
+seq: 999
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 矢與丁巳日差度二七五二即表中甲丙引數相當之是差也乙太陽距最高為引數求各度半徑即用上圖甲巳為星本天甲為最高設火星距高為甲丙四十度求本天之差依前論星與太陽本天兩差之比例若十一與十即以比例求之法甲巳十與甲巳十一若丁巳日差二七五二前用甲丙太陽引數所淂恒設日星兩引數為等與丁巳本天差度二二八二以加於極小半徑度六三二五日星俱在最卑得甲丙引數相當之半徑以星體距最高為引數即寔自行表內又有距日數者即前算初均時均輪上星距地心線也回新
+  hash: sha256:9ce54db3e5989beab0772a18dc34fd65ac55d649a3182ae1d9faf974283fc729
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5e68a7543f214463aa19132454c4a3c00dc8d78b548e4b5115e723978d4784d9

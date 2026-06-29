@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1373
+seq: 1373
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以積日與火星每日平行一千八百八十六秒六七三五八相乘滿周天一百二十九萬六千秒去之餘為積日火星平行加火星平行應二宮一十三度三十九分五十二秒一十五微淂火星年根上攷徃古則置火星平行應減積日火星平行淂火星年根求最高年根以積日與火星最高每日平行十分秒之一又八三四三九九相乘淂數為積日最高平行加火星最高應八宮初度三十三分一十一秒五十四微淂最高年根上攷徃古則置火星最高應減積日最高平行淂最高年根
+  hash: sha256:265bbb6a7995f27ee30eeda258afb8bc34e479d251df37971a0c00ae01f2e5bf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f511cfec46d17c9f0b4bc0d2713ecfa0f994481bff9d4ce1db7210ad11496a70

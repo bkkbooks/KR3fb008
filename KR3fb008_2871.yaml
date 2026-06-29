@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2871
+seq: 2871
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星地半徑差表金星地半徑差表分最高中距最卑三限列之其前列實高度金星引數自十宮一十五度至一宮一十五度為最高限自一宮一十五度至四宮一十五度自七宮一十五度至十宮一十五度皆為中距限自四宮一十五度至七宮一十五度為最卑限表內分秒卽三限實高所生之地半徑差也用表之法如金星引數當中距限推淂實高三十九度求地半徑差則察中距限實高三十九度民對之數為二分二十秒卽所求之地半徑差與實高三十九度相減餘三十八度五十七分四十秒為本時金
+  hash: sha256:27e30351190ba170a1fe9e75a6159f89f5a0ee94fedc661c2c45209d15cc22db
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:12ea46a3dfde2383726583e039496e47c565b37d68b3ee3506691daa45ae0822

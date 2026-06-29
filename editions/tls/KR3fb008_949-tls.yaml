@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/949
+seq: 949
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 輪星在均輪之最遠甲淂甲乙丁為最大初均角其本輪均輪兩半徑成甲丁一直線為甲乙丁形之底若他處兩半徑不能為一直線故非最大初均角次甲為心用醜甲七五九八為半徑作伏見輪醜為合伏已為退合一測多祿某於漢順帝陽嘉三年甲戌西二月十七日晨擇心宿大星對測測金星在星紀宮十一度五十五分時太陽平行在元枵宮二十五度半距最高九十度金星最高在大樑二十五度相較淂大距度為
+  hash: sha256:71905e6298bbaabef4900267c99ba64fe3c37cd627649dae5f7121281647b72d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:97bae368029547b794b0452863accc11a50c0ed7073329d822ed3a2931151da2

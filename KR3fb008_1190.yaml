@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1190
+seq: 1190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 犯時刻在地平上者取之如在地平下可勿推算求月星淩犯密法先依前月犯恒星術用四率法推淂淩犯時刻次以大陽本日細行與次日細行相減淂較為二率淩犯時刻分為三率一千四百四十為一率求得四率以加于本日細行淂太陽細行以太陽細行查交食九十度媽表淂時分以時分及淩犯時刻午後減十二小時午前加十二小時滿二十四時去之餘為搃時以搃時入交食九十度表查九十度限及限距大頂度用九十度減限距天頂淂中限高度
+  hash: sha256:9cfcea205d55f00236561ecca381575b1d620c4bf52caae2f6df827c76991f9d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:357d3bb334d8933439676d24638712e9da0068784e47384734fdefe360f8cf98

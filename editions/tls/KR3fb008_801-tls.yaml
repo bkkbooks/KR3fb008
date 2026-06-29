@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/801
+seq: 801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 影之底大小依遠近如圖外巳壬辛大圈為定周分度數共作四象限用以取食之方位見下文中有乙戊丙丁小圈以甲為軸能轉動此乃受光形之圈故以丁戊指太陽全徑以甲心及孔之中心與太陽中心正對本圖上安量尺即戊丁中空以兩旁與圈徑平行其尖銳直至大圈以能指度為用量尺上仍有方尺為乙丙中間一小陷道以合于下前後可任進退將用渾器對太陽時便轉中圈令其徑平分餘光之角隨以方尺就之其交徑之點必用號以識之有光無光之邊交徑點亦然即以此定乙甲丙弧分食與不食之形不湏別點如二圖設乙丙丁戊為太陽食形得心在甲丙
+  hash: sha256:22a4a87c23869fcccd5b0ae175ef1187c62cc545eb3f57667e98be7df33d1be1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:045ca8b5d22eea0bbfd0de049cc7febf160aa78de32f24f8858825dd19413019

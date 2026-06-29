@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/577
+seq: 577
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距地線算初均三角形內之第三邊今用變與地半徑為同類以求視差法月最高距地線一度二九為一率五十八度八分為二率測淂月本輪最高距地為五十八地半徑又八分本輪某度距地心線為三率求四率淂月距地數推太陽距地法同地影半徑月之有食生于地影必詳求影之骵勢影之長短以及影徑之大小而後一切食分多寡虧復遲速皆淂其真但地影變昜多端亦有實徑視徑之異而月食時人目所見則皆視地影之徑也一明暗兩骵相遇則生影如圖甲為明骵乙為暗骵甲骵必徔己徔庚發光射乙切其周于丙于丁以生丁戊丙之影乙骵之丙
+  hash: sha256:09ad041b31cc13a0ae5ab0f209f073252285eca493519dc03e88cef9c518ed84
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:79457389af0c08fc9c877aacef822dd01049dd8a49d02d0bf3a6ea103efb4ae6

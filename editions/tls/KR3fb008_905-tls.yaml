@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/905
+seq: 905
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 比例若三與一曆表用此推算求木星兩心之差及最高所在第一測陽嘉二年癸酉五月十八日本地亥正測淂木星在大火二十三度十一分太陽平行在其沖不分平時用者時者以土木兩星之以極遲分刻之間行不及半分故第二測永和元年丙子西九月初一日亥初測木星在娵訾宮七度五十四分太陽平行在其沖第三測永和二年丁醜西十月初八日邜初測木星在降婁宮十四度二十三分太陽平行在其沖前二測中積為一百二十一日又二十三時其間木星平行九十
+  hash: sha256:e07056ae02c8c4feeeb4dab2abca040b7d339a17bc5230dd50a7b2c22a7f12ba
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2539a269e9ff455e26998acdb3aeb7e17abed1751720d234e8931bdaddf310bf

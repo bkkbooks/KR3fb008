@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2671
+seq: 2671
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火星均數表火星均數表按引數宮度分順逆列之初宮至五宮依次順列于前六宮至十一宮依次逆列于後表名初均者火星本輪均輪所生之均數也順度為減逆度為加次輪心距地數者乃次輪心自最高至最卑逐宮逐度距地心之數也次輪半徑本數者乃火星最小次輪半徑與逐宮逐度本天高卑差相加之數也火星次輪半徑在本天最高則大在本天最卑則小故以逐宮逐度之本天高卑差與最小次輪半徑相加為次輪半徑本數太陽高卑差數者乃太陽高卑所生火
+  hash: sha256:0bfb958743ddaa4b4a901befca5ccebb06ced900ecbbc9e11bd481e537fc6a6e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:45b7c2d1f3e62ea69a7320cb98bc4da137f795f5ff6987b8d70fc02a24ff0ca8

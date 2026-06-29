@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1447
+seq: 1447
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推月食法推首朔諸平行及入交求積年自暦元康熙二十三年甲子距所求之年共若干年減一年得積年求中積分以積年與周歲三百六十五日二四二一八七五相乘得中積分求通積分置中積分加氣應七日六五六三七四九二六淂通積分上考徃古則置中積分減氣應得通積分
+  hash: sha256:724c0e8a487a84c4452360d48a4a1ab47c7171c51dede0893061a8c4451c7fb7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2cb63ff68eac150e767705aa185f2ad62cd1361fa266ca7eedd0d3bd8edb3deb

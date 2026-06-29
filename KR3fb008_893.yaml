@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/893
+seq: 893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度五十分今兩測視經度差為三十四度三十四分相減淂三度十八分為均數平行大視行小星亦在本圈之上弧依上測作圖甲乙丙為土星本天取甲點為土星第一測所在未定最高左右故任取之從甲取前兩測之中積平行七十五度四三而至乙乙為第二測土星所在又從乙取後兩測之中積平行三十七度五二而至丙丙為第三測土星所在次於本圈心外任取一點如丁以當黃道心即地心也作黃道大圈又作甲乙甲丁乙丁三線又從第三測丙遇丁作丙丁戊線截圈界於戊作甲戊乙戊諸線成多三角形凡星視行之度在黃道丁心其平行之度則在本圈之周
+  hash: sha256:fa5e7a7c00dbfbd9cc27d88bb485cf14c3f50cba16b73f09e9c45c4bd639c530
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:71b82216eecec4bb9b380feb514f50633457db99e0eaa6efeb5e96b267f6354d

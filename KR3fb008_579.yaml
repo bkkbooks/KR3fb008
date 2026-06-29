@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/579
+seq: 579
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁上半周受光為明丁丙下半周彂影為暏恆以一半受光于彼靣一半射影于此靣而相反一明暗兩骵任一運動影隨之移如甲為明骵戊為暗骵甲發光射戊生巳影設以戊暗骵移至丙則為丁影若以甲明骵移至乙則為辛影任一轉動影必隨之一影心與明暗兩骵之心為一直線如一圖影心戊必與明暗兩骵之心甲乙為一直線一明骵小暗骵大發光以大半受光以
+  hash: sha256:5128f07bfe69c014ee2a156d9159b1c8a7cf6db568f0f1002b00594c4eaffdbc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5dd6fe211051e8a521a6daa629b3cae54b34e1f25a30cc1cba9e284d9f84f93b

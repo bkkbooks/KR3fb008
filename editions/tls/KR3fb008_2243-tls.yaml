@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2243
+seq: 2243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃平象限表黃平象限表自北極高一十六度至北極高四十六度按正午黃道宮度逐段列之三宮初度為春分故表從三宮初度起表名春分距午者乃春分距午赤道度所變之時分秒也每一度變時之四分每十五分變時之一分每十五秒變時之一秒春分距午宮度愈遠則所變時分愈多不因北極高下而殊也黃平象限者乃本時黃平象限之宮度也限距地高者乃本時黃平象限距地平之高度也其過天頂之南北則以界線分之蓋中國地面在赤道北黃道恒在天頂南自北極高一十六度至
+  hash: sha256:2d7bb0a68e4b50990a0bf2bd2e48fec6a103171a2ba1dbd52676e87bff231a48
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:686eaea935d9adabdb5e7932ac44c021e35bde8da2ee5427208f2cfba13a062e

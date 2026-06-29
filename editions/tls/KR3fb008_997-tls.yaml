@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/997
+seq: 997
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徑六萬三二七五作丁壬歲輪未有太陽及本天兩差者設此時太陽在最高甲具本天為甲子圈則於庚壬徑加壬午日差與甲丙等淂乙午歲輪與日天等大又回歲輪心在最高於庚午徑外又加午沖本天差淂庚沖為本時真半徑合沖圈為真歲輪所謂星數也求各度日差如圖甲乙為日本天甲為最高設太陽距最高甲丙四十度即從丙作丙丁線為晃丙弧正弦丁巳其大餘矢次用中比例法甲巳全徑二度與甲巳最大日差二千三五若丁巳大
+  hash: sha256:5f173ab56ece05093701bcfffb6d54bc0f81ea00e265c93a34ee3d7ac2b69354
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7afd8713ac9370e7e1722626e933ad392d9571ca6d79b1f6e6ac0df1bc177de9

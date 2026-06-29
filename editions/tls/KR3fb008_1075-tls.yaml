@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1075
+seq: 1075
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庚線此線橫伏見輪黃道丙面之中恒與丙戊平行未用乙甲庚形形之甲庚線在黃道面上庚為直角有乙甲有乙庚求乙甲庚角淂辛未弧即星在乙之緯度也表中於乙丙書之名為前緯金星前緯合伏時為一度二分退合時至九度二分水星前緯順合時一度三十四分退合時三度三十三分
+  hash: sha256:cab788a03e651ef729924c1aa098981fa8ef0d8bfea22da2bec96acd59451377
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1df4f7ebd454977dbfa1cd8d6559b4d57377b3b693c075a2c8d37c0580177656

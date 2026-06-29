@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/821
+seq: 821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之分外有木距架為丙丁已全形見月離卷以丁已柱正立取地平柱端作運軸使衡能上下轉以入架腰定乙丙太陽出地平高度而全架則又周轉如轆鑪也用法日食時表衡對太陽以甲乙方之面正受其影則上下輪環轉而方尺與餘光兩角或積或平行其量尺所指輪邊度分即太陽本食所偏向高弧度分也又本衡未幹架腰自指太陽高度則得時分因得太陽及高弧距正東西以加或減於日食之角偏去高弧度分終得食影偏去正東西度分設衡下無架可分太陽高度則以
+  hash: sha256:30f90a2129e47026940452b71ac5f44447a5042635806e685a71df3c86f49292
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8ac5607e0502087bf74a6aaed7dc44e5e5064e9454cd23761db5ebcb897b613a

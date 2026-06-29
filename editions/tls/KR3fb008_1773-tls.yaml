@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1773
+seq: 1773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 點乃為食甚而此時月心與影心相距甚近食分為最深也如圖甲乙為黃道甲丙為白道甲為交點丙為實望之度丁戊巳圈為地影乙為影心甲乙與甲丙等丙乙為寔望時距緯癸點為食甚癸乙為食甚距緯較丙乙為近乙癸弧引長必遇白極與白道成直角求之用乙甲癸弧三角形有癸直角有甲角有甲乙黃道度與甲丙交周度等求淂甲癸弧與甲丙相減淂癸丙差變時為食甚距寔望時分以加減寔望之時淂食甚時刻㝎月食方位
+  hash: sha256:a3d77efdf68d7bb20be5a5321e11a558f006a013984deb290cf34f26573c1e6e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:54442c247dc8c0cc286273b3b41aa7f9d1655fc7630a0386b652b0eef6082184

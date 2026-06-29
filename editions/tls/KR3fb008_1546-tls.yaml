@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1546
+seq: 1546
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用月離太隂初均数表以太隂寔引宮度分察其所對之度分秒淂太隂寔均并記加減號求寔距弧太陽太隂兩寔均同為加或同為減者則相減淂距弧一為加一為減者則相加淂距弧求寔距時用交食周日諸平行表以寔距弧度分秒察月距日相當之数取其所對之時分秒淂寔距時㝎加減之法典距時同求寔朔置平朔加減寔距時淂寔朔加滿二十四時則寔朔進一日不足
+  hash: sha256:93d724e8d4fea7e6cd47de747ef0bc7eca0543ed33edfbe1fea69d27941ad4aa
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5acf7b20349869ecdf94dc375c6b8e01eee57f08da577b7b437dbe7e15449a2c

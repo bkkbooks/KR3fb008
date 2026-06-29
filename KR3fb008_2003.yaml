@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2003
+seq: 2003
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃白距度表黃白距度表按兩交前後分順逆列之兩交後之各宮列于上初宮至二宮係正交後為北緯六宮至八宮係中交後為南緯其數同兩交前之各宮列于下三宮至五宮係中交前為北緯北宮至十一宮係正交前為南緯其数同太陰距交實行在上六宮者用順度太陰距交實行在下六宮者用逆度用表之法以距交實行之宮對距交實行之度其縱橫相遇卽所求之距度也表分六限依距限相近者
+  hash: sha256:dd0680dd0f293ecd37c58598095444af36c393ec5f7e3208322aba8f3d8b38c4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bb53fb53ddb91a8c83d9b13cc2765c905bd3e8711801bd9ba944a2b91558af5f

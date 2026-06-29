@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/921
+seq: 921
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五度二十八分視行二測到三測九十三度四十四分相較淂一度四十四分為均數均數小知兩測並在最高同方或左或右以三測作圖如土木二星法此三測置火星在本道下不求其緯蓋火星緯行甚大沖時益大測其經度者亦不淂指為黃道度又不淂為本道度然測法戓用黃道度或本道度其差有限不礙於算甲乙丙為三測丁為黃道心任取之從甲乙丙三測到丁作甲丁乙丁丙丁三線又丙丁
+  hash: sha256:a2ecff9a5445e7309647f6b2d53ec22eb4a227fdbbfddad8c2f83c6ac561311d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b7711962db3b944bb5ff314924d62aadc4275b7cc159862901f3f06d60c5c1ec

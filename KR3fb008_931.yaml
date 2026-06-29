@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/931
+seq: 931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星最高經度所在也後第谷考定火星兩心之差為十萬分之一萬八千五百五十分分之本輪半徑一萬四千八百四十分均輪半徑三千七百一十分其比例若四與一測金星最高所在及兩心之差上土木火三星各以本行能沖太陽其本天之平行不與太陽同外更有年歲輪與太陽為沖為會當沖會時星必無歲輪之均數故用三測沖太陽時刻度分以求最高與兩心之差金水二星不然其行恆隨太陽即乙太陽平行為其平行雖亦有離太陽時然其距度或左或右東西不一且時多時寡會日之時一順一逆人目
+  hash: sha256:667d49ef05378c561453a030dcf5cd58931458cc44674e7a1032f58842ecf9f6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:21a0bd21d562eb622bc45e199db2a7c20805a5bc0ca3351075c75856dc1d53b8

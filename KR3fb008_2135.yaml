@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2135
+seq: 2135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦象考成朔望策表朔望策表以朔策望策及太陽平行太陽引数太陰引數太陰交周逐月列之前用月数者自一月至十三月之月数也表名朔策者乃逐月平朔距首朔之日時求逐月朔策法以朔策二十九日一十二時四十四分零三秒一十四微零七纎累加之即得逐月朔策望策者乃逐月平望距首朔之日時也求逐月望策法以望策一十四日一十八時二十二分零一秒三十七微零四纎與逐月朔纎相加即得逐月望策太
+  hash: sha256:922b56045225671b7b2759c841a2418e699727c8e28dfebfce2e9d3640964028
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4b0da80ca82aed23c7192df062ebf5ffd76a34af57598a0389da0d6b0ef7e22d

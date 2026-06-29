@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1085
+seq: 1085
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所求視緯星骵在辛若異類兩緯相減定南北之向以緯之大者為主表前後緯所用中分各不同者観上圖見前中分當距交三宮最大至交點則無中分後中分在交點則最大至距交三宮無中分悉與前中分相反此自然之勢也然中分本為作表而設若依三角法隨時推算即不必用中分矣測五星正交行五星正交亦有行動但其行順天而左旋非如太陰羅計之逆行也多祿某於漢順帝永建時測淂火星正交在降婁宮二十五度五十一分第谷於萬曆二十八年測淂在大樑宮十六度五十三分兩測之中積為一千四百六十四年其行差為二十一度二分以差數為寔積年為法而一淂一年之行為五十二秒五十七
+  hash: sha256:ade1953128d95bf28b1f87506fab9a022cffa4ec9449a092f8e146ce212e2788
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2a4bf9e6adebeef7133eccd39ef245bd461a0b8cf68650cfd0a076f38adbcdcb

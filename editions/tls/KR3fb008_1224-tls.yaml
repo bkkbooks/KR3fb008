@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1224
+seq: 1224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以定交周查太陰距度表用中比例法得月寔黃緯記南北號視定交周宮度宮至五宮月緯在北六宮至十一宮緯在南置月寔黃緯以氣差加減之得視黃緯凡月寔緯在南以氣差加月寔緯在北以氣差減若寔緯在北而氣差大于寔緯當以寔緯轉減氣差為視緯其緯變北為南置前并徑內減去一分再以月視緯減之為并徑減距分如月視黃緯大于并徑不及減者則不食倍日半徑為一率十分為二率並徑減距為三率求得四率六十妝之為食甚分秒十四求初虧時刻
+  hash: sha256:a286bb94ec4123717b5cb022fd4f860009ef22e3ea34a08f09f7be981c1fb305
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2d3640781a87d24bd28c0bc09ca39a0f0ddd6b0b92c95f023401c306109fe133

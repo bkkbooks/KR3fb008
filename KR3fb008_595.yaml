@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/595
+seq: 595
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 角可見月距地雖同而影徑又以太陽而大小而未子申角必小于午子申角相減淂午子未角為地影差即表申辛子日距地相當之差數餘依壬子距地遠近推之測地影視徑用前後兩月食擇食之法欲太陰去其最髙𤰞𤰞距同度則其入影之小大亦同而月距黃道不必同亦不必全食因以兩距度及兩食分求其所過之影以淂視徑之度多椂菒于周襄王三十一
+  hash: sha256:157262befe9b7f54f34a43ab979682a10972a20f0795512be75a8ff2c424f087
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:125f99bc6848e8244bc0e5eebed4d69890ed58a078c5c895f0f064d883c5563d

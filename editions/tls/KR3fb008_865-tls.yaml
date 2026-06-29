@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/865
+seq: 865
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五周平行與太陽同今以天周化度為寔積年變日為法而一淂各星一日距太陽之行土星二萬一千五百五十一日十八分中積変日之數日法六十分下仝行二萬五百二十度五十七周化度之數除之得一日距太陽之行五十七分四十三秒四十一微四十三纎四十芒木星二萬五千九百二十七日又三十七分行二萬三千四百度除之淂一日距太陽之行五十五分九秒二微四十六纎二十七芒火星二萬八千八百五十七日又五十三分行一萬三千三百二
+  hash: sha256:5a1cd562cc770029187e4c4df82b3d085b090517ab6d22c8df24acbe7a4c86c2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c32a7d06a56b725a4bdde333d7ad4153a10d8253692d6056f20b303c51f71431

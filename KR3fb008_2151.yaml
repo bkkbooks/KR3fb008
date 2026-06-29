@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2151
+seq: 2151
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周日諸平行表周日諸平行表以一日內之時分秒逓降列之其法與日躔月離周日平行表同表名太陽平行者即逐時逐分逐秒之太陽平行也月距日者乃逐時逐分逐秒之太陰平行內減去太陽平行之数也太陰引数者乃逐時逐分逐秒之太陰自行也太陰交周者乃逐時逐分逐秒之交周平行也用表之法如求五時一十二分二十四秒之太陽平行則察五時所對之太陽平行為一十二分一十九
+  hash: sha256:d91bf4935e2868d5c50a2f67849ec24dde7e3e8e9f77d77abdd66f3d9e799d75
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3577af9d79b160b3dec312025406870e7197f840137b50b8c09ee7869aa0f234

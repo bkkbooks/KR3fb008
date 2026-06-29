@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1461
+seq: 1461
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用日躔太陽均数表以平望太陽引数宫度分察其所對之度分秒淂太陽均数并記加減號求太隂均数用月離太隂初均数表以平望太隂引数宮度分察其所對之度分秒淂太隂均数并記加減號求距弧太陽太隂两均数同為加或同為減者則相減淂距弧一為加一為減者則相加得距弧求距時用交食周日諸平行表以距弧度分秒察月距日相當之数取其
+  hash: sha256:79849f64ab3319de45ea4e09120d4fef58b0d53bf7d922c9bdef0bd87a3421c3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a0e89b35cd26ec6cb8c95aefa8229c9bca94cbe10e2245dee0b34e83efcb499d

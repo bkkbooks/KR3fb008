@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2121
+seq: 2121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名赤道經度嵗差赤道緯度嵗差參宿七加四十三秒四十八微減五秒一十四微參宿五加四十八秒五十二微減四秒二十八微參宿十九加四十五秒五十微減四秒二十五微參宿一加四十六秒三十四微減三秒四十七微觜宿一加五十秒一十一微加三秒三十七微伐二加四十四秒四十八微減三秒三十八微伐三加四十四秒三十七微減三秒二十六微參宿二加四十六秒一十六微減三秒二十六微
+  hash: sha256:a59f8586abb967df484ee3b0a4615ade5ebc82244e8bf7ab7641bc1ad16afab5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:14af925515bfde1ee81ba021e18470951ea73547e20e4a0ecfdf2730929acc46

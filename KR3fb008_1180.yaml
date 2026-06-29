@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1180
+seq: 1180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以次日宮度分內減去本日宮度分餘度分化分為一率一千四百四十為二率本日星未到宮界之餘分為三率乘除淂四率數妝之得時刻求五星最高卑中距法凡星引數或自行度在三宮九宮為中距宮為最高六宮為最卑火金水三星以寔引次寔引查之土木以平引查之即知星某日遇最高或最卑及中距之上行下行求五星留逆法凡五星經度自一度二度而行者為順如從十五度十四度而行者為逆本日係十度五分次日仍十度五分者為留第三日係十
+  hash: sha256:77d6a63c7c48ae2989dce40e34fb5d5eafe776b9ff3f497ebced4e1e30b7d3df
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bc6363b7c4ab7562835cbf6ab7f982c4c0acfaef6003b7eb28ffb2b905df3cd4

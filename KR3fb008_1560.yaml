@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1560
+seq: 1560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度取其典時分所對之数為太陽距春分後時分又以食甚用時加減十二時不及十二時者加十二時過十二時者則減十二時為太陽距午後時分两数相加加滿二十四時去之用其餘淂用時春分距午時分求用時月距限用交食北極高四十度黃平象限表以用時春分距午時分察表內時分相近者取其典黃平象限相對之数淂用時黃平象限宮度典太陽黃道經度相減餘為用時月距限度太陽黃道經度大于用時黃平象限宮度者為限東小于用時黃平象限宮度者為限西求用時限距地高
+  hash: sha256:eab6a90eb50fb96a65c8d278da95b90da8fa35ee7bdaf69c0035ba5556078557
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9226ab26c94f3f493d2baba1358942f71d5bb28f62fe9d49c8fcfb1a38a48a94

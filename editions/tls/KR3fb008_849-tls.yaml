@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/849
+seq: 849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交食諸表曆元後二百恒年表曆元前搃甲子表六十零年散用五行表康熙永年表十三月表加減度表四行時表加減時表黃赤道距宿鈐表升度表太陽距度表視半徑表太陰寔行表食分表月食時分表黃道九十度中限表太陽距赤道表南北高弧表天頂黃道兩圈交角表太陽太陰視差表時氣差表日食月行表時氣差簡法表
+  hash: sha256:804444ab9442ebfccc2cc36038114ed2fdf806525baf4fbb28bbef040cce399d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:cc4731a6086938192c5d6cfad7461fc6fc965bc491759b6b9da56509805ff8e9

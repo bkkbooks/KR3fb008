@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2055
+seq: 2055
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名黃道經度黃道緯度等東海初宮一度二十三分北二十度三十八分三斗宿一初宮五度五十分南三度五十分五織女一初宮一十度二十七分北六十一度四十八分一徐初宮一十一度二十分北二十六度五十九分三天弁一初宮一十二度五十六分北一十七度四十一分三右旗三初宮一十九度一十一分北二十四度五十六分三右旗六初宮二十度二十七分北一十四度二十八分三右旗五初宮二十一度二十八分北二十度一十五分三
+  hash: sha256:b1138ff9d1af55a7239626c5ffc617053ab6479ee77d6b361a973b61cc2d8812
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ff6011245a654d2a64d9355c6be615ac76a524e20eef382f966e555f4337c73b

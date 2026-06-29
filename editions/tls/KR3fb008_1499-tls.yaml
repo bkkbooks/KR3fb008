@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1499
+seq: 1499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求復圓交周置食甚交周加初杅復圓距弧得復圓交周求初杅距緯用交食黃白距度表以初杅交周宮度察其所對之度分秒淂初杅距緯并記南北號求復圓距緯用交食黃白距度表以復圓交周宮度察其所對之度分秒淂復圓距緯并記南北號求初杅緯差角用交食緯差角表以併徑分及初杅距緯分察其所對之度分淂
+  hash: sha256:10cf2b8aff3b48cd1af31250e9257f2c031670deee810adcf04c13201c106faf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ac3af2d7dd9d43919358fcb7134ff2d1dd32117f0223ff718afcdb86a7999ac3

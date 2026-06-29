@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1937
+seq: 1937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六分求其初均数則以一宮三度四十分所對之数二度四十一分四十六秒與下層三度五十分所對之数二度四十二分二十九秒相減餘四十三秒為一十分之較乃以引數一十分為一率較数四十三秒為二率設数六分為三率求淂四率二十五秒小餘八枚作二十六秒與一宮三度四十分之初均数二度四十一分四十六秒相加因五十分之初均数大于四十分之初均數故相加反是則相減也淂二度四十二分一十二秒為所求之初均数其號為減卽為減均也
+  hash: sha256:01fdca33d0cf6016847de01bbebee00b2d12903a42a32f84b3353089e68cb2af
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4ae2fc0d45e653f730d570bfa9e0a7a33e880817c228ce885c9d3f59afded4ad

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1031
+seq: 1031
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均一度五十分淂辛壬弧三十七度十分加庚子壬半周淂三百十七度十分乃星骵在辛距庚平遠所行度數也依此可定金星伏見行之曆元若再用一測求伏見輪工之行以兩測中星行輪周度數為寔積年為法而一淂星每日伏見行度分測水星伏見行周赧王五十年丙申西十一月十五日邜初多祿某測淂水星視行在大火宮二度三十五分緯南二度二十分當時太最平行在
+  hash: sha256:edc3266a69f9f6a26631db4a2f3ba878f830c0d94ed6517c344ad6943938c642
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:69e6d502f19657735e352609fe0a84eab89baff9da3fe8c764911bc91efd31d1

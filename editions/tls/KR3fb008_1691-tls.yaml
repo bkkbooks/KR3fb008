@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1691
+seq: 1691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子初均角相并內減去倍離餘度未子申乘圈角淂申子甲角以子未丙辰丙径線為平行故也有子申邊求淂子甲申角為二均数又以申為心取申酉為半径一十一萬七千五百作戌酉次均輪戊為㝡下酉為㝡上月徔戌向亥歴酉右行即倍離度
+  hash: sha256:32db23168f3da9966b058aaa4593270f4664e29a7ef36f7a770735d7850fb821
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:02f6e719fa256b0651be012ce928e3da6342da096e364dd3caf6882d39215de3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1105
+seq: 1105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秒火星順疾四十七分二秒逆疾三十五分十一秒金星順疾一度十六分逆遲三十八分水星順疾一度五十四分逆疾一度五分五星畄逆凡五星畄逆之界以歲輪上人目所到之切線為限在切線內為畄巳上為順巳下為逆但此切線因輪心居本天高卑不等而切線所分歲輪上下二半之度分在在不同故星留逆之跡初非有一定之限試以五星晨夕二畄折半必非合金水沖土木火之度分湏合日行之遲疾輪心之高卑人目之切線乃可淂之不淂如古法目為定率
+  hash: sha256:16a46e06387cb1612b40e901bc4bc2c9968c3fff6caadfd762283f85382c351c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4d898f867d714e05f018b47cae7526b72326c49aebb344c09d31072f6100ca66

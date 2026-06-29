@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1019
+seq: 1019
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十三分三十秒自行為二百五十九度四十二分二十秒時太陽視經躔星紀二十三度三十分四十秒如圖甲為地心庚丙為自行距最卑之餘依前法作本輪均輪求淂丙甲乙初均角十度三十三分三十秒以加平行淂一百四十八度五十七分為火星經度與太陽視經相減淂三百二度二十六分二十秒為歲輪上合沖已弧星在已又以星寔經與所測視行相減淂四十度十九分即乙甲已次均角也用甲乙已形求
+  hash: sha256:99b5148d050fec51a249f491ff3092064781bcac5e89090d548fcddcba48808e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bc1d102fdd706a2db9ff53d011518149741ecefe99165c259d197563506cc64d

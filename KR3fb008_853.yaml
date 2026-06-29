@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/853
+seq: 853
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽天內因謂五星本天皆以日為心別作新圖其各星之天能相通相入不為實骵如金星以太陽為本天之心故在上得全光在下則無光火星以太陽為本天之心沖日時庳于太陽割入太陽天之內皆與舊說相反但如此雖與所見相符而揆之于理多有不順故臣梅文鼎謂五星之本天實皆以地為心其以日為心者乃歲輪繞日圓象成圍日之虗圈耳第谷以日為心之圖乃借象之巧莫初非正法又持此說與錫山草莽臣楊國鉤反覆計論鈞素精曆學深以為然蓋如是既不慎于古而復與所測合矣夫五星以地為心則本天之高卑以定繞日成象則沖合之進退以明二設反殊途而同歸庶為得其理巳
+  hash: sha256:cd91c42ccd370dcd604f3ea48711d446abfb2010e16c61c9bd24e2b5e12d9a0d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c449141cad77dc18e9120bbd6a51fa471f0ce7fb7c20ca766491c9dbc9484b51

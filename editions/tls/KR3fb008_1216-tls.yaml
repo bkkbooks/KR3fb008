@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1216
+seq: 1216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以交角慶及月高下差查時氣差表以交角檢左直行以月高下差檢上橫行即得時差順度用上時差號逆度用下時差號以月寔行化秒為一率六十分化秒為二率時差化秒為三率推得四率數為近時距分置視朔以近時距分加減之得近時日在限西則加限東則減十一求真時置搃時以近時距分加減之得近搃時日在限西則加限東則減以近搃時查九十度表如前法取之得日距限記東西號以近搃時入九十度表如前法取之得限距地高用日赤道緯及近時如前法查高弧表得日距地高度
+  hash: sha256:19147fe69396d27dc1d2a94c89744fbd1144d7da5a402c92a21a161655e5a36d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f16bed65db9b284ffe5bcb7c6608268241a6bc4ee375203d8c71d0c70cf7cf77

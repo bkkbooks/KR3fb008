@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1485
+seq: 1485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推初杅復圓時刻苐十求初杅復圓距弧用交食月行表以併徑分及食甚距緯分察其所對之分秒淂初杅復圓距弧求初杅復圓距時以月距日實行化秒為一率三千六百秒為二率初杅復圓距弧化秒為三率求得四率為妙以時分妝之淂初杅復圓距時求初杅時刻置食甚時刻減初杅復圓距時淂初杅時刻不足減者加二十四時減之初杅即在前一日命時之法典平望同
+  hash: sha256:85d07c57a8de99f0b193d9068236a0fab02d164a8eab06435e0d613ac670fbae
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8c16f9bd45e37032cc590c388c75298c4c45d6eb406fcbae8154bbcf186184de

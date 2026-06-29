@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1176
+seq: 1176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 望用朔望策弦策如後交食內定朔定望法求之亦可求月入宮法以月視行次日宮度分內減去本日宮度分餘度分化為一率本日未滿整宮之餘度分化分為二率一千四百四十為三率乘除得九妝之淂入宮時刻求月升法以朔日之月離宮度定之朔時月在子宮十五度至酉宮十五度為正升酉宮十五度至未宮初度為斜升未宮初度到寅宮十五度為橫升寅宮十五度至子宮十五度為斜升求五星伏見晨夕
+  hash: sha256:90e4fa213a7ee8f212a71761eccfb0fb6f19ac5768d57c160803f4dfd3842a97
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5e03827744f06ce37d79f4423c779c78d53bc7636df08cb03ea78827e4f61304

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/543
+seq: 543
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月小亦不食矣求中會寔會中會者日月之两平行仝度也寔會者其两寔行仝度也夫日天大而行遲月天小而行疾以月較日月毎日離太陽十二度十一分二十七秒至二十九日五十刻一十四分三秒而月逐及于日與之同度謂之朔策斯時日月之两平行俱仝宫仝度是為平會但日月非平行各有本天盈縮遲疾之差則平會時二曜之平行雖同度而其寔行或在平行之前或在平行之後必以平會時二曜本天字差相消相息以淂日月寔度相距之弧用以變時或加或减于平會時刻乃淂二曜寔行同度之時分是名寔會也
+  hash: sha256:8b9514ce4507826aa95d575ffd6b75c4f29d86c617ac454207686f551e74513d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c22afff474a71054bb3bbaec8918cc10be3f5b304eeeb0bac476f5bb03b3860f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1021
+seq: 1021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙已淂六萬四千七百三十八分乃太陽在最高沖近處火星在中距時之歲輪半徑也又萬曆二十八年庚子西三月初六日本地戌正二刻測淂火星在鶉首宮二十九度十八分依法求其寔經為鶉火二十九度三十二分時火星遇本天最高為五十分太陽躔娵訾宮二十六度二十七分相減淂火星寔經距太陽二百七度四分為歲輪上距合伏之度又以寔經典視測相減淂三十度十四分五秒乃次均數也依法求乙已邊淂六萬六千五百八十六分為太陽在中距火星在最高之歲輪半徑較前測多一千八百四十九分可見其無定數也
+  hash: sha256:319bde4cb52fb21b2ce66e19f52113f71460a336221a6b2f09d99e1ed1f86392
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:21b3fe344282e24764ebf0c6339aab5a4a43bf76bf79bb5ecdaf110c9cf91ea4

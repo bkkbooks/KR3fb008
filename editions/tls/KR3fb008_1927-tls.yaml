@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1927
+seq: 1927
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清蒙氣差表清蒙氣差表分兩叚列之第一叚自初度至二十二度第二叚自二十三度至四十五度皆地平之高度其所對之数則逐度之蒙氣差也用表之法如測淂七政或恒星高四十度求蒙氣差則察四十度所對之数為一十秒卽所求之蒙氣差與視高四十度相減餘三十九度五十九分五十秒為實高如先推淂實高三十九度五十九分五十秒則以蒙氣差一十秒與實高相加淂四十度為視高
+  hash: sha256:61e89f3c312ff5027b759f6046358a4dd62bfbef07c4155739845b16bb2c0d47
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4414c893d94d8fc2b9aefefe56c96808c042aa9f5cfe1bc032dea61b286c726b

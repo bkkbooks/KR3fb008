@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3025
+seq: 3025
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四二八五三六卽所求之星距地也又設水星引數為一宮二十六度求距地差則察一宮二十六度與距地差所對之數為四一二七八卽所求之距地差也若伏見實行或引數有零分者亦按中比例法求之
+  hash: sha256:61d7eb74318103d5afba00e4b8f00c3e5e2fa7074b9cdc5e1dc1b077b853aa3a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a2c04931119d9c6707aa6e65e7c39a9983ed5bdd12ddca000d62c8fa8c0f2d9e

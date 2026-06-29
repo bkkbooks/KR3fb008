@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/731
+seq: 731
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道上月心與影心同在甲點乙甲為影半徑甲丑為月半徑相并得乙丑與邜丙等夫巳丙白道也則太陰自邜點入影為初虧自此漸行至甲與影心同而邜丙為入地影之數以視月全徑丙未約倍大馬故月全入影內人目巳見全骵暗黑而太陰又必再行至甲方為食甚而邜丙為食分倍大于月徑第食既巳上分秒全在影中人目不能見耳此食之最大者為正食至若月心在子甲子為寔距度與影周相切于乙則不食以寔距度與兩半徑并相等故也若距度反大于兩半徑并子甲則月在地影之外更不
+  hash: sha256:46a66927c575d643a25ec2ebd0a196c1ab2916477d9d727be5edbd10a759586d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0ed8d7f0b8bd5aed8be8f3692bbf4bf5041c0c4afde09b58905a5b6fecd1abdd

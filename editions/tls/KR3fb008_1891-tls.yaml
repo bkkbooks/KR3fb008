@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1891
+seq: 1891
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道赤經交角表黃道赤經交角表黃道赤經交角乃黃道與遏赤經圈相交之角成正弧三角形即極所謂黃道交極圈角也亦按二分二至分順逆列之二分後之各宮列于上二至後之各宮列于下太陽寔行在上六宮者用順度太陽實行在下六宮者用逆度用表之法以實行之宮對實行之度其縱橫相遇即所求之交角也設太陽實行在黃道實沈宮五度求黃道赤經交角則察實沈宮五度所對之数為七十九度三十五分三十秒即所求之交角也實沈宮在上故角順
+  hash: sha256:56edcba25affe0ce7cfd4a49c36b65e36d0b3421b5016735888df2c304e3d452
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8fb1f12264ae4f42fa593ead2f3be4a9a5ca91dd319d454b72a20507240bd797

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曆志卷五日躔恆星
+  hash: sha256:90a5bfac9b428af351989f93126961884b9ec0dfd0f74e27dfd426f50b310374
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:89aee16a10c375b2301e80afe4b4a05a385a03de81fbbf9d2967c41a39fc258f

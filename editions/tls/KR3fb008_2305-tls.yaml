@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2305
+seq: 2305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度五十二分三十二秒即所求之黃道高弧交角也若日距限及限距地高皆有零分者用中比例三次求之原表限距地高自二十度起至八十九載二十五度至七十四度各數餘類見度今止
+  hash: sha256:ae617bce8b67d37526c85794e802ed2bc8de44199ff1519fef887398a06518b4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1c1d74c115778d830201093eaea2eb64db110ee0e5e28c959b2bf4ad72685342

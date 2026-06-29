@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1049
+seq: 1049
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖甲為地心癸甲為黃道面上線丁甲為本道面上線丁甲癸為本道與黃道之交角土星測定二度三十一分木星一度二十分火星一度五十分丁點為本道南大距處置歲輪心小圈為歲輪其面與甲癸黃道平行合伏時星在合其緯角為庚甲合比本道庚甲丁為小退沖時星在沖其緯角為庚甲沖比本道庚甲丁為大可見歲
+  hash: sha256:f171d20df845689a44a9d7f32ee25eaf4cc0cfb7200f520ad4ca3fdf8a27c2dd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7475228b408135e8dd00908bf0954bb6af1050d8f6409c04490ddb139182b573

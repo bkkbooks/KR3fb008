@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2873
+seq: 2873
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星之視高也如先測得金星視高三十八度五十七分四十秒則以地半徑差二分二十秒與視高相加淂三十九度為本時金星之實高也高度有零分者滿三十分以上則進作一度不用中比例因逐度地半徑差所差甚微故也
+  hash: sha256:c5c1b271129c476f7efd149f79f6cdd84f2542cc105d1d28bd6052e7fbefb319
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a92729f6331da77ba8acd46f8e4779597d1b0d66e95637c779d2d223385fe8cd

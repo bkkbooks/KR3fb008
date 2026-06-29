@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2079
+seq: 2079
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恒星赤道經緯度表恒星赤道經緯度表亦以曆元康熙二十三年甲子之赤道經緯度列之上列星名次列赤道經度次列赤道緯度下列星等用表之法設康熙甲子年月離赤道一宮二度四十分求赤道宿度則察恒星赤道經緯度表牛宿第一星赤道經度為一宮初度五十一分取相近畧小者用與月離赤道經度相減餘一度四十九分即太陰入牛宿一度四十九分也若求曆元後各年之赤道宿度則
+  hash: sha256:59cbbb115551e0a4fe6b26cb61e903d49fc8f80f7ae10e3edbbe32d5e924d5e2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ac78c852fb02a97cfda09cc18fd957087ef18971bf24d8f5c4445756c1e2c3f3

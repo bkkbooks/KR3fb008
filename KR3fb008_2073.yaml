@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2073
+seq: 2073
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名黃道經度黃道緯度等貫索一十宮七度四十九分北四十四度二十三分二昏宿一十宮一十度四十一分北初度二十六分二昏宿四十宮一十四度五十八分北八度三十五分二蜀十宮一十七度四十分北二十五度三十六分二巴十宮一十九度五十七分北二十四度零六分三梁十宮二十七度五十五分北一十七度一十九分三房宿一十宮二十八度三十一分南五度二十三分三楚十宮二十九度零七分北一十六度三十一分三
+  hash: sha256:22dfffef934fb557416c0b34024586d52b36739a295218ec81f8349304074ecd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5b6426fa37330f314adb299c55ef9285f6c2968cdffb13f7e1c8a34f324cb8ab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1453
+seq: 1453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行加首朔太陽平行應初宮二十六度二十分四十二秒五十七微淂首朔太陽平行上攷往古則置首朔太陽平行應減積朔太陽平行淂首朔太陽平行求首朔太陽引數以積朔與太陽引數塑策一十萬四千七百七十九秒三五八八六五相乘滿周天一百二十九萬六千秒去之餘為積朔太陽引數就愛首朔太陽引數應初宮一十九度一十分二十七秒二十一微淂首朔太陽引數上攷往古則置首朔太陽引數應減積朔太陽引數淂首朔太陽引數求首朔太陰引數以積朔與太陰引數塑策九萬二千九百四十秒二四八五九相
+  hash: sha256:4328cb11eecf01c36741cf196d0c619645ac17c6d7d3100bb2333fa0c364625b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a8c7f83acae73284b4a761e2cb9028783d693f0a3d767111d73adfb97dc64aab

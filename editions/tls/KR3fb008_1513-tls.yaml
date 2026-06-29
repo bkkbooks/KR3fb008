@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1513
+seq: 1513
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以太隂半徑倍之為一率十分為二率併徑內減𢃄食兩心相距餘為三率求淂四率即𢃄食分秒𢃄食分秒者太陰出入地平時典地影相掩之分数為太隂全徑十分中之幾分也
+  hash: sha256:e937e4c3d47288551d145302436b10f4eb8ff469b5dc2a156a326421898af37a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b209b9e4ae02ca82a1e576af9aacfefb5c18d18f6a151ec56f8fbf6598785af2

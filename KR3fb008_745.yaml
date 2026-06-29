@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/745
+seq: 745
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊因太陰在丁得交常為甲丁而庚丁與庚乙若甲丁與甲戊若甲丁設四十五度與甲戊最差之限得六分甲戊少于甲丁在啚為巳丁若甲丁在食限內其與甲戊差又不及三分矣因兩道之最大距不遇五度故也設甲丁弧二十度而以甲乙與乙丙之比例推甲丁與丁戊得丁戊距度一度四十二分今作戊巳與甲乙為垂線又以甲丙與丙乙之比例推甲戊與戊已亦得戊巳相距一度四十二分可見丁與巳見有差戊巳與戊丁有微差不足見也今不用戊丁開方而用戊巳又以戊巳平分太陰入影與出影之弧其不得有差甚明矣
+  hash: sha256:6fd549443475f7ff843a714b45183c2be1dbf924299fd43f5b046d9224643d32
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:480519ee4abc2337930c0ff818e0db42cb058c19e0cdd55e4de81af03ab9a98d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/553
+seq: 553
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 最高所在設太陰平行在丙距最高引數為庚丙丙為心作戊子本輪即于本輪上取戊丁弧與庚丙等作丙丁線與庚甲平行次以丁為心取丁丙之半為半徑作已辛小均輪已為最近徔已取戊丁之倍度為已乙月止乙作丁乙丙乙甲乙諸線成丁丙乙丙甲乙兩三角形其丙甲乙角為加减差法先用丁丙乙形有丁已本輪半徑五千八百有丁乙均輪半徑二千九百有丙丁乙角倍自行之度求淂丁丙乙角及丙乙邊次用丙甲乙形有丙甲十萬全數有丙乙有乙丙甲角丁丙甲角為戊丙丁角自行之餘內减去丁丙乙角餘為乙丙甲角也
+  hash: sha256:177803feb21781804c1c2f3ad48f23aac41408e4d14c34f4ac75e3f3bb956e2d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8c9b10c1e86dbc42da63d029122ca56cdd2723c818b94f76370204d61abc7577

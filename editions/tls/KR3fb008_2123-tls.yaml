@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2123
+seq: 2123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 參宿三加四十六秒零一微減三秒零一微參宿六加四十三秒一十七微減二秒二十微參宿四加四十九秒二十二微加一秒五十微井宿一加五十五秒一十四微減二十七微天狼加四十秒五十三微加二秒五十一微南河二加四十九秒四十六微減六秒一十三微南河三加四十八秒四十六微減七秒一十七微北河三加五十七秒零六微減七秒三十二微外廚一加四十五秒四十八微加十秒三十八微
+  hash: sha256:da82331ca95706f00c1de90072398e6d060efa956e8978623659b694ecca31ce
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fccd91d1c851ad75efcf832742afb56e8f214aa6402fcc46002729b5b6b05f96

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1290
+seq: 1290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行淂最卑平行最卑平行者乃所求本日子正初刻最卑距冬至之行度也求引數置平行減最卑平行淂引數引數者乃所求本日子正初刻均輪心遇本輪最卑之行度也求均數用日躔太陽均數表以引數宮度分察其所對之度分秒淂均數並記加減號均數者平行與寔行之差也最卑後六宮為加最高後六宮為減求寔行置平行加減均數淂寔行寔行者乃所求本日子正初刻太陽寔在之行度也求宿度以積年與歲差五十一秒相乘淂數與曆元甲子年黃道宿鈐相
+  hash: sha256:33461bdfba854c69451c1e0e1c643eea7024751ca306092da66f1b4f2d610d6a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e45aaa130f72a4d969bf99b26265fffe0a40130a3cd640d60d20cb7a578878f3

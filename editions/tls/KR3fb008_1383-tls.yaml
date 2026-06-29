@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1383
+seq: 1383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求半較角以次輪寔半徑與次輪心距地數相加為一率相減為二率半外角之正切線為三率求淂四率為半較角之正切線檢表淂半較角求次均數置半外角減半較角淂次均數星距日初宮至五宮為加六宮至十一宮為減求本道寔行置初寔行加減次均數淂本道寔行求距交寔行
+  hash: sha256:f88f707d4bd23c0092749b400808a97ac47c507e7b2782251eabb09250eb2d84
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6430eec91b028dbce6da2537e5b9210daf050502fa1f9735102577ee39dbcb4e

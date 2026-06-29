@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1590
+seq: 1590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相加加滿二十四時去之用其餘淂初杅春分距午時分求初杅月距限用交食北極高四十度黃平象限表以初杅春分距午時分察表內時分相近者取其典黃平象限相對之数淂初杅黃平象限宮度又置太陽黃道經度減初杅復圓距弧復加減真時東西差真時距分加者亦為加真時距分減者亦為減淂初杅太陰黃道經度两数相減餘為初杅月距限度太陰黃道經度大于初黃平象限宮度者為限東小于初杅黃平象限宮度者為限西求初杅限距地高用交食北極高四十度黃平象限表以初杅春分距午時分察表內
+  hash: sha256:17732357131434b49334cc39f64b3d9ba35a168bde5ef24c79f5bffc746c462e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:cca917167cee6c745197b4d1f16fb071af795ee52b5b4e755d50581b15fd5515

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1769
+seq: 1769
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 象限西而交角在四十五度已上則初虧右稍偏下復圓左稍偏上交角在四十五度已下則初虧下稍偏右復圓上稍偏左在黃平象限東者反是若月在交前後有距緯則必求緯差角與交角相加減為㝎交角然後可㝎其上下左右也如圖丁為天頂外圈為地平癸丁子為子午圈甲丙為黃道丑為黃平象限丁乙戊為高弧乙為日心巳為初虧月心庚為復圓月心巳午庚午俱為月緯距黃道北設日在黃平象限西則初虧以巳乙午緯差角與甲乙戊交角相加淂巳乙
+  hash: sha256:0d7029150e6bc21af21bef25bc5a42ccf17dec7001ccd975d760860c67c6f8c8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:60a067b966c5d1c83faa402b04cd62777d4ffbc33b2500e23d6940b1710247e1

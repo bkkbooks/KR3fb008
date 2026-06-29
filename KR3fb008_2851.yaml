@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2851
+seq: 2851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星距黃道表金星距黃道表按次輪兩交前後分順逆列之兩交後之各宮列於上初宮至二宮係正交後在黃道北六宮至八宮係中交後在黃道南其數同兩交前之各宮列於下三宮至五宮係中交前在黃道北九宮至十一宮係正交前在黃道南其數同前後列距次交實行度中列逐宮逐度之星距黃道數卽次輪半徑與次緯正弦相比例之數金星距次交實行在上六宮者用順度金星距次交實行在下六宮者用逆度
+  hash: sha256:c7a9690096d44e6505f9615cfad0f1afa64e7f896278fdbf40fb4a6900ca9c9e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1ea914862cab56bdb6d20b3d57a8c7d666cf10c4b471a92e1114f8eb34ea1254

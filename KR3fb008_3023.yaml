@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3023
+seq: 3023
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星距地表水星距地表以伏見實行宮度求星距地以引數宮度求距地差初宮至五宮列於上六宮至十一宮列於下前列順度後列逆度中列逐宮逐度之星距地及呀地差星距地者次輪心在最高水星行次輪周逐宮逐度之距地心線距地差者乃水星次輪心自最高至最卑逐宮逐度之距地心線與最高距地心線之較也宮在上者用順度宮在下者用逆度用表之法設水星伏見實行為初宮二十四度求星距地則察初宮二十四度與星距地所對之數為一
+  hash: sha256:a477793d3a72296b7177b40c963ac98f18df4945bb292a6f5192b3890a13b573
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3f04ee279060b429c34f3263c334dcfb461da62ae70cb24e1c06c6ed35e3dce5

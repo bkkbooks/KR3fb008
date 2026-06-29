@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/909
+seq: 909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自淂乙角十九度四十六分有三角求三邊淂丁乙二八七六四戊乙五九四五九戊丁三三八九一即三角之正弦二甲戊丁形有戊角六十六度四十一分三十秒乘甲乙丙弧為木星第一至第三測之平行有甲丁戊角三十八度四十八分甲丁丙角為第一至第三測木星視行度甲丁戊角為其餘自淂甲角三十四度三十分三有三角求三邊淂甲丁九一八四甲戊六三六三戊丁九六二六八各對角之正弦數三戊丁線有兩數用變率法求戊巳線比甲戊為若干淂後戊
+  hash: sha256:a183d545309e4b286b75321f5e01afc528a2bbcc48619faa5b8541366be2c415
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6bb9528ae5f6d6049afc80098193f85333d680dc18bf187a5b41c3b9c9713bae

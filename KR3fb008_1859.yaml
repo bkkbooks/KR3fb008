@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1859
+seq: 1859
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度一十八度零五分二十四秒相加因二十分之距度大于一十分之距度故相加反是則相減也淂一十八度零六分四十三秒為所求之距度也
+  hash: sha256:9e541a55b6982a5d513e8158c3798be3c4ccf4d8301161281760e959b95b95c9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d46751f991ab086b936b1145dbed314b0912a0beb77c3e0a9219940f4ce3abd3

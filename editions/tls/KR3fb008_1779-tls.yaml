@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1779
+seq: 1779
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則易象限之左右也求黃道高弧交角如圖甲乙丙為子午䂓甲為天頂乙丙為地平甲丁戊為高弧巳庚辛為黃道壬庚癸為赤道庚為春分子為北極子丑丁為遇極經圈丁庚為月距春分黃道度丑庚為月距春分赤道度壬丑為月距正午赤道度即食甚時太陽距子正赤道度壬庚為春分距正午赤道度月寔行度在丁求黃道高弧相交之丁角先用更辛癸形有癸赤道高之餘角有庚春分交角有庚癸春分距地平弧即春分距正午之餘弧求淂辛角為黃道交地平之角并
+  hash: sha256:56be49bc209deeb86473b7803cd61a4a20e80f6f105dff2d1a8af89e2949ccc4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e8e52fbfef56327d89d8c75134777d4f9909a326c6371be49189ad48c37fc114

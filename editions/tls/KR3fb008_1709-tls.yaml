@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1709
+seq: 1709
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在中距之地影視半径四十四分四十三秒爲凖求太陽之光分命地半径甲已爲一百分則太隂在中距朔望時距地心之甲丑爲五千六百七十二丑甲寅角即爲四十四分四十三秒用甲丑寅直角形求淂丑寅爲七十三小餘七八甲寅爲五千六百七十二小餘四八又用甲已寅直角三角形已爲直角求淂已甲寅角爲八十八度五十九分二十四秒于象限内减去已甲寅角又减去丑
+  hash: sha256:f4198c946dab711b051c33845e46ac6cd8af83c18ab68d9b6ca7e2f11cded8e2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e134ceb588dd97e6c58badc4e070d9fd769be5efd1b0de1d833d38695765d523

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1385
+seq: 1385
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置初寔行減正交平行淂距交寔行求升度差以半徑一千萬為一率本道與黃道交角一度五十分之餘弦為二率距交寔行之正切線為三率求淂四率為黃道之正切線檢表淂黃道度與距交寔行相減餘為升度差距交寔行不遇象限為減遇象限為加遇二象限為減遇三象限為加求黃道寔行置本道寔行加減升度差淂黃道寔行求星距黃道線用火星距黃道表以距交寔行宮度察其所對之數淂星距黃道
+  hash: sha256:c50981824d3123161bd25ab3bfdc5780a84f8e56fd41ac8bcae802a2db9af5c8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:60e0844418d02c8790cd4bb4b2f629f99df40c033b0190094d849a0e51d38256

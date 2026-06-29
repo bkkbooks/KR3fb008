@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/985
+seq: 985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊甲壬次均角也戊甲壬形有壬戊甲角八十度三分十秒有戊甲邊有戊甲壬角求戊壬邊淂一萬九千二百九十四分八十秒為木星歲輪半徑測火星次均火星視行較他星行之獨異其故全在於歲輪蓋土木二星本天大而歲輪小火星則本天大而歲輪亦大又土木金水之歲輪半徑皆有定數而火星則乍大乍小毫無定率西士測淂火星歲輪半徑從無一相等若是以其行天也有時逾二百餘日不及天週一宮或越四旬而即遇一舍進退盡縮莫可端聣又因歲輪甚大有時在日之上有時在日之下人目見星骵大小絕殊第谷遂謂火星之本天不距為心
+  hash: sha256:16ce34765c45beee45efa06c763bad11f97e108ba27fabc69e7d5c4edc1ed336
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:297891e63ec083975c7ad977ffb130c25050533ba6a676f459644b8f4c39685d

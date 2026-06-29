@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1419
+seq: 1419
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求視緯以星距地用數為一率星距黃道線為二率半徑一千萬為三率求淂四率為視緯之正弦檢表淂視緯求黃道宿度依日躔求宿度法求淂本年黃道宿鈴察黃道實行足減本年黃道宿鈴內某宿度分則減之餘為黃道宿度推五星伏見及交宮同度法求土木火三星合伏時刻土木火三星黃道寔行與太陽寔行同宮同度為合伏皆乙太陽
+  hash: sha256:2f163ec86479176ed85282f63533cb86c6f69df2425bb2f7b8846742fe3c4e8f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8c60779e7671b1335a72a025bf0820d246c4f89e18f50dad152e166ef14557ca

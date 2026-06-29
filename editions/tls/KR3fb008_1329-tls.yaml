@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1329
+seq: 1329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求黃道宿度依日躔求宿度法求淂本年黃道宿鈐察其黃道寔行足減本年黃道宿鈐內某宿度分則減之餘為黃道宿度求月孛宿度月孛平行足減本年黃道宿鈐內某宿度分則減之餘為月孛宿度求正交宿度正交寔行足減本年黃道宿鈐內某宿度分則減之餘為正交宿度求中交宿度
+  hash: sha256:ba87c65b158a9d7bba145f69178c3ebb2438be0c7e45e47df8a6c2e8c53e490c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:28f3e99c855a79de156c07aef8873f637dac8afc7b95e302273af444af6c3e70

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/647
+seq: 647
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經有未乙月距地心有未乙癸角髙度之餘求乙未癸角得亥申髙𤰞差列表太阳高𤰞差同理南北東西差太陰既有髙𤰞差使視度𤰞于寔度則寔會時太陰不居寔處而居于視䖏其經緯悉與寔會不同今從黄極作弧過太陰視䖏限其黄道上經度與寔會時經度之差有東西差又從黄極緯圈上視太陰視度其距必更偏南而圈上所限月距黄道之度有南北差此二差皆因髙下差變太陰之寔度為視度遂使目所見之緯以與寔度相較有東西南北两差其南北差變太陰之寔距度為視距度東西差變太陰之寔經度為視經度因此前寔會時所求
+  hash: sha256:4cecdec3c12888136e2a40284ed88180c2dba6e5c78467ee79f06053a58d48aa
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4e9f15831c9298a2a6ecddece72619a0e98752bb48ac53f7dc94b4aeb51e67eb

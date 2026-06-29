@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1602
+seq: 1602
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 于復圓黃平象限宮度者為限西求復圓限距地高用交食北極高四十度黃平象限表以復圓春分距午時分察表內時分相近者取其典限距地高相對之数淂復圓限距地高求復圓太陰高弧用交食太陽高弧表以復圓月距限及復圓限距地高之度察其所對之度分秒淂復圓太隂高弧求復圓黃道高弧交角用交食黃道高弧交角表以復圓月距限及復圓限距地高之度察其所對之度分秒淂復圓黃道高弧交角
+  hash: sha256:be3a64a7ec06ce70e25b569f9a7f75bd030e4605490a56ef925f50084cafce20
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ac4cc7697027f843d9c52ce0ecf330cb2ff478ea2d7bfc42c9b1b646823c35a5

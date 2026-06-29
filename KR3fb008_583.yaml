@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/583
+seq: 583
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 壬丁弧其所生影為丙甲丁角骵之影漸小以盡于甲此角骵形乃日照地所生之影也蓋日骵大地骵小其影必為角骵漸小以至盡故地影止䏻食月不䏻及土木火等星若使日小于地或相等其影將一直至上為無窮之影而恆星亦有食今皆不然則日之大于地而日為地影所食信矣求地影實徑地影固為角骵而月食時所當之影又有大小不同則以月之距地有逺近故也蓋食甚時月正在影中使月距地逺其所當影必小距地近所當影必大以影為角骵故故月自最高至最𤰞一百八十度皆各不等如圖乙為日骵己為地球丙甲卯為地
+  hash: sha256:dfc5715d88133492d9353ef94b20ae4cda8f737733068240b49c5b188119c59c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3fc96e76ae51265f8618f3f6fa629449b41a909fb2ffbacd47d7fff1eb8e143d

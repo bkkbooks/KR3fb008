@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2561
+seq: 2561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用表之法以距交實行之宮對距交實行之度其縱橫相遇即所求之星距黃道線也設土星距交實行為初宮五度求星距黃道線則察初宮五度所對之數為三八二七卽所求之土星距黃道線也若距交實行有零分者亦按中比例法求之
+  hash: sha256:2f56ed592caa64357b15a985342693f8e82bf7018ea1dd911ce6ceaccbad3c97
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d77a6d4c827f6a03967de91c4f6cb49c97bde44cf409554a6bac90b2088837f7

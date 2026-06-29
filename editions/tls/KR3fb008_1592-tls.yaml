@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1592
+seq: 1592
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時分相近者取其典限距地高相對之数淂初杅限距地高求初杅太隂高弧用交食太陽高弧表以初杅月距限及初杅限距地高之度察其所對之度分秒淂初杅太陰高弧求初杅黃道高弧交角用交食黃道高弧交角表以初杅月距限及初杅限距地高之度察其所對之度分秒淂初杅黃道高弧交角求初杅白道高弧交角置初杅黃道高弧交角加減黃白交角四角五十八分三十秒食甚交周為初宮十二宮初杅月距限東則加月距限西則減食甚交周為五宮六宮初杅月距限東則減月距限西則加淂初
+  hash: sha256:5a7ac86f835e054ee6f5d8bb90311c0050e56e4924045c9125df90deb10ff8c1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2bb75c5f1478de8514d84f85e230d5fc99af6d831a7c61069a79c11c4fe9fcec

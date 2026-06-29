@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1427
+seq: 1427
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未及太陽寔行為合伏本日已遇太陽寔行為合伏次日求時刻之法以本日太陽寔行與次日太陽寔行相減餘為太陽一日之寔行以本日星寔行與次日星寔行相減餘為星一日之寔行乃於行一日之寔行內減太陽一日之寔行餘為一率一千四百四十分為二率本日太陽寔行內減星寔行餘為三率求淂四率為距子正之分數以時刻收之淂合伏時刻金水二星行度合伏時速於太陽故與土木火三星相及而理則同也求金水二星退合伏時刻金水二星退行與太陽寔行同宮同度為合退伏亦名退合皆乙太陽寔行未及星寔行為合退伏本日已遇星寔行為合退伏次日求
+  hash: sha256:ed4fa1a41c66c2771bff9ea66d1b9748eda48bac3e46aecabcadc151f5ab4573
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ee557274db89c80b0e3ff6db7c546dc9502b7093bc13f81db5d2aaec9a693b45

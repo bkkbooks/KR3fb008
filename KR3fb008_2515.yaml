@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2515
+seq: 2515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曆象考成土星均數表土星均數表以引數宮度求初均及中分以星距日次引宮度求次均及較分初宮至五宮依次順列于前六宮至十一宮依次逆列于後表名初均者乃土星本輪均輪所生之均數順度爲減逆度爲加中分者則逐宮逐度次輪心距地心與最高距地心之較爲六十分中之幾分也求中分之法以土星次輪心在最高距地心之一五六
+  hash: sha256:46296b19b3a0f1a9fee419f980ad09fd44222d508eb016572a49c14d9b6b127e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8cd96033cace888f18c48d7926bb1a34a290db4be502ba3ec7c7cfa15dd0e9b5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2187
+seq: 2187
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視半徑表視半徑表按引数宮度分順逆列之初宮至五宮依次順列於前六宮至十一宮依次逆列於後表名日半徑者乃太陽自最卑至最高逐度之半徑分秒也月半徑者乃太陰自最高至最卑逐度之半徑分秒也月距地者乃太陰朔望時自最高至最卑距地之遠與地半徑比例之數也太陰兩弦時距地最遠為地半徑之六十二倍有餘距地最近為地半徑之五十三倍有餘表為交食而作故止列朔望時距地之數影半徑者乃太陽在最高所生之地影太陰自最高至最卑所
+  hash: sha256:1bc4fdec2acb57af9afd5cd6d74371f548ab0789434f60b232085d701d71e807
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3ef33fac39d956353802bb9e9d5102dd1950870d1665845d101cdd369fd7e877

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1825
+seq: 1825
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即所求之均数也表以十分為率若引数有零分者按中比例法求之設太陽引数為二宮五度一十二分求其均数則以二宮五度一十分所對之数一度五十二分三十七秒与下層五度二十分所对之数一度五十二分四十六秒相減餘九秒為一十分之較乃以引數一十分為一率較数九秒為二率設数二分為三率求得四率一秒小餘八收作二秒與二宮五度一十分之均数一度五十二分三十七秒相加因二十分之均数大于一十分之均数故相加反是則相減也得一度五十二分
+  hash: sha256:bbd5fdf1aff24d9fd5e74a9cc026c4e09ef53e0be55e89ce54e3b3d29399bfb5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2b14cd7853702891602cbbc97933865ff328b6892ba5b965614389521c037da9

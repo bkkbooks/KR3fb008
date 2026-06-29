@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1182
+seq: 1182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度六分為留順初如係十度四分三分為留退初求五星伏見法以本日星視經度入五星晨夕伏見表查某星黃道上距日限次以星本日緯度再查其應加應減之數以南加北減于距日限為定限次以本日星視經與太陽寔經相減視所餘度即本日之星距日度在定限以上為見已下為伏或以天球安定北極出地四十度據京師言求晨在東地平上用本日太陽距星之數求夕在西地平上用次日太陽距星之數乙太陽所在之宮緊挨地平又看此日之星宮度相距太陽之遠近又用缺規矩較星距太陽之定限如上星定限距太陽十一度半金星
+  hash: sha256:f0ba7881d35bf44fb71162e0cb6b70579fa3ff966686d89b27bce9baa2dbf8c5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:68ad1c295a0e43fcc1ba3354d8da25c83cdb31fae2430eac62a287ab6916a7a5

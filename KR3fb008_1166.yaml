@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1166
+seq: 1166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立夏氣策一百三十五日七時四十八分加日差十一分小滿氣策一百五十日二十二時三十五分加日差十二分芒種氣策一百六十六日十五時二十七分加日差十二分夏至氣策一百八十二日九時三十三分加日差六分半小暑氣策一百九十八日四時八分加日差四分大暑氣策二百十三日二十二時十五分加日差二分立秋氣策二百二十九日十四時三十五分加日差三分處暑氣策二在四十五日四時五十五分加日差六分白露氣策二百六十是十六時八分加日差十分半秋分氣策二百七十六日時七分加日差十六分
+  hash: sha256:da5b682f6b3b516702ed86f4f86e727776022d1c7950f079d27934dba2d3cda7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:61496e94da8caa41686abf7f435b2449f810ce5bd363f62124f60eab9849c3f3

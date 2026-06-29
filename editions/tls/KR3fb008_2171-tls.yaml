@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2171
+seq: 2171
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃白距度表黃白距度表按兩交前後分順逆列之兩交後之各宮列於上初宮至二宮係正交後為北緯六宮至八宮係中交後為南緯其數同兩交前之各宮列於下三宮至五宮係中交前為北緯九宮至十一宮係正交前為南緯其數同太陰交周在上六宮者用順度太陰交周在下六宮者用逆度此即月離黃白距度表六分之一乃朔望時之大距專為交食之用故以十分逓析較月離加詳馬用表之法以交周之宮對交周之度分其縱橫相遇
+  hash: sha256:e2dcac647fa15aaa4c1807c6466bf61c4eb40a52a20c0db7a6a3a18798dab676
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:431d8131dddbb260f8db50f1ed695e1309026ed0662258a63e49d05fd97ca42b

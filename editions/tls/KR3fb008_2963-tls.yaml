@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2963
+seq: 2963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星距限表水星距限表按正交中交分順逆列之初宮至五宮為正交後列於上六宮至十一宮為中交後列於下水星距交實行在上六宮者用順度在下六宮者用逆度用表之法以距交實行之宮對距交實行之度其縱橫相遇卽所求之距限也表分南北兩限依星在黃道之南北取用水星次輪面與黃道相交之角南北不同故分列兩表設水星距交實行一宮二十二度星在黃道北則察黃道北
+  hash: sha256:ec1a9cece58cd6774b7dc60473d5316e746dd7adeeaf9c9af73459f4cac985ef
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5230349a0a5b3cbb2f3640ba60ba847364edfd7b08b50f09676906cbc3c13d3d

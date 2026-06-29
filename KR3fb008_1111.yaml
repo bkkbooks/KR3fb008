@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1111
+seq: 1111
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 線與戊甲一千九百八十五度乃金星極遠之距地也若極近時淂三百度中距即一千一百四十二度依法水星極遠距地為一千六百五十九度極近六百二十五度中距與太陽同五星視差五星視差之理即地半徑差與太陰太陽同祗因距地甚遠差數極微且不嘗用故不設表算淂金星極遠時視差為二分弱極近為十
+  hash: sha256:24af7d6202ad28f04356fd57523e1d21504cb551cabcdf25adc533a10402682a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:990d722ffdd3e61959c9c0bb4f8eddf5b7388ccbc41c82306076c5622f9a78fc

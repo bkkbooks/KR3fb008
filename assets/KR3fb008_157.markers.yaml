@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fb008/bkk/v1/markers/157
+seq: 157
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p77.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup72, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3fb008_tls_001-p77.s2}
+  - {type: line-break, offset: 16, content: '', id: KX_2_dup73, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR3fb008_tls_001-p77.s3}
+  - {type: line-break, offset: 34, content: '', id: KX_3_dup73, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR3fb008_tls_001-p77.s4}
+  - {type: line-break, offset: 44, content: '', id: KX_4_dup73, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR3fb008_tls_001-p77.s5}
+  - {type: line-break, offset: 62, content: '', id: KX_5_dup73, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fb008_tls_001-p77.s6}
+  - {type: line-break, offset: 80, content: '', id: KX_6_dup75, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3fb008_tls_001-p77.s7}
+  - {type: line-break, offset: 89, content: '', id: KX_7_dup75, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3fb008_tls_001-p77.s8}
+  - {type: line-break, offset: 101, content: '', id: KX_8_dup75, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR3fb008_tls_001-p77.s9}
+  - {type: line-break, offset: 119, content: '', id: KX_9_dup74, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3fb008_tls_001-p77.s10}
+  - {type: line-break, offset: 127, content: '', id: KX_10_dup73, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR3fb008_tls_001-p77.s12}
+  - {type: line-break, offset: 139, content: '', id: KX_12_dup75, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3fb008_tls_001-p77.s13}
+  - {type: line-break, offset: 164, content: '', id: KX_13_dup72, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR3fb008_tls_001-p77.s14}
+  - {type: line-break, offset: 183, content: '', id: KX_14_dup71, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR3fb008_tls_001-p77.s15}
+  - {type: line-break, offset: 201, content: '', id: KX_15_dup72, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR3fb008_tls_001-p77.s16}
+  - {type: line-break, offset: 219, content: '', id: KX_16_dup74, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3fb008_tls_001-p77.s17}
+  - {type: line-break, offset: 237, content: '', id: KX_17_dup73, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 245, content: '', id: KR3fb008_tls_001-p77.s18}
+  - {type: line-break, offset: 245, content: '', id: KX_18_dup73, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3fb008_tls_001-p77.s19}
+  - {type: line-break, offset: 270, content: '', id: KX_19_dup74, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 276, content: '', id: KR3fb008_tls_001-p77.s20}
+  - {type: line-break, offset: 276, content: '', id: KX_20_dup72, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3fb008_tls_001-p77.s21}
+  - {type: line-break, offset: 301, content: '', id: KX_21_dup69, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:f50e6d25c243298629398dc711cc7420350633e3caf1c5318cd63f046ae78be6

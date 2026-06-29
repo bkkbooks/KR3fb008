@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1574
+seq: 1574
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時太陰高弧按太陰距地限察其所對之数為太陰地半徑差两地半徑差相減餘為近時高下差求近時東西差用交食東西南北差表以近時白道高弧交角及近時高下差察其典東西差所對之数的近時東西差求食甚視行以用時東西差倍之減近時東西差餘為食甚視行求真時距分以食甚視行化秒為一率近時距分化秒為二率用時東西差化秒為三率求淂四率為秒以時分收之淂真時距分加減號典近
+  hash: sha256:8184ba3bc5e733c0c36b3fd05d91a9bec9a3226d830334888ef19edf97d2289a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:324667f9dbc3397c5e57ad895eda059479155f6d687680e2be20e28c89c99434

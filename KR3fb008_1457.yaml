@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1457
+seq: 1457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求逐月望太隂交周置本年首𦍤太隂交周用交食𦍤望策表察正月太隂交周望策宮度分秒典首𦍤太隂交周相加淂正月望太隂交周以下逓加交周𦍤策一宫四十分一十四秒淂逐月望太隂交周求太隂入交月数視逐月望太隂交周自初宮初度至初宮一十四度五十四分自五宮一十五度六分至六宮一十四度五十四分自十一宮一十五度六分至十一宮三十度皆為太隂入交苐幾月入交即第幾月有食也太隂距交前後可食之限一十四度五十四分故逐月望太隂交周在此限內者為有食推平望諸平行第一
+  hash: sha256:9f1f84eb414c651e740606ef257df78b85f2e72e446f252d2b851b45a88d1ea1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:810d52572902fceac05b51d246d005aa662fd77f1ca056e90ab38e9878f2af1b

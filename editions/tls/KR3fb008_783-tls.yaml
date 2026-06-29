@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/783
+seq: 783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所差時刻得其所差度分今姑依廣與圖計里畫方之法約畧定各省加減刻分若欲真切湏在本地親測考驗以定地之經度乃無悮耳盛京奉天府約加二刻江南江甯府及福建州府約加四分山東濟南府約加五分山東太原府約減一刻九分湖廣武昌府河南開封府約減一刻陝西安府廣西桂林府約減二刻四分浙江杭州府約加十二分江西南昌府約減十分廣東廣州約減一刻五分
+  hash: sha256:3023f3423cb70038b38f44ba02d73d4027880a373cd22e6c52c2b9b78d6fe96d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4e40e2fc7969da4cc43aa3dfff8ed9bbc22a59defdcb99d9e1f7fb6b92f78b42

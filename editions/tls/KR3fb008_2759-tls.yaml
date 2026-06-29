@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2759
+seq: 2759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火星地半徑差表火星地半徑差表分最高中距最卑三限列之其前列實高度火星引數自十宮一十五度至一宮一十五度為最高限自一宮一十五度至四宮一十五度自七宮一十五度至十宮一十五度皆為中距限自四宮一十五度至七宮一十五度為最卑限表內分秒卽三限實高度所生之地半徑差也用表之法如火星引數當最高限推淂實高五十三度求地半徑差則察最高限實高五十三度所對之數為四十秒卽所求之地半徑差與實高五十三度相減餘五十二度五十九分二十秒為本時火星之
+  hash: sha256:5fd8baf762017f3df89e963bd61afcce387a92b1b91096c1408040c7122846f6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a6b68ab74b9768751c18a70c8d1e632a65e366b1a360b3fbd0c485ef55a4490c

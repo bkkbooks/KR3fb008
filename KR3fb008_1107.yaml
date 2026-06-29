@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1107
+seq: 1107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五星距地五星之距地各遠近不同土最高木次之火次之金又次之水星最下今求其遠近之距亦如太陽太陰法以地半徑為度如圖庚壬為太陽天外圈為土星本天乙甲為全數十萬設星在本輪最高歲輪最遠如戊求戊甲最遠距地法丁戊歲輪半徑一四二六與庚甲太陽天距地一千一百四十二度太陽中距之數因歲輪與日天等大故也若丁甲本輪最高距地心線一度五八五四與丁甲若干以加戊丁淂戊甲一萬二千九
+  hash: sha256:a2ad9b9a70fd9f85f82213281512ac0f5048a92fb7fb97614e9e6c5f713360b9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:89bc1f6b76ca19a9d40d22fd3dedf6d6d531c1ea280b447d752fffe71af99074

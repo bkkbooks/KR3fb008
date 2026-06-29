@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1693
+seq: 1693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 望時月在戌西弦時月在酉今倍離為申子則徔戌取戌亥弧與子申䓁月真骵在亥作亥申亥甲两線成申甲亥三角形形有申甲邊有申亥半径有甲申亥角倍離弧求申甲子角為三均数也未以三均亥甲申角與二均子甲申相減餘子甲亥角為二三均数用以減寔行淂月視經度也測黃白大距度測大距之法先推淂月離黃道鶉首宮初度又在黃道北以此時地半径差最微故而距交適足九十度時候至子午線上測之淂地平髙度乃于髙度內減去赤道髙及黃赤距緯度餘即為黃白大距度也今用此法測淂朔望時之大距為四度五十八分三十秒上下弦時
+  hash: sha256:2546d69cde8090b8ae92c8aea7956b5c6d577093cae5f76736203d087b541227
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e156debfe102bac74b2ec1c09bdaed4d4b1af7d3dd75aa3b7afa72b0ea5d9cab

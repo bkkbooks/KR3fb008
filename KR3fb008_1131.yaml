@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1131
+seq: 1131
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治曆者貴明七政運行之理不徒恃乎成法然得其理而不習其法又或空立而無據上言七政之理巳詳兹以推算七政經緯躔度日月交食諸術偹載于篇用為推步之準庶本末無該理數無舉而前此三角測量之法本輪小輪之用益為真切而可信云求太陽經度先求距至日時查二百恒年表本年天正冬至後第一子正紀日係何干支又視本日是何干支計中間積日共幾何日分為距至日此七政同用
+  hash: sha256:5cf973526e050d4d09bed2a7ead1e79036a50027ceafa23ca5e78b7b1070a8ee
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0e4121779e5f8c75867b548ebb47215686fe7336a7f9e87a7bc9397742f90a68

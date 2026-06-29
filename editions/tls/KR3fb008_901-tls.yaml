@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/901
+seq: 901
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八求巳丁兩心差依幾何三卷二十九題法丙丁丁戊兩線內矩形與庚丁丁壬兩線內矩形等又二卷五題法庚丁丁壬矩形及巳丁上方形並與庚巳方形等今置庚已半徑為十為全數其方形與戊丁偕丁丙矩形積相減餘一三八五九八為巳丁上方根開方淂巳丁線度一一七七二為兩心之差也九戊丙弧平分之于辛作已辛線截丙戊於癸癸為直角成巳丁癸勾股形形巳丁有丁癸以戊丙線半之與丙丁相減淂丁癸求丁巳癸角得壬
+  hash: sha256:ae4906278806fc78a50e2d7ea171fc70602f1db783c00ffdceb3c53c48f9d2be
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bacb5d82ccd15cb98efc543d11be8f33d0c82612b0c5140bc60c3051477db29d

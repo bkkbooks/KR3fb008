@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1359
+seq: 1359
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用土木均數表以星距日次引宮度分察其與次均所對之度分秒淂次均察其與數分所對之分秒淂較分並記次均加減號求寔次均以三千六百秒為一率較分化秒為二率中分化秒為三率求淂四率為秒以分收之為加差與次均相加淂寔次均加減號與次均同求本道寔行置初寔行加減寔次均淂本道寔行求距交寔行置初寔行減正交平行淂距交寔行
+  hash: sha256:bef848e4541d5c1308490e9dc5dedc242a6481ee9174bc8324c1847121d22059
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b01b67067c2cab0fa50b59cda4fae2684cbc9347e968acaa974a7cc06002308e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2163
+seq: 2163
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月距日實行表月距日實行表亦按最高最卑分順逆列之最高後六宮列於上最卑後六宮列於下前後列引数度中列逐宮逐度之月距日實行月距日實行者一小時月距日之實行也本輪心之行度為平行一小時恆為三十二分五十六秒二十八微內減太陽一小時之平行二分二十七秒五十一微餘三十分二十八秒三十七微為一小時月距日之平行然平行雖同而實行則有遲疾因有均数之加減故也求法與太陽實行同太陰引數在上六宮者用順度太陰引數在下六宮者用逆度用表之法以引數之宮對引數之度其縱橫相遇即
+  hash: sha256:4dad0a4709c88a56d86ce6b536acd910e6e5fad377493719695b0d5f4c552fd6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:767e8b8ebb64bafe749ed1b318c2d1b1de8c20e8c28fba8367e2c35124b7adbd

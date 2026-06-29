@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2131
+seq: 2131
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心宿一加五十四秒五十八微加九秒五十六微韓加四十九秒五十九微加八秒三十一微尾宿一加一分零五十二微加七秒五十六微帝座加四十一秒三十五微減四秒五十四微宗正一加四十五秒零五微減二秒四十六微宗正二加四十五秒四十六微減二秒二十三微箕宿一加五十八秒二十八微加一秒一十九微宗人南十五加四十八秒零一微加一秒二十微
+  hash: sha256:6bca3a360deec39ecd3926db00396f3dc3e6cc10c52d269f2ef44ceb3a4d46a4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2ab972e4a6b779b1ebd7f4f418308e60a5e58c15d94bebfb123e6a7b50cc6610

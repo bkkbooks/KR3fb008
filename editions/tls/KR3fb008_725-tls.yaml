@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/725
+seq: 725
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不見食之地幾何更求相距幾何地即見食漸差一分大概依視差推算皆一𠚤可得舄推定望月食定望與日食定朔理同先求日月兩平行相距六宮為平望次以平望時日月兩均數或較或并得距弧化為時刻以加減平望為寔望再以平望至寔望時分內日月所行引數平行復求均數得次距弧化時加減平望即為定望末以黃赤升差時分即加減時表加減定望得定望視時即人目可見食甚時分也盖月食地居日月之中月入地影大專可共見無高卑南北東西等差故寔望即為視望又因望時無次輪之行故不用次均數次以定望時求月
+  hash: sha256:ec8dbf9db6df1638a8b755d87a86716ce866e4ae076443bdddca5a57e2ad99ff
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fbdf4bdcce5b6bae0eaff36e7bbbccd7c6c77e2d0c539fbf45c2268b8340047a

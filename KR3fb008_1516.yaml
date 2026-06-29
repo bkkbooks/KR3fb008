@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1516
+seq: 1516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦志卷十二暦象考成步日食推日食用数康熙二十三年甲子天正冬至為暦元周天三百六十度入化作一百二十九萬六千秒周日一萬分紀法六十朔策二十九日五三五九三太陽平行朔策一十萬四千七百八十四秒小餘三四三二四
+  hash: sha256:8e944228212782155e60c65e105e6e51259b8f76622c5ba317ee26f4358ff041
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:697394fa088e25b3f285ac82c41b9d3749fe3514e07c67a4514c0fce8b32a4d0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/513
+seq: 513
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至丁至已丙球之影漸薄以趨于盡矣一影之所居與光正相反暗骵淂光与此面射影于彼面是影之中心與光光之心暗骵之心叅相對如一直線則暗骵隔光于影使原光之心恒居一線之末界其正相反之彼界則影之心在為故論暗其受光之面必向光所出之原界其生影之面必向影所射之彼界恒正相反也故日與月獨至兩交而有食亦以此耳日月食限食限者日月行两道各推其經度距交若干為有食之始也而日與月不全月食則太陰與地影相遇两周相切以其两視半徑較
+  hash: sha256:56a7251d2feabfd6d30d0434aca511b1a8c2e43357c3066aa60c39f153622f99
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:391e5fd19134b8e314d57b072bea875512e3b93fbc24574ea73502a5c82e268f

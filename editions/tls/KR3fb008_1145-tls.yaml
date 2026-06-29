@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1145
+seq: 1145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 查二百恒年表本年下距冬至及引數兩年根以距至日入星周歲平行表查距至平行與年根數相加為平行平引以平引查加減表相較得初均數記加減號均數依號加減于平行得寔行亦加減于平引得實引置本日太陽實經度內減去寔行得星距日度半之為半距若距日遇六宮者反減全周餘半之為半距以太陽寔經度減去高沖加六宮為日引以寔引入加減表查距日及半徑又以日引查日差半徑與日差相加為星數
+  hash: sha256:06ff5e60ac6600f975ba625b2a3c3a5d2b70062e177bf2d69891c8a8818aaf54
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1c3f249c3b4eca7010312e6427d1564dfec703dea95dd7e332a1d2c48f79b910

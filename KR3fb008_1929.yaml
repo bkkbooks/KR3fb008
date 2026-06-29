@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1929
+seq: 1929
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也高度有零分者亦按中比例法求之
+  hash: sha256:fcaedf6848628ab744ffdf80d37cc7c147530984806f9a4c1b85da30ee8acd3f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:68f0382a3fe4518446edc1191e0362bc9f7c355aec348cbde15a5f7311982d65

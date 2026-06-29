@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1641
+seq: 1641
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 測求之冬至後太陽本天最卑時京師高弧僅二十六度餘蒙氣差甚大難淂其真今以太陽最高距此地心線一一七九二八求均数之第三邊典地半徑比例数一一六二之比即同于本天最卑距地心線九八二七九二典地半徑比例数一一二一之比是為最卑限太陽距地心之遠也既得三限之遠即可推高弧各度之地半徑差矣測黃赤距緯黃赤兩道之大距右今所測不同授時暦測淂二十三度九十分三十秒以周天三百六十度每度六十分約之為二十三度三十三分三十二秒新法暦書用第谷所測為二十三度三十一分三
+  hash: sha256:7baa3e71bcf1b15267e5b253ca89c322a0bcc9e149f8da5888d32c4bdbcd7e22
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6a1c4ad13ffe8465fb7d905ed8f08910c415a35dd9fe3af63de1e755ec9dcf19

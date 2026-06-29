@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1705
+seq: 1705
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求日月寔径與地径之比例新法暦書載日径爲地径之五倍有餘月径爲地径之百分之二十七强今依其法用日月高卑两限各数推之所得寔径之数日径爲地径之五倍又百分之七月径爲地径之百分之二十七弱皆與舊数大致相符足微其说之有據而非誣也地影視径月食生于地影而地影之径推筭所淂之数比測量所淂之数常多数分西人言因太陽光大能侵銷地影其説是也如圖甲爲地球乙丙丁丙爲太陽寔半径從乙丁作两切線切地球戊己两邊而交于庚則成戍庚已影然太陽光芒常溢于原骵之外如辛壬
+  hash: sha256:7f6400682be11ff190b71ef3637c424d3d6f996267b98380e070d052d76acaa8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:350b9b0570ad659c6ca9cbb9e0d3c69015e52f6affab0771311dbb441844af64

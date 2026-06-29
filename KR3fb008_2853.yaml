@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2853
+seq: 2853
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用表之法以距次交實行之宮對距次交實行之度其縱橫相遇即所求之星距黃道線也設金星距次交實行為初宮一十六度求星距黃道線則察初宮一十六度所對之數為一二九九六即所求之金星距黃道線也若距次交實行有零分者亦按中比例法求之
+  hash: sha256:d215a67ca12bec6fc7f0ffab8f79671dd11dc86ce5fd0a1bfe6cd77a5039b91a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8dee2e8e062301fc661916ddeb24c69f2ca1eaf4ab6bb80761a0791e5da05626

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1679
+seq: 1679
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北之星漸差而近冬至後赤道北之星漸差而遠緯度既差則经度亦必有差如儀象志載康熙壬子年二十八宿距星及諸大星赤道经緯度并每歲经緯加減分為求赤道宿度及測量中星之用其加減分所差無多而各星赤道经緯度則以渾儀比測與推筭多不合盖星之赤道经緯度必依弧三角法逐年推算乃淂真率今推淂暦元甲子年二十八宿及諸大星赤道经緯度并每歲经緯加減分附恒星黃道经緯度表後以便推步其中星及出沒時刻依赤道经緯如法求之俱可淂也用三月食推太陰本輪半径及最髙太陰初均数生于本輪半径本輪半径不定則寔行不可淂而定
+  hash: sha256:ef7afb8286c5733cdbf85d691943e35aa9f577732a19db8794cedbed1ebc9688
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7f2e5e373eb1364b372fb4b232633a2e76f5c1ea6540675130d95da34dce9e3d

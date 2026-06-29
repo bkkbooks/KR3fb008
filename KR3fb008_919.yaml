@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/919
+seq: 919
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經度在實沈宮二十一度分太陽平行在其沖第二測陽嘉四年乙亥西二月二十一日亥初西曆本地測淂火星經度在鶉火宮二十八度二十分太陽平行在其沖第三測永和四年巳邜西五月二十七日亥正本地測淂火星經度在析木宮二度三十四分太陽平等躔其沖前二測中積為一千五百二十九日二十二時淂火星平行全周外為八十一度四十四分而兩測火星之視經差一測至二測為六十七度五十分平視二行相減淂十三度五十四分為均數平行大視行小知二測星在最高之左右後二測中積一千五百五十六日四刻火星平行全周外為九
+  hash: sha256:48ee51a774bcbcf1963f3d2188f21d27977a5b9fc96e3ccac05e2fe49f16e82e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:20426dabbc973fe495ebcf033b0bfedd4996f95ce1abcab60fb4ae5b7b5155ad

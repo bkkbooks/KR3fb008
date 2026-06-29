@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1781
+seq: 1781
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求淂庚辛弧為黃道距地平之邊乃以丁庚月距春分度與庚辛弧相加淂丁辛弧因用丁辛戊正弧三角形求丁角形有丁辛弧有辛角有戊直角即求淂丁角為黃道高弧交角也求緯差角緯差角者初虧復圓時月與地影兩心相距之線與黃道相交之角也如圖甲乙丙為黃道丁戊巳為白道乙為地影心庚戊辛皆為月心乙戊為距緯即食甚時兩心相距之数乙庚為并径即初虧時兩心相距之数壬庚為其距緯乙辛亦并径為復圓時兩心相距之数癸辛為其距緯如
+  hash: sha256:0511bf78d96d674b0c1729a4ed3e325b7794afc07eee73e47f5493124ba148f1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3e38fea2a45b4692ec95f924e5e48cba73a1ed326bf76abfaf6d7025bcb65276

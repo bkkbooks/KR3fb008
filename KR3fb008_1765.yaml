@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1765
+seq: 1765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時止見太陰行寅癸弧之度故以子寅為差分以減初虧距食甚之子癸弧餘寅癸為視行夫行寅癸弧既湏子癸弧之時分寔度也是丑辛則行子癸弧視度也其歷時必更多于寅癸故以子癸所歷時分為初虧距時以減食甚真時淂子點為初虧真時盖食甚真時寔經度在辛視經度在癸而初虧用時實經度在丑視經度在寅則初虧真時寔經度必更在丑點之西如邜人從地靣視之見太陰在辰其視經度正當白道之子故太陰行至邜點方為初虧真時也復圓真時倣此
+  hash: sha256:67c81d7eb8504663cbac87ced7f5c23f390f4104ec9b783025b24a6f5d44175a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2db106b600c7d0c547feafd6ff405c696879126f37d42b85e25456200e47ec0d

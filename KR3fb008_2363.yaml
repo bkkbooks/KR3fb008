@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2363
+seq: 2363
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽高弧表太陽高弧表亦以日距限及限距地高縱橫之日距限自一度至九十度分三段列於前每段三十度限距地高自二十度至八十九度分七段列於上每段一十度中列逐度之太陽高弧今限距地高亦止載二十五度起至七十四度止用表之法以日距限之度對限距地高之度其縱橫相遇即所求之太陽高弧也設日距限六十一度限距地高二十五度求太陽高弧則察日距限六十一度與限距地高二十五度所對之數為一十一度四
+  hash: sha256:743ea2b0361bdce8f7e8cae081a7049bac6a35184a0275f39910d0f68525f0e2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:631db82faed2e95d0c7bd7e1e0315a373341cbc2ea0fdaeee53794a7f90355ce

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1286
+seq: 1286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為三率求淂四率為秒以分妝之淂年根年根者乃所求本年天正冬至次日子正初刻太陽距冬至之平行經度也求紀日以天正冬至干支加一日淂紀日紀日者乃所求本年天正冬至次日之干支也故加一日求值宿置中積分加宿應五日六五六三七四九二六為通積宿其日滿宿法二十八去之外加一日為值宿日分上考徃古則置中積分減宿應為通積宿其日滿宿法去之餘數轉與宿法二十八相減外加一日為值宿日分自初日角宿起算淂值日值宿乃冬至次日之宿故外加一日求日數
+  hash: sha256:96de17a3531e5f2b7bad3e0321d27ff86856436eb2a8f7816b1260775669e377
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3ed6ecb246f8b4a180c9aafee2f73dea72b1f42a8e9677c4471bfa07030be235

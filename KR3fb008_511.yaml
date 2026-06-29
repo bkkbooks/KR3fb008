@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/511
+seq: 511
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 光不失爲次光也一最光所不及為初影次光所不及則為次影影與光并行光漸微則影漸厚故次影與最光相反若初影即次光也一最光全不及之處則為微滿影若受正照之微光即為缺影影與光正相反無影之極則為滿光無光之極則為滿影如甲乙為施光之物丙為暗球從甲出正照之光過丙球左右其切丙之界者淂甲戊及甲已徙乙出光又淂乙戊及乙丁其庚戊辛為最光全不及之處則滿影也若庚戊辛戊以外則甲乙光骵之多分漸照之至乙丁甲已乃全光之界即自戊
+  hash: sha256:8928b0977f2780229dec28d23a198f591849c42b93e3a46726520b4dbe38da73
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:886049b6c18efc76a1bac123351a603bbd960b012c6534d9b0561e26b278bc5e

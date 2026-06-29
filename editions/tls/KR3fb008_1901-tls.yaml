@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1901
+seq: 1901
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度求升度時差則察大梁宮八度所對之数為九分三十一秒即所求之升度時差其號為加即為加差也大梁宮在上故用順度若實行有零分者亦按中比例法求之
+  hash: sha256:8f1ecd54ea45f76be218b96c7f8cd84191fba6e285185bed1e8af805d2cffcbb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3aa26559c8caf2c6ae06015f2007402b01a57eb0e120e042dfb635aeb3b1a98a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1017
+seq: 1017
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽有距數太陽乙心所見之差角初均角至地心必不同観四也視行寔行之差角為地面寔測非乙心之數不淂兩處悉同五也又大圈既為星本天而侵入太陽天測將為歲輪之心若沖日之時歲輪心既在太陽天內星大在歲輪最近將越遇地心如金水之退合伏而不淂沖日矣六也由此観之可見此圖不遇巧算之法非真象也若真以乙為日骵以日為火星平行天之心則未免詞害意矣測火星歲輪半徑明萬曆二十二年甲午罡月初三日戌初第谷測得火星視行在降婁十八度三十八分依表算其平行為距冬至一百三十八度
+  hash: sha256:a7fd83dd1ff5a3b4e8e2484a3694190bd0ad9d6dea746d964f6e3c6b4c3e767d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6aecf6f1d875062fc004512b02c23607f285772a26cd12b12ad76cbcfefceae0

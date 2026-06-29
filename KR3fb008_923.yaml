@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/923
+seq: 923
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 引長至圈周如戊作戊甲戊甲乙三線成多三角形先求甲戊弧一乙丁戊形有戊角四十七度四十四分乘乙丙狐為後二測星之平行度有乙丁戊角八十六度十六分後二測之視行度為乙丁丙角九十三度四十四分乙丁戊角為其餘十自有乙角四十六度有三角求三邊用各角之正弦次定丁戊為全數用變率法淂乙戊一三八七二二甲丁戊形有甲戊丁角八十八度三十六分乘甲乙丙弧即一三測之平行度有甲丁戊角十八度二十六分一三測視行為甲丁丙角甲丁戊為其半周之餘自有戊甲丁角有三角求三邊得數用正弦再置戊丁為全數依變率法淂甲戊邊三三六九
+  hash: sha256:26b19015dfe9ea3b4ead125aabd354598721373e471eb81ca14a579c2d105c5f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:cea3de313e30af5467113ff9d59cfb9c89ebfdc30844cdb562c527c8e056dd7f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1265
+seq: 1265
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推月帶食法凡月食子後者視復圓時刻若在日出後月食子前者視初虧時刻若在日入前是有帶食也若日出入時刻與食甚同者不用算即以所推食分為帶食分諸限時刻有與日出入同者亦然皆不必推帶食求帶食距時帶食在朝者以日出時刻在暮者在日入時刻並與食甚時刻相減餘即為帶食距時法同日食求帶食距弧初虧距時化秒為法初虧距弧化秒與帶食距時化秒相乘為寔寔如法而一得數即為帶食距弧帶食距心徑以帶食距弧月距黃緯各自乘兩數相並平方開
+  hash: sha256:cd767d815e17f6e8883efae66ce32e08790d099546f760851c869dddc0ae728a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8cdf93a2b753598b6a9ccf7b3e402a73563691ca73dc9559b47a2c9abb6d4f21

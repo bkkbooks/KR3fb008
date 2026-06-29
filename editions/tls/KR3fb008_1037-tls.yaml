@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1037
+seq: 1037
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之差矣如圖丁為地心丙為本輪心置歲輪在最高乙設距日度為甲辛求淂乙丁辛次均角即表中甲辛弧下所書也次置輪心在最卑戊設距日度癸辛與甲辛等求淂戊丁辛為次均角則大子乙丁辛角夫同一距日弧當乙最高則乙丁辛角為小在戊最卑則戊丁辛角為大可知次均因乎本天之高卑以為大小也高卑兩角之較為辛丁辛角即表中甲辛弧下所書之較分
+  hash: sha256:bd083c20ada828c931afc90bdc285ef93d17b11a9e6a14c8d5619d90a5edcc98
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:331a12d3865d0694cfda70b72af20c12a1e43d171f7042ee4a39c94789b90f5f

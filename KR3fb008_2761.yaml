@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2761
+seq: 2761
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視高也如先測得火星視高五十二度五十九分二十秒則以地半徑差四十秒與視高相加得五十三度為本時火星之實高也高度有零分者滿三十分以上則進作一度不用中比例因逐度地半徑羌所羌甚微故也
+  hash: sha256:40bb65a5faa3917fcfe389e7322092101e99992c39f3fabbad912c5a835c1925
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:896db313565c5a4c3c85b8460aa48c00bc4188a372f99e2c14c0f78c865b27d0

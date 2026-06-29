@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1469
+seq: 1469
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求寔望置平望加減寔距時淂寔望加滿二十四時則是寔望進一日不足減者借一日作二十四時則寔望退一日推寔交周苐五求交周距弧用交食周日諸平行表以寔距時之時分秒各察其典太隂交周相對之数而并之淂交周距弧寔距時為加者亦為加寔距時為減者亦為減求寔望平交周置平望太隂交周加減交周距弧淂寔望平交周
+  hash: sha256:4ef93109b035e521546fa1f7dbc99e172644f22c34625ca6b42285883266e96e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9b96e17367df7eb0cae72cbf0ee61c96cbf86fc8c4ce2811795f6cd05636b2d6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1389
+seq: 1389
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心線寔以次輪心距地心立算故以距地差加減星距地而後與星與黃道線為比例蓋二率小而一率亦小二率大而一率亦大其比例乃同也求黃道宿度依日躔求宿度法求淂本年黃道宿鈴察黃道寔行足減本年黃道宿鈴內其宿度分則減之餘為黃道宿推金星用數康熙二十三年甲子天正冬至為暦元周天三百六十五度入算化作一百二十九萬二千秒周日一萬分
+  hash: sha256:94545e5e891e4d2be785fe6403b5ccbed96bb8344400a57ceb5d8148b57ad2eb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:39db2ba92ef91ec274022ceaed07606242c826ee2ae4d7197102b5b159a37fe2

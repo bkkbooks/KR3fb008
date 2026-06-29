@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1411
+seq: 1411
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求初均及中分用金水均數表以引數宮度分察其與初均所對之度分秒淂初均察其與中分所對之分秒淂中分並記初均加減號求初寔行置金水平行加減初均數淂初寔行求伏見寔行置伏見平行加減初均數淂伏見寔行初均為減者則加初均為加者則減求次均及較分用金水均數表以伏見實行宮度分察其與次均所對之度分秒
+  hash: sha256:7b63c9d7d43f492497b75b05303d0efdc5e07c7008eccf1595883db468ef6604
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c97f9e7ce29145d4b41e12ff492595d28c265a56fbe6c921f7bb951a5645ece6

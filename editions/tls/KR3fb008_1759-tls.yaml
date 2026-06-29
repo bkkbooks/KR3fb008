@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1759
+seq: 1759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為月辛點為初虧壬點為復圓月心在戊為食甚丁戊為食甚視緯法以丁巳日月兩半径相并為弦丁戊為股求淂巳戊勾為初虧至食甚距弧與復圓戊庚距弧等次以巳戊變時分減食甚真時淂巳點初虧用時加之淂庚點復圓用時也求日食初虧復圓真時日食初虧復圓真時即以初虧復圓用時求之而淂與求食甚真時又用近時者不同盖食甚已有東西差則可相較淂視行以為比
+  hash: sha256:ff14d2afa69bf2b41da7100ababd4c8be5d7225b2e5e66a1804c22d016c444d4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:31578ea2cf9defd449357dc68ac5b9ac2294c35fdd302b49d02ca5ccd95e6dab

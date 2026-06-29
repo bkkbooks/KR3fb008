@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3035
+seq: 3035
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星地半徑差表水星地半徑差表分最高中距最卑三限列之其前列實高度水星引數自十宮一十五度至一宮一十五度為最高限自一宮一十五度至四宮一十五度自七宮一十五度至十宮一十五度皆為中距限自四宮一十五度至七宮一十五度為最卑限表內分秒卽三限實高所生之地半徑差也用表之法如水星引數當最卑限推淂實高一十九度求地半徑差則察最卑限實高一十九度所對之數為五分卽所求之地半徑差與實高一十九度相減餘一十八度五十五分為本時水星之視高也如
+  hash: sha256:c96dd503421dbd7d4ded16aefc967ff8cd92a8e6a9ccd1924648824d17dfa83b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:289378d5039ea8d1f06412c11802842b49697088467908b57d7345cee50fcfe9

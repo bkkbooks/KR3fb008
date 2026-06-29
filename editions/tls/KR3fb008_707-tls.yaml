@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/707
+seq: 707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 出地迤卑居地高平去水澤遠食時無雲氣則月魄盈推數少于測數展轉推求即清蒙之氣隨地隨時有無厚薄不等能淺深受光于日而變昜其焒耀之勢使人目所見或增或減迄無定限也故蒙氣盛者即高弧至于午正人目見日無橫斜之線不能升卑為高而地以上之蒙氣猶能承受日光使溢界外而展小為大以致月體不能蔽日矣如圖地心為甲日心為丙太陰正當日目之中為乙月影之最中人目所在為巳設太陽之邊寔為丁為戊其光下焒所限月影之界宜為丁甲戊甲丙線此限外之氣皆得最光也然因乙太
+  hash: sha256:fafbe4957368d705928fc86428970b665b418ad72caf137f7df29b2df20e64f1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:77c036b64bf83d9a4cc5bea3ee4b4fe3d6da23bc08fa5cc3ea96995341823342

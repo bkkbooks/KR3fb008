@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2575
+seq: 2575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木星均數表木星均數表以引數宮度求初均及中分以星距日次引宮度求次均及較分初宮至五宮依次順列于前六宮至十一宮依次逆列于後表名初均者乃木星本輪均輪所生之均數順度為減逆度為加中分者則逐宮逐度次輪心距地心與最高距地心之較為六十分中之幾分也求中分之法以木星次輪心在最高距地心之一四五七三四與木星次輪心在最卑距地心之九五四二六六相減餘九一四六八為一率六十分為二率逐宮逐度次輪心距地心與最高距地心相減餘為三率求淂四率即逐宮逐度之中分也求次輪
+  hash: sha256:b4c2319104ae998a80888bb6bb7b9c823c6e5c5a3289fb6903cea1cab9dc9c66
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c0577e241a5ebfa43454888254cfc92ba69df8977b318b6c798467609a8aaea9

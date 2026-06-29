@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/306
+seq: 306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非中曆先推太陽躔度至春分之日彼亦茫然無處以得支干合于中國所用歲月也況其曆元已曆千年不可復用乎兹惟新曆增修古法參以西國數千年之測算更加新測以廣古法之未偹其立法致用俱極精詳用以合天如操左券我朝欽定為時憲曆日頒行天下敬授人時誠度越前否億萬斯年永永不爽云
+  hash: sha256:58ca95bcd52980e694a26c744a08782337ad13ee5c10f5d77ec5de35af37e9e7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:41a394d4b9309717124d17f19d4ef2fce9b595f178be1e5a1f9cae96d231be73

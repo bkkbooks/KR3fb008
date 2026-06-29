@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/795
+seq: 795
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秒度數之分即徑分止有五十三秒以此測雖微有差所推徑分終近矣測太陽食分密室中對太陽開小圓孔以受其光因孔小出光之體大則所正焰之光必為角形其底在太陽其角在孔之中夫光一入內又復開展為角形以致底所對之牆轉其原形以上為下以左為右使牆與光直角相遇則底為圓形否則為圓長形使孔不圓其小則光底在牆或仿佛孔形而所像大陽之形大都不真何也太陽孔牆三者皆有遠近大小之比例蓋孔距牆得其本徑數與太陽所距本徑數等則光底在牆必像太陽圓形及孔之多邊形各等為雜形若兩徑數不等而太陽距牆得徑數多則光底失去原形轉
+  hash: sha256:49ce5b984de46d3303ae3a40fedc99484b92c76abcdc5d70b4d11726cebf8626
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:be3832b4762691f5b7765551891cff35d8e6adfad9fc8e445d9a5aeaae928697

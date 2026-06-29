@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2519
+seq: 2519
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十七分十十八秒其號爲減卽所求之初均其與中分所對之數爲三秒卽所求之中分也初宮在上故用順度又設星距日次引為十一宮二十五度求次均及較分則察十一宮二十五度與次均所對之數為二十六分五十五秒其號為減即所求之次均其與較分所對之數為二分五十五秒即所求之較分也十一宮在下故用逆度若引數或星距日次引有零分者按中比例法求之
+  hash: sha256:5d2bc8fe28169c77285d7cda16ce6bfd0a0a601ffaae7068582d0a8962439744
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9daf22998c200f0c733eac9f5824e74bd92740974b6cc6b2771e6e9a35a28c45

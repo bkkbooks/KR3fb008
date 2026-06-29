@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1009
+seq: 1009
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算之法耳與算加減差法不作角於心而作角于邊全一樞軸也一以寅乙甲為星遇沖日角何也曰太陽體在心黃道上其沖在未星寔行在氐氐未弧為氐乙未角即星寔行已遇沖日之真距也張角弧同正與前歲輪上申亢弧等故用氐乙未角為星黃道上遇沖日之度與用歲輪
+  hash: sha256:e5f2617dca7f4cb41450717cb5c9d1c5179c73490c2f13506930efbcd0b24e52
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0c1908e98d56cdd72c22e6c61f7338fe225493f27998d0a3215461a08ff23ddd

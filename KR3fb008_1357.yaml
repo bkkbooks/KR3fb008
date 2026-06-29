@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1357
+seq: 1357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求引數置平行減最高平行淂引數求初均及中分用土木均數表以引數宮度分察其與初均所對之度分秒淂初均察其與中分所對之分秒淂中分並記初均加減號求初寔行置平行加減初均數淂初寔行求星距日次引置本日太陽寔行減初寔行不及減加十二宮減之淂星距日次引求次均及較分
+  hash: sha256:694e5d06d47baff252bcf2e253923018b4bfdd092d929f12bf72ca5aa6b87e00
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6f25f6f88f68d02aed776868e6637b06df7d8890b93e071177b6dffb27b1c743

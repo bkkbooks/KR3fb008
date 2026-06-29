@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1626
+seq: 1626
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求𢃄食分秒以太陽半徑倍之為一率十分為二率并徑內減𢃄食兩心相距為三率求淂四率即𢃄食分秒𢃄食分秒者太陽出入地平時典太陰相掩之分数為太陽全徑十分中之幾分也
+  hash: sha256:b5184eafc0ba1974e7c468283d2c643541ed80dbf0fa39a72672e5d97c692b93
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:175baec52ccd741f52fcd91038f4e6d5c441aac387e69fc7080f12b89aa13ea3

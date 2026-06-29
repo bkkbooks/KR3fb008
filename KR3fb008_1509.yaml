@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1509
+seq: 1509
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推各省月食法求各省月食時刻以京師月食時刻按各省東西偏度加減之典推各省節氣時刻加減法同淂各省月食時刻求各省月食方位以各省赤道高度及各省食甚時刻依京師推月食方位法筽之淂各省月食方位推月食𢃄食法求𢃄食距時以本日出或日入時分典食甚時分相減餘為𢃄食距時𢃄食距時
+  hash: sha256:3231ee905b09f2543f239b6110d3803850f760baadd340991ea1cd777c844668
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4c1a50363d9350d3b431b430f64ec0276e8456f4359008e5e49258ba3f9e8cad

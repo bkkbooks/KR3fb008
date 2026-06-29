@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1097
+seq: 1097
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若得在緯南未其南緯為未甲經度仝前黃道距日亦仝前而甲癸弧非未星見伏之限以未星在緯南斯時巳久伏在地平下勢必星在巳點限黃道上庚癸弧乃為見伏之限而庚癸則大於甲癸相差為甲庚用甲庚巳形求庚為緯度之差加甲癸黃道距日淂庚癸為星緯南見伏之界故緯北用減緯南用加以淂本時黃道上伏見定限也如庚癸與癸辛求五星黃赤仝升度五星之行各有本道出入於黃道內外則前所推黃道上經度必與赤道之經度為同赤道恒或多或少於黃道兩経度相較有仝升之差與太陽黃赤道升差同理但五星之出入黃道內外最遠不
+  hash: sha256:f863b9d50bc2edd7c0ea0aaa745837100366e53eb9d3760d26cd5531a1a00652
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e78796a2d163e153624d51bf0aa8785fb98370ddce80b9bba4c7d92bbe9da0e5

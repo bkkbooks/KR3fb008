@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/567
+seq: 567
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本大于甲乙而壬日去地壬丁甚逺人徔丁視日骵則為丙丁辛角之已戊弧不過天度七百二十之一其實丙辛大于甲乙五倍餘丙辛為實徑已戊弧為視徑天度之分一月視徑與日視徑如等月骵小于日二十倍而其視徑及若加大于日者如圖子丑月實徑本天于辰卯日實徑但月之距地癸丁甚近人視之淂子丁丑角午壬弧為視徑若日之距地辛丁甚逺人視之為辰丁卯角未戊弧為視徑而未戊反小于午壬故恆淂日月兩視徑如等一日月本輪高𤰞昜視徑之大小日月因距地極逺以實徑昜
+  hash: sha256:4f2df43076d3105a31ecf7654d6d4aacf14b04ca029792af92130f1fec335c6e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c64eb6a8b2a5b1437e2101bf409b77b8ea38e2de560d1528783ff23f7751b964

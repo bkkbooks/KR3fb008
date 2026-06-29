@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1397
+seq: 1397
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星本天半徑一千萬水星本輪半徑五十六萬七千五百二十三水星均輪半徑一十一萬四千六百三十二水星次輪半徑三百八十五萬水星次輪心在大距與黃道交角五度四十分水星次輪心在正交當黃道北交角五度五分一十秒其與太距交角較三十四分五十秒水星次輪心在中交當黃道北交角六度一十六分五十秒其與大距交角較三十六分五十秒水星次輪心在正交當黃道南交角六度三十一分二秒其與
+  hash: sha256:8f3bc0beec1c7764aeee0ec48ea7c184470ebd5162769cd0a927bca0261aabc8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fa2f58570d04080e39f53ef6c79770127282a5b8fa74dcf617325a6a744389e2

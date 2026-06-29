@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1455
+seq: 1455
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乗滿周天一百二十九萬六千秒去之餘為積𦍤太隂引数加首𦍤太隂引数應九宫一十八度三十四分二十六秒一十六㣲得首𦍤太隂引数上放徃古則置首𦍤太隂引数應減積𦍤太隂引数淂首𦍤太隂引数求首𦍤太隂交周以積𦍤典太隂交周𦍤策一十一萬四百一十四秒一六五七四相乗滿周天一百二十九萬六千秒去之餘為積𦍤太隂交周加首𦍤太隂交周應六宫初度三十分五十五秒一十四㣲淂首𦍤太隂交周上放往古則置首𦍤太隂交周應減積𦍤太隂交周淂首𦍤太隂交周宫度
+  hash: sha256:cfaae29c7fe69d73589ef71f1153bc3efae7fe09a99aa00903066801db7e4156
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8b7b8a6b18949d905402ebed25bc667510f7d0ca549b52d67f01f8c46307f480

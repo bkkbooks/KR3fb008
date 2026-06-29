@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1135
+seq: 1135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以寔行入距宿鈐表按宮度減宿次得本日太陽所躔某宿度分宿鈐以曆元戊辰年為主每年應加星行五十一秒加此數方可與寔行相減以寔行查黃赤距度表得本日時太陽在赤道或南或北之緯度分求太陰經緯度先查二百恒年表本年下太陰四種年根月距至平行月自行月孛行正交行獨正交行加六宮為根數次以距至日入太陰周歲平行表查四種平行度俱與年根數相加淂三平行月平行月自行月孛行而正交行則與年根數相減為正交平行在本日太陽寔經度查月離日差表得數記加減號按日差分數
+  hash: sha256:0d0e60d4fec36be09bbcf48211322eb88018846860b0cf2fb4e01a8db05ed841
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:279b830902ca43843245176accab06bf86d0144ff52f6733d39ee77e9c5d345b

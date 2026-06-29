@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1345
+seq: 1345
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木星最高每日平行十分秒之一又五八四三三木星最高每歲平行五十七秒五十一微五十九纎五十八忽一十九芒以周歲除之淂每日平行九微三十纎二十一忽四十芒以秒法通之即淂木星正交每日平行百分秒之三又七二三五五七木星正交每歲平行一十三秒三十五微五十九纎五十九忽五十八芒以周歲除之淂每日平行二微一十四纎二忽五十七芒以秒法通之即淂木星本天半徑地千萬木星本輪半徑七十萬五千三百二十木星均輪半徑二十四萬七千九百八十木星次輪半徑一百九十二萬九千四百八十木星本道與黃道交角一度一十九分四十秒氣應七日六五六三七四九二六
+  hash: sha256:d96107fa5e5ea6efa107ee92a98002acd3b36c7c121acc7044986fab3e639fb5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6eefdd8f1d3ff6bba0cc5326ff180f19cf3001ab0740c9abee8947e0325ca462

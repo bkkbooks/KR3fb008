@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1604
+seq: 1604
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求復圓白道高弧交角置復圓黃道高弧交角加減黃白交角四度五十八分三十秒食甚交周為初宮十一宮復圓月距限東則加月距限西則減食甚交周為五宮六宮復圓月距限東則減月距限西則加淂復圓白道高弧交角加過九十度者則限東變為限西限西變為限東不足減者則于黃白交角內反減黃道高弧交角餘為復圓白道高弧交角限距地高在天頂北者白平象限為在天頂南限距地高在天頂南者白平象限為在天頂北求復圓高下差用日躔太陽地半徑差表以復圓太陰高弧按太陽寔引宮限察其所對之数為太陽地半徑差又用月離太陰地半徑差表以復
+  hash: sha256:5f6d3dabbc5b6ccc10653cf401a8434e844f03df99fe07d50ddfce509a0d3b70
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:131807df7647e39ebdc2ab3fd5b4c83dfac4090c940e3042ddae6e5d06f84f89

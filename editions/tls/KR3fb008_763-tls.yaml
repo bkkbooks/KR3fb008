@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/763
+seq: 763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圓體甲戊乙方體甲丁戊皆次徹也當其面有斜焰之光在丙至甲點而入至乙點而出則甲丁與丁乙皆為垂線焰光至甲點而入必聚而折向于甲丁垂線至乙點而出必又散而折離于乙丁或乙壬垂線若言光至乙點出或不焰庚瑞更焰巳則是反焰之光非折焰之光也依此甲言上可推地球滿影之長如面太陽之光遇于蒙氣從壬癸折入作壬邜癸辰線為初折又從邜辰折出作邜午辰未線為次折以復合于已別生午已未雜線角形乃因乙已未角生已未辛及巳辛未為外兩角并之得乙已未內角一度二十分四十八秒今
+  hash: sha256:4c391d16bb5960635826e4b30be7c66e266f22124e1b5ee35850f54787cbd50c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9a61982478f52fc7300afa4b6527e61cfbd8e43bed157598ef2b72fe132a8e0c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1230
+seq: 1230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五求復圓時刻用十二求真搃時加一時為後搃時以後搃時入九十度表如前法求之得日距限記東西號若真時在限東復在限西為異號及限距地高用真時加一時以日赤緯檢高弧表淂日距地高如前法以九求月距地及本求日距地高檢視差表得月高下差以本求日距限及限距地高查交角表得交角度以交角度及月高下差查時氣差表得後時差以後時差與真時差相減併提差分法同初虧置月寔行以差分加減之為視行
+  hash: sha256:3ee871742605078957d39969a86553ba9998bea2478e36a115a520d6cc7383f5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ab4f749cde4c47e117d59fadc490ae66fb740aa5780b264c9a3d053325e29f93

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1208
+seq: 1208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以寔距時時分查四行時表取太陽平行兩數并之為寔距弧依寔距時加減號置太陽經度平行以日距弧加減之得日次平行置日寔均記加減號以加減日次平行得日寔經度八求視朔以日寔經度入加減時表查其時分為加減時記加減號置寔朔以加減時分加減之為視朔命甲子算起得朔日干支時分命子正算起得合朔時刻分九求徑距較數以月寔引查視半徑表內月距地數相較得月距地
+  hash: sha256:fe15740ca7c8241312ce5e96ce8fa871995b562be591356035c154e4e172419a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dd877f8256c968f2473352434e3ed0e373977d5acb12196a3fbcd3141b914ba0

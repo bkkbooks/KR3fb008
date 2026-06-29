@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1556
+seq: 1556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求食甚寔緯用交食黃白距度表以寔朔寔交周宮度分察其所對之度分秒淂食甚寔緯并記南北號求交周升度差用月離黃白升度表以寔朔寔交周宮度察其所對之分秒淂交用升度差并記加減號求食甚交周置寔朔寔交周加減交周升度差淂食甚交周求月距日寔行用交食月距日寔行表以太隂寔引宮度察其所對之分秒淂月
+  hash: sha256:a618fd505123c61a3df311bb31844ad08b294a585b80583f2ee2790333679320
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:631771aa0f43bddd8158771267347755302511a91c09298d700a2cbad4d0c762

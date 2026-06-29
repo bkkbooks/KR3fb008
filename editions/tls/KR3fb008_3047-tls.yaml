@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3047
+seq: 3047
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五星伏見距日黃道度表五星伏見距日黃道度表以星之黃道宮度按晨夕列之初宮至二宮六宮至八宮列於上三宮至五宮九宮至十一宮列於下前後分順逆列星之黃道度中列各星之距日黃道度分宮在上者用順度宮在下者用逆度用表之法求晨見晨不見用晨宮求夕見夕不見用夕宮設土星當晨見限度其黃道經度為初宮一十二度求距日黃道度則察晨初宮一十二度與土星
+  hash: sha256:b5dca449647267e44cac4e10017c510e885bbaef65ec62d61525ff76f15d6e84
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fdda55ae0f0b2d807f4d9d4e5dfd2df791ca2dc5df5368b891ad9cc90da02dab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1355
+seq: 1355
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又五八四三三相乘淂數為秒以分收之淂土木二星最高日數求正交日數以所設日數與土木正交每日平行土星十分秒之一又一四六七二八木星百分妙之三又七二三五五七相乘淂土木二星正交日數求平行以土木年根與日數相加淂土木平行求最高年根以最高年根與最高日數相加淂最高平行求正交平行以正交年根與正交日數相加淂正交平行
+  hash: sha256:21ace489ef49a6e00c780cfc9a10219862d3c6cbfd969a57bf91ec3352706bdb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f1883ff92553bba825cfe0e121b9fe18264173bc4bad67b5f0689c14f43d24f9

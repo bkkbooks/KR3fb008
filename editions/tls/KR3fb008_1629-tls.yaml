@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1629
+seq: 1629
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 暦象考成新測測北極高度曆法以日躔出入赤道之度定諸蓈氣而北極出地之度即赤道距天頂之度倘推測不精高度差至一分則春秋分必差一時而冬夏至必差一二日日躔既差凡月離五星之經緯典不謬矣故測北極出地之高下最宜精密授時暦測淂京師北極出地四十度七十五分中分新法暦書測淂三十九度五十五分西分今依法測得暢春園北極出地三十九度五十九分三十秒測法見前測太陽地平徑差太陽真高度典視高不同今欲求太陽之真高必先得地半徑差欲
+  hash: sha256:3a7fa9677d379262a6a510cbbee7532ae2a83c9b012d5dba1f065d427e96b9cf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:22c0b80851cbb3503a19384e28a60afab632acb4926d12bdf70b4e5370a2d141

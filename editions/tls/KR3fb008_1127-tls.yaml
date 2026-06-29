@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1127
+seq: 1127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自此正十二卷皆用表推步之法自十三卷至十六卷則可用之表按此並就推步本法乃疇人推算之捷丙徑再法舍表則不可用故須並錄表本以之入志不勝其繁矣合另纂推步本法此又壽皆號可用
+  hash: sha256:176dbf5be518caff5858dc897a912413bc6e6a4d79d4d1220658f913af6f265d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b81d109ec77d5e363e8ae4778863bee0517b9d48dd4523c2cd040d7d2f1b24cd

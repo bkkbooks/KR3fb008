@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1236
+seq: 1236
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宮至五宮為陰曆其號在北六宮至十一宮為陽曆其號在南推帶食法凡日食在朝者初虧時刻在日出前食在暮者復圓時刻在日入後是有帶食也此法胡書所缺謹考訂群書恭定此法以全步交食之術求帶食距分若帶食在朝者以日出時刻在暮者以日入時刻並與食甚時刻相減餘為帶食距分求食分進退凡日出入時刻在食甚前其所帶食分為進食在朝為不見初虧尚可見食甚增圓食在暮為但見初虧不淂見食甚復圓日出入時刻在食甚後其所帶
+  hash: sha256:10fa64e7e9d3d225850de3196444eab14f9dfef962579015b52246197e039d19
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c6b8a1af70dc9598e5471f5ef402d72d1742e366df71a5207502f0a84af638cc

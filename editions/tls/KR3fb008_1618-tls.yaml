@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1618
+seq: 1618
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無視緯則無復圓緯差角而復圓黃道高度交角即復圓㝎交角求初杅方位初杅月距限東者初杅㝎交角在四十五度已內為上偏右在四十五度以外為右偏上適足九十度為正右過九十度為右偏下初杅月距限西者初杅㝎交角在四十五度以內為下偏右在四十五度以外為右偏下適足九十度亦為正右過九十度為右偏上求復圓方位復圓月距限東者復圓㝎交角在四十五度以內為下偏左在四十五度以外為左偏下適足九十度為正左過九十度為左偏上
+  hash: sha256:9675777a13ab576ba389cf38e8fe7cbafa78b6de2b8e71e31b767f5a011cc38d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:83005f7a90fc76fc83a3779ab0b8baa8356ff5302e6e1c6a3ed3d3c55328330e

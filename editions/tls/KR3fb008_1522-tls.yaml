@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1522
+seq: 1522
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五千八百一十六黄赤大距二十三度二十九分三十秒黃白大距四度五十八分三十秒氣應七日六五六三七四二七九紀日八朔應二十六日三八五二六六六首朔太陽平行應初宮二十六度二十分四十二秒五十七㣲首朔太陽引数應初宮一十九度一十分二十七秒二十一㣲首朔太陰引数應九宮一十八度三十四分二十六秒一十六㣲首朔太陰交周應六宮初度三十分五十五秒一十四㣲
+  hash: sha256:0f7cb3fca8b21817c85cf2ffabab6523efb2e64a84e4bbfbdf6942dd8f766156
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:93cc5a52d3a885316c6b76a69387d8dd03b4e144bfafb6073ce9344f9947d7c7

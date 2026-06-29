@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1735
+seq: 1735
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 限之東西隨時定之東西南北差新法曆書推筭南北東西差以黃平象限為本盖太陰在黃平象限東者視經度恒差而東在黃平象限西者視經度恒差而西差而東者時刻宜減差而西者時刻宜加故日食之早晚必徵之東西差而後可定也北極出地二十三度以上者黃平象限恒在天頂南太陰之視緯度恒差而南若極出地二十三度半以下者黃之平象限有時在天頂北太隂之視緯度即差而北差而南者寔緯在南則加在北則減差而北者寔緯實緯在南則減在北則加故日食之淺深必徵之南北差而後可定也其法自黃極作兩經圈
+  hash: sha256:903455a3bb054b58f757edfe72ab35b6e5fae23c8d2a95f524213b969448d870
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:df5d9acee5a3f3df602a41fdf2cadfc52f2bc42f9299cf14c9c7cf624d642480

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2979
+seq: 2979
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行有零分者亦按中比例法求之
+  hash: sha256:ef853d65f9c35f815ef3677302a2371de6e12e619de03af6b723f8c7faa67016
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:06bf59c3c40d0b4de48506c5d0b90f686435120b243dafa7987a6e379eda926d

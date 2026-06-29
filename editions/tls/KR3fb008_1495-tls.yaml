@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1495
+seq: 1495
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推月食方位及食限總時求春分距午時分用交食北極高四十度黃平象限表以太陽黃道經度察黃道宮度取其典時分所對之数為太陽距春分厚時分又以食甚時刻加減十二時不及十二時則加十二時過十二時則減十二時為太陽距午正後時分两数相加加滿二十四時去之用其淂春分距午時分春分距午時分者食甚時春分距正午後赤道度相應之時分也求月距限用交食北極高四十度黃平象限表以春分距午時分察表內時分相近者取其典黃平象限相對之数為黃平象限宮度典太隂
+  hash: sha256:68aebc7c32753dad1eeda6f5ba46ce09708cea3e4c02fcb95ee8bd366009d86b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7c2899315423b2c6f2f08d433b94caadc5e6f2a9c3de7b7a52c09453c9b40add

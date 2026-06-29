@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1489
+seq: 1489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求食既時刻置食甚時刻減食既生光距時淂食既時刻不足減者加二十四時減之食既即在前一日命時之法典平望同求生光時刻置食甚時刻加食既生光距時淂生光時刻加滿二十四時去之生光即在次日命時之法典平望同推太隂經緯宿度苐十二求黃白升度差用月離黃白升度差表以食甚交周宮度察其所對之分秒淂黃白升度差并記加減號
+  hash: sha256:d4fc3f93bce4a13920e7340f9a59c5a2b91b7b80cf4ed336371d90843d44db52
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bb429883b0a94e53192646dc4eaa2e1cb6ba51c8b016b068a19360136ef1a42e

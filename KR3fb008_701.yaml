@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/701
+seq: 701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曜蒙差桊以時令乃能立表推步其法須纍測交食之多寡早晏斟酌定之勿謂精于本法便可隨地隨時必無舛戾出若立差既定而臨食時氣候忽更此則難可預料然所失無幾矣此高差惟月食纍遇之若日食則二曜之蒙氣差大略相等高弧既同鮮有變昜徑可勿論也清蒙徑差史稱太陽全食畫晦星見此理所宜然若太陰全在日與人目之間而不能盡掩日體四周皆有餘光曆家謂之金環或有缺如鉤若依日月周徑本法則不應有此何者凡此一視徑或大或等于彼一視徑則以此體置之人目與彼體之間無不全受掩蔽者今
+  hash: sha256:2a6e5dfa841f2bcb328e29948610230987e43f0b1626960704c436b33b1d3304
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1a45d81ecab9e8e4326c9901b5a0a746ae0cd4c907e8efebd159afeac4d0d724

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1172
+seq: 1172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定二至限法以二至度為主加以本日太陽經度未滿宮度之餘分即是二至限如冬至日子正日經度為寅宮二十九度三十五分宿為箕三度三十五分加二十五分即未滿之餘分也則為冬至限在箕宿四度推夏至倣此定合朔弦望法合朔以月距日次引滿十一宮二十餘度此日即合朔也滿十二宮即宮是合朔之次日也相望亦以次引滿五宮二十度之上相近六宮即是望也到六宮即望之次日也求合朔時刻凡星同度法同
+  hash: sha256:c4dcc2503b932173be504814be7439224202af50560efc85c3caa73cd672618a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:af45058d8325bbe9c63999567fac7f926f52938a90c73acd93e601a4f5455abc

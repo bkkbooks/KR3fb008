@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2483
+seq: 2483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緯差角表緯差角表以并徑及距緯縱橫列之并徑自三十一分至六十四分列於前視緯自一分至六十四分列於上太陽最小之半徑一十四分五十九秒三十微太陰最小之半徑一十五分五十三秒三十微兩半徑相并淂三十分五十三秒太陰最大之半徑一十六分五十一秒地影最大之半徑四十六分四十八秒兩半徑相并淂六十三分三十九秒故并淂自三十一分起至六十四分止中列逐分之緯差角用表之法以并徑之分對距緯之分其縱橫相遇卽所求之緯差角也設并徑三十四分距緯三分求緯
+  hash: sha256:9befbac41ffd40c023c5d9b213577baff0fe220942f06e793aa0b9f1874c7e6d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:225e4d37be7f976bd12ad5ab55f83b893005a791aa9c3fd2b720c56ef914fc90

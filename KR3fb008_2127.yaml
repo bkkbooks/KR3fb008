@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2127
+seq: 2127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五帝座加四十七秒二十七微減二十秒一十二微右執法加四十六秒五十五微減二十秒一十三微軫宿一加四十六秒四十八微加二十秒二十微東上相加四十六秒四十六微減二十秒一十一微東次相加四十六秒二十八微減二十秒零一微角宿一加四十七秒四十八微加一十九秒二十四微角宿二加四十六秒四十微減一十九秒一十六微亢宿一加四十八秒一十九微加一十七秒四十四微大角加四十二秒五十微減一十七秒三十微
+  hash: sha256:79c9dcc64dc3cf5e21b22ebd20a6b4e250b3f591f1aea80c62ded90241639797
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:818bddb7864addad5c3085a54b7d02888e9c4ea3e085cb129cc007a37bcf728b

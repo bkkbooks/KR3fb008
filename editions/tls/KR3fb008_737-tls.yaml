@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/737
+seq: 737
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙與最大食分也太陰食甚前後時刻食甚前初虧也食甚後復圓也兩限之間時刻多寡其緣其三一在大陰距度因距度或多或寡每食不同即太陰入影淺深不同淺則時刻必少深則時刻必多其二在月及影之兩視半徑半徑小太陰遇之所湏時刻少半徑大太陰遇之所湏時刻多其三在太陰自行自行有時速有時遲雖距度同視徑同而自行遲疾不同即所歷時刻不同故欲得初虧復圓食既生光等時刻必合此三故乃可求也太陰虧復行度太陰入影自初虧至食甚之弧與其出影自食
+  hash: sha256:bf537b1239cc3a5d18d2acd095f119f93c1d2ca767dfa3b5a4d98977c95cd2bc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fc5362d82f44c291dec3ae93b198493b3d63541da00ff2af717f1c272cc7a8ee

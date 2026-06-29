@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 體有長有廣有厚方體圓柱體體之形方圓斜直各種不同然必有長短廣狹厚薄蓋㸃引為線線展為面面積為體而體之形乃至無盡矣論線八則一㸃引長之為線線有直有曲有有法有無法如下圖諸線是也又圓線為有盡之線直線為無盡之線直曲圓橢無法二蛇蟠線圓線直線之外又有三種線各不相同一為蛇蟠于平靣上作一線自內至外恆平行又恆為圓線而不過不盡如啚自甲至乙者是三旋風線于平圓柱上作一線亦如蛇蟠但蜿蜒騰凌而上如旋風也如啚自甲至乙者是四螺旋線于圓球上從腰至頂作一線如蛇蟠而漸髙如旋風而漸小如啚自甲至乙才是也
+  hash: sha256:22161f5b11becbccd30bd5daaa735729d65ef58649d411f0d5186368d8fe4100
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:cc5ce71defe7519eec007be235bf0d847bc87165c00aadd0405ba65c597a86b7

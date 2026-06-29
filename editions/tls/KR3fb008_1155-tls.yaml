@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1155
+seq: 1155
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求月孛經度查二百恒年表本年下月孛行年根又以距至日入太陰周歲平行表查距至月孛行並之淂月孛經度內減本年宿餘即月孛宿次度分
+  hash: sha256:d849d088353ba24ec9ab0ac219093c229b01a0b0e0180d0a31b99fb4f07f3db8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a2f994538381e9b49bfd7c9d71b56df39ae617b44f6245a3c16068098fe80552

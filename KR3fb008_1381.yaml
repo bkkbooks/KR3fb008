@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1381
+seq: 1381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宮則減六宮察其所對之太陽高卑差數即太陽高卑差求次輪寔半徑置本天次輪半徑加太陽高卑差淂次輪寔半徑求初寔行置火星平行加減初均數淂初寔行求星距日次引置本日太陽寔行減初寔行淂星距日次引求半外角星距日次引不遇半周者折半淂半外角遇半周者與全周相減餘數折半淂半外角
+  hash: sha256:229c11abea06d0496a4ad27f26fc19848cc06f468593ed226a0291fcdcdede2d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:675b588ade5d5cdfe412bf807f2f9cc8113fb5477b0760c31da8166bda232688

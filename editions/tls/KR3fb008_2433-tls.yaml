@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2433
+seq: 2433
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五度所對之東西差為二分四十三秒即所求之東西差其南北差為一分一十六秒即所求之南北差也交角為順度故用上東西南北差若高下差及交角皆有零分秒者用中比例三次求之
+  hash: sha256:41c60af432b6a0d3512458bf53d549f7b54269f78b82419618b41208647599d6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:766b38d565ab59da7ec66296c09368d7e14dc175f86b32fb96fef5f2fc609f25

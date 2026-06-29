@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1909
+seq: 1909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度求均数時差則察十一宮二十五度所對之数為四十四秒即所求之均数時差其號為加即為加差也十一宮在下故用逆度若引数有零分者亦按中比例法求之
+  hash: sha256:b003730e2295657741d7a4bd6d151ee5cf907a96aec1ca0763924484e319934e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4e6bc419089e2d01b2b2cae2edec1efcf60618bfee512ab12466d391ffecc85c

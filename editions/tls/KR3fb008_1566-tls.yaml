@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1566
+seq: 1566
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其所對之数為太陽地半徑差又用月離太隂地半徑差表以用時太陰高弧按太陰距地限察其所對之数為太陰地半徑差西地半徑差相減餘為用時高下差求用時東西差用交食東西南北差表以用時白道高弧交角及用時高下差察其典東西差所對之数淂用時東西差求近時距分以月距日寔行化秒為一率三千六百秒為二率用時東西差化秒為三率求淂四率為秒以時分收之淂近時距分用時月距限西為加月距限東為減以用時白道高弧交角變限不變限為㝎
+  hash: sha256:f6bc45de26cbfb26ed9ddcba36dfe750689fc2f218bcf12438ac1bcf74fd1d78
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:74fd032812f060ec735cdc6a1618eba937c8698c27b402f974e646f623292491

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1616
+seq: 1616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧交角相減淂初杅定交角初杅月距限西者初杅視緯在南則以初杅緯差角典初杅黃道高弧交角相減初杅視緯在北則以初杅緯差角典初杅黃道高弧交角相加淂初杅㝎交角如初杅無視緯則無初緯差角而初黃道高弧交角即初杅㝎交角求復圓定交角復圓月距限東者復圓視緯在南則以復圓緯差角典復圓黃道高弧交角相減復圓視緯在北則以復圓緯差角典復圓黃道高弧交角相加淂復圓㝎交角復圓月距限西者復圓視緯在南則以復圓緯差角典復圓黃道高弧交角相加復圓視緯在北則以復圓緯差角典復圓黃道高弧交角相減淂復圓緯差角如復圓
+  hash: sha256:b438bc9eedad72f0c81f4bf16b725de1c2da205200ec2c75faaacc6393e65018
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8570af424cbb0b9933771c4289d10d11a8216eba249365f9b9c4e35762dbdbac

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1755
+seq: 1755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應在丑仍在食甚辛點之西如辛丑是自食甚用時至食甚近時止見太陰行癸丑之度故以丑辛為差分以減用時之東西差辛癸餘丑癸為視行夫行癸丑弧既湏癸辛弧之時分寔度也即辛子則行癸辛弧以辛癸弧為視行度其歷時必更多于癸丑故以辛子弧視行度所遇時分加于食甚用時淂辛點為食甚真時也盖食甚用時寔經度在辛視經度在癸而寔甚近時寔經度在子視經度在丑則食甚真時寔經度必更在子點之東如寅人從地靣視之却見太陰在邜其視經度正當食甚白道之辛故太陰行至寅點方為食甚真時
+  hash: sha256:6b9c4d9ee67afd389784399a507bf2bfd474b411cba58629ab8608e47bfa18e4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:650b4df2d27f08712ad1ad8e3bae0e0def8e83924cb953e129a2011793e0a6d1

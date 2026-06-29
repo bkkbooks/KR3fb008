@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2975
+seq: 2975
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星距黃道表水星距黃道表按次輪兩交前後分順逆列之兩交後之各宮列於上初宮至二宮係正交後在黃道北六宮至八宮係中交後在黃道南其數同兩交前之各宮列於下三宮至五宮係中交前在黃道北九宮至十一宮係正交前在黃道南其數同前後列距次交實行度中列逐宮逐度之星距黃道數卽次輪半徑與次緯正弦相比例之數水星距次交實行在上六宮者用順度水星距次實行在下六宮者用逆度
+  hash: sha256:c37b6bbcc551bb3551ee180919cfb1550078020262ca38e9fbf69f9316d11503
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3a1c6c4112667a2d9950c41efe99e3d5de8536dfcd12a1465c2eaf3cdf07b799

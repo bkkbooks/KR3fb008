@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1673
+seq: 1673
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寔在其西故必以辛庚升度差變時為時差以加于平時淂用時如庚點當午正末即午正末為平時以時差加之淂辛點在未初為用時秋分後與春分同故凡分後两象限用時皆在平時西其時差宜加至後两象限用時皆在平時東其時差宜減此以分至為時差加減之限赤道上事也是二者一以髙卑為加減之限一以分至為加減之限未可混合故立表仍分為二一用太陽均数変時以引数查之一用升度差変時以寔行查之依法加減而次庶平時用時相較之分可淂真数也
+  hash: sha256:9c979fce7451364df8aa73ed6dbae49ff888cf5d24b5d8ecdbbcd20f1f0ca83d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f90899c7bdd7003d9502bfcb0be485b55a8c8ffc808fdbfa0591f379049d60d5

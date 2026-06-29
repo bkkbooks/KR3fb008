@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/539
+seq: 539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及巳戊入隂曆為日食限二十度四十一分甲庚及乙辛入陽曆淂十一度二十二分多祿某所定率則限外弧已丙戊淂一百三十九度庚丁辛淂一百五十七度十六分越六月之中積交周一百八十四度有竒先去全周則大于已丙戊及庚丁辛两弧故初月在食限内與正交相近者六月後則近中交亦在食限內而日能再食若月食不論陰陽暦其限皆一十五度十二分則已丙戊及庚丁辛两弧皆一百四十九度三十六分皆小于中積交周度故初月交周度入巳甲庚食限內後六月又在戊乙辛食限內而月䏻再食矣太陽越五月或七月皆䏻再食太隂越五月䏻再食越七月
+  hash: sha256:62a0b47d6a49433fb644f8a312b296e7aee6d95aa7b8e1598d5ebd9bac4b2565
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3cb5b2c0a8d4ea72973f170df1f2b483f02f1af7459a3aa6c28e4df477d76ed4

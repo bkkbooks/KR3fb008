@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2673
+seq: 2673
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星次輪半徑之差數也火星次輪半徑太陽左最高時則大太陽在最卑時則小故以太陽引數求其逐宮逐度之差為太陽高卑差數用表之法以引數之宮對引數之度分其縱橫相遇卽所求之數也設火星引數為初宮四度五十分求初均及次輪心距地本天次輪半徑則察初宮四度五十分與初均所對之數為四十八分二十二秒其號為減卽所求之初均其所對之次輪心距地數為一一一一一二六卽所求之次輪心距地其所對之次輪半徑本數為六五六七五八卽所求之本
+  hash: sha256:9eef416c43874886b85de40635e05aae873a760c26238e37eaa8425998bc85ee
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:809a8cead37ad15a60bde121738d14f95bd5fcaf221e615b9a8767a4396f5e93

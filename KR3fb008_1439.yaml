@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1439
+seq: 1439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽平行望策一十四度三十三分一十二秒九微太陽引數望策一十四度三十三分零九秒四十一微太隂引數望策六宮一十二度五十四分三十秒七微太隂交周望策六宮一十五度二十分七秒各以每日平行與望策日分相乘即得一小時太陽平行一百四十七秒小餘八四七一四九一小時太陽引數一百四十七秒小餘八四一二七一小時太隂引數一千九百五十九秒小餘七四七六五四一一小時太隂交周行一千九百八十四秒小餘四二五四九一小時月距日平行一千八百二十八秒小餘六一二一一零八太陽本天半徑一千萬
+  hash: sha256:6870dce8d6ff6a44c31ebd875a27971920b5496c21c4e2a4e59c09f29f4bba48
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ba3fe33d2e332bdd51a6274e6b67d6fec199d2c102ae9638150e0103c274436a

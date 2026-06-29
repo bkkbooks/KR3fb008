@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1548
+seq: 1548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減者借一日作二十四時則實朔退一日推實交周苐五求交周距弧用交食周日諸平行表以距時之時分秒各察其典太隂交周相對之数而并之淂交周距弧寔距時為加者亦加寔距時為減者亦減求寔朔平交周置平朔太陰交周加減交周距弧淂寔朔平交周求寔朔寔交周置寔朔平交周加減太隂寔均淂寔朔寔交周自初宮初度至初
+  hash: sha256:59c47b60c05f49dd591e63b55f3d1e9db97b5fcc3efeafb31589bdcf7811fee0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:83d42d95d149c1253ad982ff1370257448ae22cf5bdf6910cc41f2df7474b9a8

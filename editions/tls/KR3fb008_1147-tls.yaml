@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1147
+seq: 1147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星數與距日相加為搃相減為較以半距入八線表查其切線為三率較數為二率搃數為一率推得四率為切線以切線查八線有取其相當之弧度為減弧用減半距淂次均次均視距日在前六宮者加後六宮者減以加減于寔行得星視行寔行減去交行即星距交以距交宮度入緯限表查中分以距日度查緯限若距交在北六宮又查北加減分亦以距日宮度為引數依號加減緯限為定緯限中分與定緯限各化秒相乘三千六百秒除之淂星視緯度距交
+  hash: sha256:28856231960daa3284ea55c9fa1a8cb706f5a475f7154276e6a3611fd4a5c8d0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:01e087019a71c803048e2c7c755ca3cb4eb60a63496974a8bccb6dd0c5dd9dff

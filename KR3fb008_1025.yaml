@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1025
+seq: 1025
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五百餘日一周水星一日順行三度六分一百十五日一周凡星在丙距地極遠為合伏晨伏自丙右行至子為畄夕畄行半周至申距地極近為退合伏夕伏以日骵在戊未之間人目在甲故不能沖太陽而為合伏伏後上行至醜又留晨畄至丙再合伏晨伏滿伏見輪一周生在醜丙子上半周順行在子申醜下半周逆行在醜子兩
+  hash: sha256:d89f468655e586875b97de8c5e8e6d12f4fcdfeeb873873771293425a994313a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f0a9a015dbf30e95da4c6cddeaaeda493e6980fa0574ff473932c114c01ed23f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/851
+seq: 851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五星七曜序次五星麗天位置有高卑包函有內外去地有遠近古定第一重為太陰天第二水星天三金星四太陽五火星六木星七土星八恒星九為宗動天各天皆以地為心重重包裹如疊多環至其高下之序或驗以行度之遲疾或測其視差之大小或察以掩食之高低皆反覆比論而無可疑者後萬曆間第谷用遠鏡窺金星如月有晦朔弧望因知金星有時在太陽之上有時在下又見火星對沖太陽時其體大視差較太陽為多知此時必卑于太陽而在太
+  hash: sha256:1b31ba2e1f6fb196e650d8e9c1a256422183202d7fd4720448903f3acb71ce58
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7e0a9d934c5c0702079b16d80caa9e105be7effe0275fecf251553880c5355de

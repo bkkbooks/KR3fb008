@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1288
+seq: 1288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自天正冬至次日距所求本日共若干日與太陽每日平行三千五百四十八秒三三零五一六九相乘淂數為秒以宮度分妝之得日數日數者乃所求本日子正初刻距天正冬至次日子正初刻之平行經度也求平行以年根與日數相加淂平行平行者乃所求本日子正初刻太陽距冬至之平行以度也求最卑平行以積年與最卑每歲平行六十一秒一六六六六相乘淂積年之行又以日數與最卑每日平行十分秒之一又六七四六六相乘淂日數之行兩數相並與最卑應七度一十分一十一秒一十微相加淂最卑平行上攷徃古則置最卑應減積年之行加日數之
+  hash: sha256:5cb467b5d1c0077b71fae5fada2eeca41b48821195c5ddf2a15651aba0ca3afd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e4bca95a4e136d46369c87f037accf5074f68bba20d6e8d7b3ca51daee92b401

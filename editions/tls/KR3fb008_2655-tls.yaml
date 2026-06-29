@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2655
+seq: 2655
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木星距黃道表木星距黃道表亦按兩交前後分順逆列之兩交後之各宮列於上初宮至二宮係正交後在黃道北六宮至八宮係中交後在黃道南其數同兩交前之各宮列於下三宮至五宮係中交前在黃道北九宮至十一宮係正交前在黃道南其數同前後列距交本道度中列逐宮逐度之星距黃道數卽次輪心距黃道之數木星距交實行大上六宮者用順度木星距交實行在下六宮者用逆度
+  hash: sha256:9d813cb543b15a890382ea477acee52dbac0271f191fb5c480795b3cdf9eed25
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f869cdccf75e21d0bff0e9afff1f4cc63cf4bc028e96d293700fe4c65f5814a2

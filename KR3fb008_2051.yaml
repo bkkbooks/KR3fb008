@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2051
+seq: 2051
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恒星黃道經緯度表恒星黃道經緯度表以曆元康熙二十三年甲子之黃道經緯度列之上列星名次列黃道經度次列黃道緯度下列星等用表之法設康熙甲子年日躔黃道初宮八度求黃道宿度則察恒星黃道經緯度表斗宿第一星共道經度為初宮五度五十分取相近畧小者用與日躔黃道經度相減餘二度一十分卽太陽八斗宿二度一十分也若求曆元後各年之黃道宿度則以所求之年距
+  hash: sha256:9324df9e1f9670f34b8f4cf4810836a973d66f977a6ab2865ded8254d62eca1c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7d939574c7812f44d4f90eebd5ca5515d46533c84662fea230f73b7140cb4db6

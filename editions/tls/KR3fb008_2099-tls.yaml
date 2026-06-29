@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2099
+seq: 2099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五帝座八宮二十三度一十三分北一十六度二十一分一右執法八宮二十三度三十五分北三度三十四分三軫宿一八宮二十九度五十八分南一十五度四十四分三東上相九宮六度二十五分北初度一十八分三東次相九宮九度五十七分北五度零九分三角宿一九宮一十七度一十分南九度二十七分一角宿二九宮一十八度二十三分北一度零一分二亢宿一九宮二十八度五十九分南八度四十四分四大角十宮初度二十二分北二十度五十六分一
+  hash: sha256:7071b3124c3484d3514de3cb33bca7f11c14305aac06c8730656fd6b1a951ac5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:adf82f39114db59019c1c859938a46e19efb2bb955802d469450cb7f216c46cd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/899
+seq: 899
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七四三一為前推甲乙邊九五九八以兩率通之求甲戊線與甲乙全弦同類法甲乙線與甲乙弦若甲戊線與甲戊全弦一二四五二六查弧淂甲戊弧七十七度四十三分六甲戊甲乙丙乙三弧並之淂一百九十度三十八分求其弦淂一九九一四四丙戊線也七戊甲丙弧大於半圈分即圈心必在其內今置心在巳作庚巳丁壬遇兩心線定庚為最高壬為最卑巳丁為兩心差數又庚壬線截丙戊弦于丁求戊丁丁丙兩弦之分法甲戊丁形之甲戊邊九七四三與甲戊弦一二四五二六若戊丁邊七二二六與戊丁弦九二二八用減戊丙弦淂丙丁一六八六四
+  hash: sha256:3d83bd30b0ce4dfe613ae16bedb30f448f31de2fcb655d2de46afa67861da847
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:896ddb204b5186ac8a7e4019b1a4028bba52bd7363243d6f022c6c51342f4f31

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1055
+seq: 1055
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡圈側視之如一直線丁丙為本道面設丁為南大距即丙為北大距合沖為南歲輪合醜為北歲輪俱與黃道為平行面如輪心在北距地線丙甲大於在南丁甲則星在北沖時之醜甲庚緯角必小於在南之癸甲沖角北合伏時之庚甲合緯角必大於在南之癸甲合角若甲丙小於甲丁則相反求之先測淂歲輪心在北丙之醜甲庚角測淂土星二度四十七分木星一度三十六分火星四度二十分與丙甲庚角相減本道交角淂醜甲丙角次用醜丙甲形有醜丙半徑有醜丙甲角有醜甲丙角求淂甲丙北歲輪心距地心線次如前求合甲庚諸緯角與南相當各
+  hash: sha256:da8799ec82502340daa81f619c0e0cd3768cb031283a5217729584a7dbea849c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9ffee7d9fd5aa68cf0e82522cfa153306100d3db89f754732ecdd231ff8d4c2b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1584
+seq: 1584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置食甚實緯加減真時南北差淂食甚視緯白平象限在天頂南者實緯在黃道南則加而視緯仍為南寔緯在黃道北則減而視緯仍為北若寔緯在黃道北而南北差大于寔緯則反減而視緯即變為南白平象限在天頂北者寔緯在黃道北則加而視緯仍為北寔緯在黃道南則減而視緯仍為南若寔緯在黃道南而南北差大于寔緯則反減而視緯即變為北求太陽半徑用交食視半徑表以太陽寔引宮度察其典日半徑相對之分秒淂太陽半徑求太陰半徑
+  hash: sha256:70326777a7e2fc5a5def35aade0caa07d50006d5c97d0fd38f5edff5c44dee4d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:40fcba1670ffd89cb1535eca42d2c8f36542fa988e1c32c30bafd7f91d5441ad

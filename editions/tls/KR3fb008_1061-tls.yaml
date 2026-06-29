@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1061
+seq: 1061
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之交道丁得距黃道為丁丙即星距交在午歲輪在未相當之緯度也法丁醜六十兮與丁醜緯限若丁丙中兮與丁丙視緯上三星距正交在前六宮緯北後六宮緯南與朋離仝測金水二星緯度上三星之緯一由本道斜交黃道一由歲輪復斜交本道與黃道為平行面金水二星不然其緯皆由伏見輪斜本道而生與本道
+  hash: sha256:e5c24fa345d45d536c9025954a63f5e21214e406b9603da47ee9efe2956ae6ed
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:06528eb38adc7a30117596c8234134313bd9fa844aaf8f01e7abaea8fca2aa88

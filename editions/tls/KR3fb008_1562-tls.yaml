@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1562
+seq: 1562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用交食北极高四十度黄平象限表以用時春分距午時分察表內時分相近者取其典限距地高相對之数淂用時限距地高求用時太陰高弧用交食太陽高弧表以用時月距限及用時限距地高之度察其所對之度分秒淂用時太陰高弧合朔日月仝度故太陽高弧即太陰高弧求用時黃道高弧交角用交食黃道高弧交角表以用時月距限及用時限距地高之度察其所對之度分秒淂用時黃道高弧交角求用時白道高弧交角置用時黃道高弧交角加減黃白交角四度五十八分三十秒食甚
+  hash: sha256:74c3aac5d1c3b85cfcf16962097d3bcce80e45c84687e8029715d74dbf2e9728
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:259731588c4cca2f6bedc0324e465b550bcc8608307277f164a22302f6a350ff

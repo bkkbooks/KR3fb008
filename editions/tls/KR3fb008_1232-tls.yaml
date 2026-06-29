@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1232
+seq: 1232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日在限西後時差大則減小則加日在限東後時差大則加小則減若差分用併者恒減又若食甚真時交角滿象限無真時可較即用後時差或復圓交角滿象限無後時差亦即用真時差法恒用減與初虧同置日食月行分即初虧所用內減一分化秒為三率一小時六十分化秒為二率本求視行化秒為一率推淂四率妝之為復圓距時分置真時恒以復圓距時分加之淂增圓時刻十六求宿度置日寔經度命黃道中名即食甚時黃道宮度初宮起星紀以各宿黃道宿鈐近小者去減黃道宮度即得食甚時黃道宿度記寫宿名法以所求年距曆元戊辰之算乘歲差五十一秒加入宿鈐然後減之如
+  hash: sha256:d0ac5b56b95bd0ce9765909c4eba4b2b54b46dba8f02c308ef24ad1ea5c35556
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:884afd74670f714e362db7a99d3974185b99d57acc6b3a1fa4fdce785b4e918d

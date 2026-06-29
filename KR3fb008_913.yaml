@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/913
+seq: 913
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巳丁壬線定庚為最高壬為最卑巳丁為兩心差數又庚壬線截丙戊弦于丁求戊丁丁丙弦之分法甲戊丁形之甲戊邊與甲戊弦若後戊丁邊與戊丁弦一七一二四以減戊丙弦淂丁丙弦九二六一八求乙丁以丙丁弦與丁戊弦相乘又全數自之庚已也兩數相減餘為丁巳上方積開方淂八九二即木星兩心之差也九戊丙弧平分于辛作辛巳垂線必平分戊丙弦于癸成已癸丁直角形癸為直角形有巳丁有丁癸以戊丙線半之與戊丁相減淂癸丁求丁
+  hash: sha256:938a2822c04a23fd54b932affb15805999baed2ac1a6a6bde973c8fa3f42fe67
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3f0554d10ed26492c53e8f1e71dda8f321521efc849ed97d6a7dbd9556f49e17

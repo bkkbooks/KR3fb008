@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1507
+seq: 1507
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求食限搃時以初杅復圓距時倍之淂食限搃時食限搃時者初杅至復圓之時刻也
+  hash: sha256:1e3c1f79995e04a441376861e64a7c8d5c18ab386ec723d993afaf6c40dcff78
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:32330eee4a90e0ab6c7ef4b4a3d829c12582967e70f4283dc710a7404992eb53

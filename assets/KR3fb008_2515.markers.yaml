@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fb008/bkk/v1/markers/2515
+seq: 2515
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p749.s2}
+  - {type: line-break, offset: 0, content: '', id: KX_2_dup621, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3fb008_tls_001-p749.s3}
+  - {type: line-break, offset: 4, content: '', id: KX_3_dup620, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR3fb008_tls_001-p749.s4}
+  - {type: line-break, offset: 9, content: '', id: KX_4_dup615, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3fb008_tls_001-p749.s5}
+  - {type: line-break, offset: 29, content: '', id: KX_5_dup611, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR3fb008_tls_001-p749.s6}
+  - {type: line-break, offset: 49, content: '', id: KX_6_dup612, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR3fb008_tls_001-p749.s7}
+  - {type: line-break, offset: 69, content: '', id: KX_7_dup603, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3fb008_tls_001-p749.s8}
+  - {type: line-break, offset: 89, content: '', id: KX_8_dup603, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR3fb008_tls_001-p749.s9.1}
+  - {type: line-break, offset: 109, content: '', id: KX_9_dup599, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg-start', offset: 118, content: '', id: KR3fb008_tls_001-p749.s9.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p749.s9.2, KR3fb008_tls_001-p749.s11.1, KR3fb008_tls_001-p749.s12.1, KR3fb008_tls_001-p749.s13.1]}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3fb008_tls_001-p749.s9.2}
+  - {type: line-break, offset: 129, content: '', id: KR3fb008_tls_2515-bkklb1}
+  - {type: punctuation, offset: 137, content: 〇, id: KR3fb008_tls_2515-bkkpn1}
+  back: []
+hash: sha256:ac812265153ca9f895a8b6e7fb640aa6dda925bb121f620ab807b38da32db637

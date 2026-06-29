@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/651
+seq: 651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 壬之差未見同度而丁壬即高𤰞差也壬丑為視髙丁丑為實高夫實會時太陰既在壬則前所推實會時刻丁點非人目見食之時法于黃極上作申壬大圈過太陰壬截黃道于午則實會時人目見太陰之黃道經度為癸午並不與太陽之黃經癸丁同度其差為午丁乃東西差也若欲得視會須以壬太陰進退之使掩丁日如本啚則應以午丁弧化時減前實會時刻使太陽與太陽同度在戊未圈上其所退之
+  hash: sha256:8e702927d63de306345be1aad6a6375972eb5e796b94cc679d25c03ab8f87976
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:964c29a868387763c8fe210a4a6b9b332ae4b1b946ce8e8a6cad12996af16e2f

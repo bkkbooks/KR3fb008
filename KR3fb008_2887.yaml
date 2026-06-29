@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2887
+seq: 2887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分求次均及較分則察二宮五度三十分與次均所對之數為一十五度五十五分二十七秒其號為加卽所求之次均其與較分所對之數為一度三十一分四十秒卽所求之較分也二宮在上故用順度若引數或伏見實行有零分者按中比例法求之
+  hash: sha256:80b893dcf9871b38223a1ddcaa4e9f02990fb162d69050bde69431be4cbfea5e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b7d64816fd88526e4f61b052e417547cfd0aef1274132a6a4b0e1554283d8364

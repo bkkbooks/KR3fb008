@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/791
+seq: 791
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 測太陰食分算食而不測食則無以考其法之疏密故必隨測隨算了然于心目之間則視差視徑時分俱準而法亦得矣測食常法全賴目力因分太陽徑為一十分太陰徑亦如之食甚時則以所見不食之徑約略不能見之餘分設并見失光之體庶幾所食有半者依此以測猶可此外則多謬舄何也太陰未食以前欲用器測全徑食甚時又測光所存之餘徑此際甚難其光微又無從定中線故且不正合于法今補此缺用太陰地影兩徑之比例及太陰見缺之邊如啚地影心在丙得乙戊辛弧為邊太陰心在甲以其乙丁辛邊弧入影中為所
+  hash: sha256:f12f74adc865585e258190e92c92eeb273b8856add9b0ce309acedbc94f50570
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c3c4f5b5d1700c0fb06a5d36b3b9d3377d088b86e368c73abb1a31c8e4dcef49

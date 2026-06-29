@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1294
+seq: 1294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淂節氣時刻如本日寔行適當節氣宮度而無餘分則交節氣即為本日子正初刻次求節氣用時乙太陽引數宮度察日躔均數時差表淂均數時差以節氣宮度察日躔升度時差表淂升度時差依兩時差加減號加減節氣時刻淂節氣用時推各省節氣時刻各省節氣時刻皆以京師為主視各省城東西之偏度加減之盛京偏東七度一十五分則加二十九分每一度當四分浙江偏東三度四十一分二十四秒加一十四分四十六秒福建偏東二度五十九分加一十一分五十六秒江南偏東二度一十八分加九分一十二秒山東偏東二度一十五分加九分江西偏西三十七分則減
+  hash: sha256:7b606e798f3ed6e66afa4c93df5d7516d203c68a50a27e6aa5dba033edec755e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d11da071af6a1c160d09f8b9b02b15b3d64fd3f115fb905a043a9a66c40e88f5

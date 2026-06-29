@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又極之球面銳鈍角且三邉不等形而三角形之理始盡由是舉天下有形有質之物細若纎芥鉅若大圜悉可極其數而窮其變矣今以平面曲面諸形銳角鈍角諸算著于編首以明推步之本原云平面直線三角形總論公界四則㸃㸃者無分甲如甲㸃無長短廣狹厚薄凡物之形皆始乎㸃線線有長無廣直曲線者如一平面光炤之其有光無光之間不容一物是線也線有直有曲面面者止有長有廣無厚一體所見為面凡體之形極似子面無厚之極又如田疇界域止論其廣逺不論厚薄體
+  hash: sha256:b1b01e17988d8a13345ba602209e6c6c9e522b7c24f16ef04d2c9b9b57c3f6ca
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:87e2d37ffc3d786d82604e746e70b0d4c0d1cc8db3122ffd963340b401fe0e8c

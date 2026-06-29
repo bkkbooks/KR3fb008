@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1117
+seq: 1117
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也五星旁新星土星向耒止見一星今用遠鏡見有三星中一大星是土星之骵兩旁各一小星環行於土星之上下左右有時不見蓋與土星相蝕也又見土星骵非渾圓兩旁有附骵如鼻若木星見有五星木星為心旁有四小星常環行其上下左右時相近時相遠時四星皆在一方時一或二或三在一方餘在他方時一或二不見其行皆右旋在上順行在下逆行近木星則疾行距遠遲行順行與木星會則不見為木星所食逆行不食盖以木星為環行之心其圈又不與木星本道同面也當木星沖日及在本輪最卑或晨昏
+  hash: sha256:884aa05c711ff6eba2f1354c0acb63d74a67894eaac74d4bd6641e7426cc1764
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2f038e419986be730bf7c77d89a5eb3bc153c2d696ead0d0f105b71ee9d17eb7

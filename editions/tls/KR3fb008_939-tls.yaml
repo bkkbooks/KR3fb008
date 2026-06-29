@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/939
+seq: 939
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊角與晨測甲丁巳角等則甲癸兩平行折中之處如庚如辛必為金星之最高或最卑何則巳丁甲癸丁戊兩大距角既等其壬丁兩丁二距心線必等而兩平行甲癸二點之距最高或最卑必等其初均之丙丁甲癸丁壬二角亦等其兩平行距最高卑或不等則伏見輪上之大距度晨夕必不能等以丁壬與丁丙二線不等故也
+  hash: sha256:6040fde4dc3a2f41ce87a6646ce67790c685f52d5dc84c2e5e45ea0003655a25
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:79aa7deb2d135e5dd917539f784b071b06109f407ed65d43afa005ba37caadc6

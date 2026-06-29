@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1196
+seq: 1196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大減小得月星視距度如一南一北兩數相加相距一度外不用以月寔行分化秒為一率時差分化秒為二率六十分化秒為三率求得四率妝之得定時差以定時差加減視星距限度東減西加於淩犯時刻淂月星淩犯視時推月與五星淩犯倣此
+  hash: sha256:2878f37f44f53b87d93203fe6020b837f4e16f213f9ffc1d174548e24e6528a3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:aa54582682f6dd3018d30d5700492124c0ca64dc3a80666ba57082aec13a67d0

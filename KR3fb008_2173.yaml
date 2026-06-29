@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2173
+seq: 2173
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即所求之距度也表以十分為率若交周有零分者按中比例法求之設太陰交周初宮三度二十五分求黃白距度則以交周初宮三度二十分所對之數一十七分二十秒與下層三十分所對之數一十八分一十二秒相減餘五十二秒為一十分之較乃以一十分為一率較數五十二秒為二率設數五分為三率求得四率二十六秒與初宮三度二十分之距度一十七分二十秒相加得一十七分四十六秒即所求之黃白距度也
+  hash: sha256:8fa640e9823350debf7a3f7be2a5e86387f6b46436747750dcc7d7f11111927b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0a19430e094e6e1ddf29befd1ba4dae3756db7bd0474126bd5ec6c7245a5fe58

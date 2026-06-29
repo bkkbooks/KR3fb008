@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1093
+seq: 1093
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道上距日因前定子癸為見伏之界即甲癸為星黃道上見不見之限也也若所設距日度大於甲癸則甲星能見小於甲癸則伏甲癸弧即表所書黃道上距日限求之用甲子癸形子為直角有子癸有子甲癸黃道與地平交角此數見交食九十度表蓋甲點為星黃經從甲數九十度至戊即戊為中限戊丙為中限之高即甲角之度也法甲角之切線與子癸之切線若全數與甲癸之正弦淂甲癸距日限度又子癸線如上各星所
+  hash: sha256:88609baa105a2dc2bba5ebfc15aec23b93b386ce44b031d7c60a8797c4c689d0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:eaa55ca5620ae0c1a4e9dc821f03b09d95d655f6a304e481b1828d80cbd93f46

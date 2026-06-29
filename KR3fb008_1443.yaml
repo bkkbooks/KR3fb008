@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1443
+seq: 1443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陰㝡高距地一千零一十七萬二千五百與地半徑之比例為五千八百一十六黃赤大距度二十三度二十九分三十秒黃白塑望大距四度五十八分三十秒氣應七日六五六三七四九二六紀八日朔應二十六日三八五二六六六朔應者暦元甲子年首朔距天正冬至次日子正初刻之日分也諸矅皆從天正冬至起算交食則自合朔起算故以首朔距冬至日分為朔應首朔太陽平行應初宮二十六度二十分四十二秒五十七微暦元甲子年首朔太陽距冬至之平行經度也合朔日月㒰度故不用太陰
+  hash: sha256:33e8bc4acd461d89471e963558f9abc7299281978f67c77954942e2703f57fd4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2313a1001a3480b24587c3552f17ede226a4aa095bcc18c099bcbebf65ea6c0a

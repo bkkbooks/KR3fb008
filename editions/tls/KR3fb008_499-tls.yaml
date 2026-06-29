@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/499
+seq: 499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙視角為小而入遂見丙丁大于甲乙寔則两物之骵等也故凢物未㝎其遠近目不䏻㝎其寔大小一两物大小不等若大遠小近視之若等如甲乙两物甲骵夲大于乙骵因甲遠乙近目視甲之丙目丁角與視乙之己目戊角竟若相等則目㝎两物之大小亦等而不䏻見甲之寔大于乙也測日月視徑凢視大小之度在瞳心之視角角之度分即對弧之度分夫人目在大圜之中則天上度分為人目所㝎視大小之度分故論日月視徑皆用周天度今用儀測淂太陽視徑度冬至
+  hash: sha256:4b9eacf9fb7699d1482c436731ec7a3faa9eb45a9c27359d2a31202328c3c510
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:da441c878e26fba15a0c7bac10976dbf5f5b8f2a806958d7391b0b2f890d9209

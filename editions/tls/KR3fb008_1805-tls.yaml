@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1805
+seq: 1805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 確準也求土木火三星緯度新法曆書求土木火三星緯度置次輪心于大距處筭次輪上一周之視緯名為緯限餘處則用中分法以括之今法依歲輪心所居隨時推筭如圖甲為地心辰庚戊酉為黃道辰坎戌申為行本道乾為黃極酉申庚坎為遇二極經圈星本道之辰申戌半周在黃道比戌庚辰半周在黃道南辰為正交戌為中交設歲輪心在乙距正交為辰乙辛子
+  hash: sha256:2dee59ae37e14e2f5391222e7c414dfa04b62183c6af44ef8c196052df5a9289
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:03f5964cb3c487c5864129e7999e00fa171afbf2541bf9d9bb56c80c94e2af09

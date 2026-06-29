@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1749
+seq: 1749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寔行為比例淂戊巳可變十分以減寔朔用時甲戊大于甲丁則加淂太陰在戊點為食甚用時也求日食食甚真時及食甚視緯日食食甚時刻必以東西差加減用時方為真時而東西差之時分最為难㝎盖太陰因視差之故其行度時不同若以寔行比例加減用時而其時又有東西差必不與用時之東西差相等自
+  hash: sha256:a018784f7a7459f0d550a279d5dedae3230779c5587b2afd6421ad0ed3eef7e3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e5cb49b805fe7379569d53a289efd17450e41751cbda6824085ac597cdac39a3

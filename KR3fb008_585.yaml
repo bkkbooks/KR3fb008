@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/585
+seq: 585
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 影設月在最高距地為癸己則辛子為最高時影在最𤰞距地為戊己則壬丑為最𤰞時影而壬丑必大于辛子求之以丙己地半徑一度減戊乙日半徑五度二十五分第谷所㝎淂戊丁丁丙與乙己平行次用戊丁丙丙己甲兩相似形戊丁與丁丙丁丙即乙己日距地數若丙己與己甲淂總影之長次以己癸最高月距地數與己甲影長相減淂癸甲次甲己與己丙若甲癸與癸辛倍之淂辛子為月在最高之影徑但辛子乃地影之實徑與戊乙丙己諸線為同類而非人目所
+  hash: sha256:ab6e425c961ed8862405b9e149194914f99db2fbdf52b2d6bda2b4e902a96d38
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:89711f949d9ba446ad7de4fedd3e5cb4f71b64e0a4fd81dc755b442b16de175f

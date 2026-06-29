@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1041
+seq: 1041
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 輪在心本輪某度之較分與在最卑之較分若中分與六十分也蓋為本輪上自高至卑各度較分大小之公數如圖丁為地心乙丙圈為星本輪小圈為歲輪乙丁為輪心最高距地丙丁為最卑距地法以乙丁與丙丁相減淂乙丙為一率又以乙丙命六十分為二率如輪心在戊距最高為乙戊弧其輪心距地為戊丁線即求初均時均輪上距地心線即以戊丁即丁與乙丁相減淂乙巳為三率求淂四率乙巳即距最高乙戊弧相當之中分也故表相自行度分為引數
+  hash: sha256:03bf43e9e3e08c12aef04db5409b8f83b416ba8d38e1f7f40735362d7a3edb70
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8f0b1e78a410a73a99ac1bf3131ca4f46e1bb9df62abab0e06f3460b5338bda3

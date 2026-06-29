@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1137
+seq: 1137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 入太陰時刻平行表內查其平行依日差號以加減於月平行月自行為平行搃平行引平行引即引數以平行引查太陰自行加減表相較即中比例法見前得初均數記加減號引數前六宮為減減後六宮為加均數依號加減于平行搃為寔行又用以加減平行引為寔行引實行內減去太陽經度不及減加十二宮減之為月距日次引以月距日次引若在六宮已上減去六宮用之同寔行引宮度查二三均數表縱橫相遇相較得次均依號加減于寔行得白道經度以月距日次引入交均距表查交均記加減號隨即于交均下查取大距數
+  hash: sha256:c6ea2808f16c10bebc2a633cfb25057430f64d91e384b287284fcb3749dbc4c5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6a380ee6a39d83529ff3406c10e80b7e24f7b7b829e3ce60c159a628d5579e47

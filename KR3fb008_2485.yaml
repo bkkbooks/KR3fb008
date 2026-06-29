@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2485
+seq: 2485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 差角則察並徑三十四分與距緯三分所對之數爲五度零三分四十四秒卽所求之緯差角也若并徑及距緯有零秒者滿三十秒以上則進作一分不用中比例因逐分之緯差角雖有數度之差而定交食方位所差甚微故也
+  hash: sha256:af872e50c08c819be58709421dc5d1450546b47e05545229072f08ad057d8cdc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d1146cfb41809cbf87c387430ad94926291dae558be038a9da294c6dbbd2f7ba

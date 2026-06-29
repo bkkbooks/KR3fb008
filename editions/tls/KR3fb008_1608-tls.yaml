@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1608
+seq: 1608
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西差相減為差分以加減初杅復圓距弧復圓典食甚同在白平象限東復圓東西差大則以差分加復圓東西差小則以差分減復圓典時甚同在白平象限西復圓東西差大則以差分減復圓東西差小則以差分加淂復圓視行食甚在限東復圓在限西者以復圓東西差典食甚東西差相并為差分以減初杅復圓距弧淂復圓視行求復圓距分以復圓視行化秒為一率初杅復圓距時化秒為二率初杅復圓距弧化秒為三率求淂四率為秒以時分收之淂復圓距分求復圓真時置食甚真時加復圓距分淂復圓真時推太陽宿度苐十四
+  hash: sha256:397095c64b8c0fccaae4d296e56712ace577f230f8a67f0b349e68d1400234ba
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:efd53dc6fca3cb94b98de2dc3bcedc5b85650da18ca2d9ad104ee2028edc38ae

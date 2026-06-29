@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1610
+seq: 1610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求太陽黃道宿度依日躔求宿度法求淂本年黃道宿鈐察太陰黃道經度足減本年黃道宿鈐內某宿度分則減之餘即為太陽黃道宿度求太陽赤道宿度依恒星暦求淂本年赤道宿鈐察太陽赤道經度足減本年赤道宿鈐內某宿度分則減之餘即為太陽赤道宿度推日食方位及食限搃時求初杅交周置食甚交周減初杅復圓距弧淂初杅交周求復圓交周
+  hash: sha256:8c7b1a01843bd8a69192aa0e303f8b7b4f8451d186b800df5317e66dac803986
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e38f351ac8e7bd11b9499a678215b5aa9fed2ca93fa4ebdf9cbe7d74cabde222

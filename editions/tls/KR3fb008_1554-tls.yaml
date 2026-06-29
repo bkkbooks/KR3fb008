@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1554
+seq: 1554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用日躔升度時差表以太陽黃道經度察其所哦對之分秒淂升度時差并記加減號求搃時差均数時差典升度時差同為加者則相加為時差搃仍為加同為減者亦相加為時差搃仍為減一為加一為減者則相減為時差搃加数大為加減数大為減求寔朔用時置寔朔加減時差搃淂寔朔用時距日出前日入後五刻以内者可以见食五刻以外者则全在夜即不必筽推食甚寔緯食甚用時苐八
+  hash: sha256:9b2ccfb214e1395792a35cd8c3b04dd9ff2bb3104c623821177227960334550f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4fd165789b6be1332fae45a44d77789251a90169a715f5b8d33ea12198c3dfa4

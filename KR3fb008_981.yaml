@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/981
+seq: 981
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所測視經相減淂六度十二分十七秒即丙丁乙次均角也丙丁乙形有丙丁前求初均所淂有乙丙丁角或乙戊弧距日減周之餘半有丙丁乙角求丙乙邊淂一萬四百二十六分為土星歲輪半徑立表用此測木星歲輪半徑第谷門人於萬曆二十一年癸巳西九月二十八白戊正本方測木星枉星紀宮十三度五十六分依表求其平行距冬至三十度
+  hash: sha256:032008d4396d5270c9ddb25809bfe5b59f6f8b233a6697096f0b371e5e6c8041
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:bb73c546c351cf6c3b36b70fa9e0cf40ca22d871e14c92114e437639240981f6

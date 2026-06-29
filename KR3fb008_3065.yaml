@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3065
+seq: 3065
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四度緯度在黃道北二度求距日加減差則察夕六宮二十四度與緯二度所對之數為二度四十三分卽所求之距日加減差其緯度在北卽為減差也星經度有零分者滿三十分以上則進作一度緯度有零分者用中比例求之
+  hash: sha256:f812441a8547f5846cbc7790d4248302d0c38353d52e597271d7c6ca4e805c25
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:058082399bf55172477c6fa43b3c6b9a63af47e56e6b88b87de23995e8f1767d

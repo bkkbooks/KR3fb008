@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1164
+seq: 1164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氣日率相減淂各節氣之日數曆元戊辰年二十四定節氣日率凡時俱係小時所淂日時刻乃從平冬至起算小寒氣策十四日二十一時三十三分加日差一分半大寒氣策二十九日十四時三二二分減日差五分立春氣策四十四日九時五分減日差八分雨水氣策五十九日四時五十二分減日差七分驚蟄氣策七十四日三時四十四分減日差五分春分氣策八十九日五時四十六分減日差清明氣策一百四日十一時八分加日差四分半榖雨氣策一百一十九日十九時五十五分加日差八分半
+  hash: sha256:a3dcab8dab9d6904e5c25c420d939493fd886200499fa36f4a5f2827dd6cabd0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:51760230a0f08f88cbcad07d4d01e8d785e9e8505198b8411144386513aedce9

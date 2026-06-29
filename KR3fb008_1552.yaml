@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1552
+seq: 1552
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求太陽黃道經度置寔朔太陽平行加減太陽寔均淂太陽黃道經度求太陽赤道經度用日躔黃赤升度表以太陽黃道經度察其所對之赤道宮度分秒淂太陽赤道經度推寔朔用時苐七求均数時差用日躔均数時差表以太陽寔引宮度察其所對之分秒淂均数時差并記加減號求升度時差
+  hash: sha256:8627cd31b03c4d482237bd3d149c6e8d4780a98e9b61f7480695e9bc25d6cc35
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:eeb4c47b0121c16e2b6422d0fa65ba534e6f5b076b4994f2cfeaad71c37eb995

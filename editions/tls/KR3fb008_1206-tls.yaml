@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1206
+seq: 1206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六求寔交周以寔距時之時分檢四行時表時分下取交周平行兩數并之為交周距弧依寔距時加減號置交周平麼以交周距弧加減之得交周次平行置月寔均以加減交周次平行依均數加減號得寔交周寔交周隨視其宮度以辨食限凡陰曆宮十七度四十分以內五宮十二度二十分經外陽曆六宮八度二十度以內十一宮二十一度四十分以外寔交周入此限者并有食限外則不食七求躔離實度
+  hash: sha256:b18c59e8dc70c719ca96d49e0d865dbc74c47ea7361b8ce6066831db0d637e39
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7bacedfa143be95aa53181ed4d0321deac38e2ab0456e42d19cf6976d07ae746

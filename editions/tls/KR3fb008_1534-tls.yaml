@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1534
+seq: 1534
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求逐月朔太隂交周置本年首朔太隂交周以太隂交周朔策一宮四十分一十四秒一㣲遞加十三次淂逐月朔太隂交周求太隂入交月数逐月朔太陰交周自初宮初度至初宮二十度五十二分自五宮九度八分至六宮八度五十一分自十一宮二十一度九分至十一宮三十度皆為太陽入交第幾月入交即第幾月有食太隂距正交後中交前在黃道北可食之限二十度五十二分太陰距中交後正交前在黃道南可食之限八度五十一分故逐月朔太隂交周在此限以內者為入交有食推平朔諸平行第一
+  hash: sha256:ac2287636a407fc06cf330e11e2e05e6d6d89b8d8d4f4049156b7d66ec6557b1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7c07f012ef47ad9bdeea078e26bc2d1b7ebec68ba37cfd28b0fdf488af7c855a

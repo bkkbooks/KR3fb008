@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1099
+seq: 1099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遇八度故星緯自初度起至八度止求其升差如圖邜黃為黃道子壬為黃極赤寅為赤道醜癸為赤極黃為冬至邜為夏至甲為春秋分設一星居酉緯在黃道北即從黃極子作子庚壬弧淂其黃經度為寅黃緯為庚酉次從赤極醜遇星骵作醜巳弧則其赤道上經度為寅巳與黃道經度不同法以寅巳與黃庚相減淂赤道或多或少於黃道為仝升差若赤道大於黃道天加小於黃道用減以淂星赤道上經度星在辛在甲倣此
+  hash: sha256:f0521f4fb1d8e5113bac23e8a58b54c717ff0af27f225ffdb33ab3fe4ce3b17e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:19edec6a099e4068b888b5cd77cf61d61ffa7e1d23e3e3eb08765bb3102703c4

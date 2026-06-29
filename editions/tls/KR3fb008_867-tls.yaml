@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/867
+seq: 867
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十度淂一日距太陽之行二十七分四十一秒四十微一十九纎二十芒五十八末金星二千九百一十九日又四十分行一千八百度除之淂伏見輪上一日之行三十六分五十九秒二十五微五十三纎一十二芒二十八末水星一萬六千八百二日又二十四分行五萬二千二百度除之淂一日伏見輪上之行三度六分二十四秒六微五十九纎三十五芒五十末次乙太陽一日之平行減去各星一日距太陽之行淂上三星土木火一日之平行分下二星金水之平行與太陽等
+  hash: sha256:835ac1dcf382407d97a552b5c6a3f55801bf49c48972022aa917eea0113f4bbd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b50781deb7dc91fa307e4391c0acddfd4f0469f0706645c2e271387fb4ded691

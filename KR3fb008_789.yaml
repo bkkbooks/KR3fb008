@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/789
+seq: 789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月食圖義推月食所向方位以初虧及復圓距度作圖求距度食甚前與食甚後為一法乙太陰自初虧至食甚之實行加入太陽同時所行分秒得太陰初虧至食甚在影之總分以加前可定食甚交常度得復圓交常度以減得初虧交常度次求初虧距度則全數與其交常度之正弦若黃白大距度之正弦與距度之正弦求復圓距度倣此如圖設月食在交南外大圈為月半徑影半徑之并內圈為地半影初虧在乙食甚在丙復圓在丁各依其距度之遠近圈上下左右書四方其起復所向方位必與天合也
+  hash: sha256:d44c8397e534ee853f11f1b6de54e0834aade8729580eaf1b36010a518867600
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:15c1ba11e3642aa5ed255c17d058ac2350d448d52b3b464f95ce930cd5515cb9

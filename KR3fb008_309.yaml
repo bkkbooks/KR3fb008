@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/309
+seq: 309
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朱錀三十三數目講解悉本崇禎曆書點時憲志點涉要另纂自此至九卷並同
+  hash: sha256:2aacd639ec98baedceda54fdfb4390a95be09f451e95b59bb311cf7ebd04d598
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8d52916ced5031e621ecbaa04b1b6268f71403395fb251e9b2d4d9e62f1ba4fa

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1174
+seq: 1174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以本日太陽與次日太陽相減得較數加記又以本日之月視行與次日之月視行相減得較仍以兩較數相減得數化分為一率以一千四百四十為二率又置本日太陽減去本日之月視行得數為三率即月不及日之度乘除得四率數以六十妝之為時餘以十五分妝之為刻即得合朔時刻分求弦望時刻以本日與次日太陽之較及月視行之較相減化分為一率以一千四百四十分為二率又置本日之月視行內減去本日太陽經度其餘宮度分上弦湊滿三宮望湊滿六宮下弦湊滿九宮將湊滿之數化分為三率乘除得四率數如法妝之得弦望時刻合朔弦
+  hash: sha256:c8362bcc64b98dcccdc82b430433f485ae24c30b75f7f64977b5e33a0a06049f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:55268d490d1f14d9b3fd0e0cd073d27db863eec5e527616dbefd0edebf5e794e

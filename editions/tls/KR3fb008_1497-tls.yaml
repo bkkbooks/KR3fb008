@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1497
+seq: 1497
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄道經度相減餘為月距限度太陰黃道經度大于黃平象限宮度者為限東小于黃平象限宮度者為限西月距限者太陰距黃平象限之度分也求限距地高用交食北極高四十度黃平象限表以春分距正午時分察表內時分相近者取其典限距地高相對之数得限距地高求黃道高弧交角用交食黃道高弧交角表以月距限及限距地高之度察其所對之度分秒淂黃道高弧交角求初杅交周置食甚交周減初杅復圓距弧淂初杅交周
+  hash: sha256:814dc0a242f99a7c1eb0b27a14aa4aec26ee1dfaa7deb55b64627c3fced99cc9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b9901e7caa447813584e1af869ab79f0a1cd8d96635604c8e44cfab20e4b37d6

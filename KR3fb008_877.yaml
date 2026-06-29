@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/877
+seq: 877
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 窄曆書雲為邜形上寬下窄非是故測水星在本輪最卑左右兩宮內其與太陽大距度無甚大小因本天不為撱形故也蓋其兩心差之理元與四星無異特因本天圈之心即大均圈之心又附一小均輪上旋轉故其所歷一周之跡即大均圈遂成撱形與四星異耳今先依古圖解之甲為地心申子邜為水星平行圈甲丙為兩心差於甲丙取六之一為乙丙半徑乙為心丙為界作丙癸小
+  hash: sha256:ab4ab869a945c9425c50ac22d3f9a4dbffbb79b32848ede698460200b2566adf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d23a30818b688541e35f06e5f98a6e11a1062989a668ff6f313d15617b167783

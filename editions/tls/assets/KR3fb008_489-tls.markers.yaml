@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/markers/489
+seq: 489
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p235.s12}
+  - {type: line-break, offset: 0, content: '', id: KX_12_dup228, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3fb008_tls_001-p235.s13}
+  - {type: line-break, offset: 25, content: '', id: KX_13_dup225, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fb008_tls_001-p235.s14}
+  - {type: line-break, offset: 50, content: '', id: KX_14_dup223, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3fb008_tls_001-p235.s15}
+  - {type: line-break, offset: 75, content: '', id: KX_15_dup224, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3fb008_tls_001-p235.s16}
+  - {type: line-break, offset: 100, content: '', id: KX_16_dup225, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR3fb008_tls_001-p235.s17}
+  - {type: line-break, offset: 125, content: '', id: KX_17_dup226, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3fb008_tls_001-p235.s18}
+  - {type: line-break, offset: 150, content: '', id: KX_18_dup226, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 175, content: '', id: KR3fb008_tls_001-p235.s19}
+  - {type: line-break, offset: 175, content: '', id: KX_19_dup227, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3fb008_tls_001-p235.s20}
+  - {type: line-break, offset: 200, content: '', id: KX_20_dup223, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3fb008_tls_001-p235.s21}
+  - {type: line-break, offset: 225, content: '', id: KX_21_dup220, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:09959b86a1ab6a9c396614eb1875e6386d65c6c3519ca9190b65e676bf144b2c

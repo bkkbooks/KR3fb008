@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/727
+seq: 727
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距黃道緯度即可推食分之多寡而可求寔距即為視距其黃白二道交角則用最小之距四度五十八分三十秒也月食分秒欲知此月內有無交食則以食限求之欲知此食食分幾何則以距度求之距度者在日食為日月兩心以視度相距在月食為太陰心寔距地影之心盖食分之多寡皆係于距度之遠近距度愈近食分愈多愈遠則愈少若太陰在食限內影心與月心最相近時為食甚而食分于此而定但食分非一類以定望時月距度遠近不一而地影徑又倍天于月徑故也如圖戊為黃道巳為白道甲為正對日體之一點即地影心內圈為地影甲乙為地影半
+  hash: sha256:c886b818230875f05233583b71cd88b2d6f58ccc75a9bb3b2fd0fca480670f6d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e47ea129d41b70e6950654309d32beaf52cebefbe7707bf8083b1e1ac73c1fec

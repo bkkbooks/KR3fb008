@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/925
+seq: 925
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三甲乙戊形有甲戊乙角四十度五十二分乘甲乙弧即一二測中積之平行度有甲戊乙戊兩邊求甲乙淂一一五七三六四甲乙甲戊戊乙三線為同類皆與戊丁全數為比例今甲乙又為甲乙弧八十一度四十四分之全弦一三八六用變率法以求甲戊戊丁與甲乙弦為同類淂甲戊弦三七三八八求其弧淂甲戊弧二十一度三十三分戊丁弦為一一三六此甲乙甲戊戊丁皆與庚巳本天半徑全數為同類五戊甲甲乙乙丙三弧並之得一百九十八度五十二分大於半周天則甲乙丙圈之心必在戊現丙弦內試置在巳作庚丁辛遇兩心線定庚為最高辛為最卑已丁為兩心之算六庚巳半徑止方形與庚丁丁辛內矩形及巳丁上方形並等而
+  hash: sha256:c7c53c8de1dffde54e6c4e5fc7db97dcda65d268000dffe8c52bb5c06b3325cb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6f9efe6ae5c281e7e738b1a5ab0840c875024cad54eb38d322a0f6f6957a01b8

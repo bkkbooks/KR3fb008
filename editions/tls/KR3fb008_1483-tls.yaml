@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1483
+seq: 1483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求影差用交食視半徑表以太陽寔引宮度察其典影差相對之分秒淂影差求寔影半徑置地影半徑減影差淂寔影半徑求并徑以太隂半徑典寔影半徑相加淂併徑求食分以太陰半徑倍之為一率十分為二率并徑內減食甚距緯餘為三率求淂四率即食分滿六十秒進一分在十分以外為食既
+  hash: sha256:7f5452b04a91c95a60ea49a7869fa352270ef3aaeb3f3b8892f2ba7a89cc79e7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a833c50a0239affdf9e60e29a090695c521c5ddaca42c5432d19f96f7f4e6b31

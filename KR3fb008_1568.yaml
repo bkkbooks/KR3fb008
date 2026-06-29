@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1568
+seq: 1568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求食甚近時置食甚用時加減近時距分淂食甚近時推食甚真時苐十求近時春分距午時分用交食北極高四十度黃平象限表以太陽黃道經度察黃道宮度取其典時分所對之数為太陽距春分後時分又以食甚近時加減十二時不及十二時則加十二時過十二時則減十二時為太陽距午後時分两数相加加滿二十四時去之用其餘淂近時春分距午時分求近時月距限用交食北極高四十度黃平象限表以近時春分距午時分察表
+  hash: sha256:4ec9ff8c8998a4745f82d7555d8aed2e6dc89fc3e8088ca9a292d9b88f0ab629
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a9ab173dba848f50f18b952dd0fb7570fe691ba77d679f523e208ea812449d64

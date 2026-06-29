@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2095
+seq: 2095
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 參宿三五宮二十一度一十三分南二度一十分二參宿六五宮二十三度一十三分南九度五十分三參宿四五宮二十四度三十三分北七度一十七分一井宿一六宮一度北二十二度三十六分三天狼六宮七度五十分南一十六度一十六分一南河二六宮十七度二十二分北八度五十一分三南河三六宮二十度四十四分北六度二北河三六宮二十一度三十一分北二十八度四十三分二外廚一七宮一度一十分南三度一十分三
+  hash: sha256:b53b2bd152e73002a2ee0076c9419b2ddd26e1a6df0230c9ea6a396067787450
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fd08dba65382185e856b4bf6d16c783138a00928607b4dd7268d77ea144b6fbf

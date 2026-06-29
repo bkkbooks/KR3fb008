@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1715
+seq: 1715
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太隂距地心之地半径数各舆地影之長相减求淂地影之半径線又各求其相當之角即得太隂随時之影半径立表求影差之法用太陽在最高所生之長影求淂太隂在中距時所當之影半径四十四分四十三秒爲率而以太陽在最卑所生之短影亦求淂太隂在中距所當之影半径爲四十四分八秒相差三十五秒爲太陽最高最卑两限之視影差其餘影差依比例推之求黄平象限及黄道高弧交角并太隂高弧交食必求黄平象限所在及黄道高弧交角并太陽之高弧而黄道高弧交角舆高弧之度止用太陽以合朔時太隂舆太陽同
+  hash: sha256:0d744a80916bdeffecda875f1b2bc564d8e0bce22027abc77404b5832a852db1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d075d25661a54a82b51d9dec14e03054489d5a53f2d0289af9b73b2f35478cdf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1409
+seq: 1409
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以金水年根與日數相加淂平行求最高平行以最高年根與最高日數相加淂最高平行求伏見平行以伏見年根與伏見日數相加淂伏見平行求正交平行置金星最高平行減一十六度淂正交平行水星即以最高平行為正交平行求引數置金水平行減最高平行淂引數
+  hash: sha256:f57faae02d0a4c9cd978f275d48e2e47b227df66ab1acf1c168012bdb564b036
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2efafe7252f25b42291a4dfa5cdbb92a18c12812feb7904b3cce13ca8168d094

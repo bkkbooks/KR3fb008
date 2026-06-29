@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2113
+seq: 2113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星名赤道經度嵗差赤道緯度嵗差河鼓三加四十三秒三十微加七秒五十八微河鼓二加四十四秒零七微加八秒一十七微右旗東七加四十六秒四十微加八秒二十二微河鼓一加四十四秒五十五微加八秒三十九微右旗東八加四十七秒一十七微減九秒五十二微牛宿一加五十一秒三十八微減一十秒三十微天津一加三十二秒四十七微加一十一秒零三微女宿一加四十九秒四十四微減一十二秒三十微
+  hash: sha256:a0da31151c290351b2795bf1fa14a92c719fd7f33383511e0e2d8f470113b393
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:61d548399590cd62ba3c1e4c5ef6eeeeb4eaa7179bd3061cb27dff41a16da660

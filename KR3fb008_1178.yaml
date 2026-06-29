@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1178
+seq: 1178
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 土木火三星與太陽合伏後為晨見合伏前俱稱夕金水二星順行與太陽合伏後曰夕逆行合伏後曰晨求五星衝伏同度時刻法兩星各以次日行與本日行相減得較兩較相加減為一率同順同逆兩較相減一順一逆兩較相加一千四百四十為三率兩星本日視行度相減為二率乘除淂四率數妝之得時刻求五星退入宮法本日度分內減去次日度分其較為一率本日餘分為二率度以上不算止用餘分一千四百四十為三率如前法乘除淂時刻求五星順入宮法
+  hash: sha256:998890cb6f7e0bcb2e3aa70a156d7d3520e639b80c806d2af9b183d154c61e58
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8f5db07ed827fec74d047aeddfca23e5dc1e6c9bbb6d93aa04b5b737c2f6873e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1528
+seq: 1528
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置積日減𦍤應二十六日三八五二六六淂通𦍤上考往古則置積日加𦍤應得通求積𦍤及首置通𦍤以朔策二十九日五三五九三除之淂数加一為積朔餘数典朔策相減為首朔上考往古則置通朔以朔策除之淂数為積朔餘数為首朔求首朔太陽平行以積朔典太陽平行朔策一十萬四千七百八十四秒三四三二四相乘滿周天一百二十九萬六千秒去之餘為積朔太陽平行加首朔太陽平行應初宮二十六度二十分四十二秒五十七
+  hash: sha256:47f93cf64ba7ff78a6ec11ed89a027e83c437aa3028178900936cc270766f295
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f684d70d9d598d008b62e61b8eeeb4bf9e0fa4e4ee3a471308f633e6a6ddedfe

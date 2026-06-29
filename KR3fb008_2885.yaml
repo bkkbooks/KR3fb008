@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2885
+seq: 2885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距地心之法詳暦理求初均數篇次均者乃次輪心當最高水星行次輪周逐宮逐度之次均數順度為加逆度為較分者則次輪心在最卑逐宮逐度之次均與次輪心在最高逐宮逐度之次均相較之數也求較分之法與土星同用表之法設水星引數為初宮一十一度二十分求初均及中分則察初宮一十一度二十分與初均所對之數為二十一分四十三秒其號為減卽所求之初均甚與中分所對之數為一分零三秒卽所求之中分也初宮在上故用順度又設伏見實行為二宮五度三十
+  hash: sha256:1842a2dd08a1c4e67715feec7fcdf96c818c26dfdf992ca0b37a6ce8b1a2581a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b59ad777f951bf0ebeb4250549ed57b766c29d58b27534c0d94f0bdd14c5072d

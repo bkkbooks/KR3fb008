@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1771
+seq: 1771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊為定交角在四十五度已上故初虧壬點在日體之右稍偏下復圓以庚乙午緯差角與丑乙丁交角相減餘庚乙丁為㝎交角在四十五度以下故復圓辛點在日體之上稍偏左也若日在黃平象限東則初虧之緯差角為減復圓之緯差角為加與此相反求緯差角與加減之法詳後月食方位求月食食甚時刻月食食甚時刻不在寔望之時所差雖㣲而理則寔異盖地影之心即太陽正焒之點地影心距交加黃道經度與月心距交之白道經度等是為東西同經即為寔望然月心與影心斜距猶遠惟從白極出弧線遇影心至白道與白道成直角月心臨此直角之
+  hash: sha256:9f36e79e9b0d64e2dd691ff7cb7c270abcec36b168b13e3dedb36c1ffb9a4427
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:64fa0bc93f04fa14ddd3a896cb485aba7f3e77906d44967f15f9f957f95f841d

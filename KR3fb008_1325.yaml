@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1325
+seq: 1325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求白道寔行置初寔行加減二三均數淂白道實行求黃白太距及交均用月離交均距限表以月距日次此宮度察其與距限相對之度分秒淂黃白大距察其與交均相對之度分秒淂交均並記交均加減號求正交實行置正交平等加減交均淂正交實行求中交實行置正交實行加減六宮不及六宮則加六宮員六宮則減六宮淂中交寔行
+  hash: sha256:3d7183ef1e6fa16a790ed8e849c2486388122df14b06bbb6387b558a08cac56d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:313e8f96bd937a4c3c2fcaf4e4725bddc2b19157b2278c3aa47465d083c3fcb9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1899
+seq: 1899
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 升度時差表升度時差表亦按二分二至分順逆列之二分後六宮列于上二至後六宮列于下前後列黃道度分順逆以別加減中列逐宮逐度之升度時差即赤道升度與黃道相差度分所變時刻之分秒每一度變時之四分每十五分變時之一分每十五秒變時之一秒太陽實行在上六宮者用順度其號為加太陽實行在下六宮者用逆度其號為減用表之法以實行之宮對實行之度其縱橫相遇即所求之升度時差也設太陽實行在黃道大梁宮八
+  hash: sha256:e0c6c0b653ad50f7db9b36f493d1b254d6317f7358b36b26d8d7a19b5bb63ba4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1a86b59235b604bd2901ebacacf8563d7bf5385dfd2477f5b8f45842beea10ff

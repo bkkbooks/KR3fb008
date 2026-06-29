@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1917
+seq: 1917
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九秒為本日午正太陽之視高也如先測得午正太陽視高七十二度五十九分零九秒則以地半徑差五十一秒與視高相加淂七十三度為本日午正太陽之寔高也蓋寔高乃地心之度視高乃地面之度寔高所生之地半徑羌與視高所生之地半徑差應有不同然所差甚微故本表雖以寔高求視高而視高求寔高亦可同用高度有零分者亦按中比例法求之
+  hash: sha256:29d5e15b8a14f641d75df929ab28e2d3c7c0ec4a4c030a432cd10e65ebfe27b0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6c5e6edaefd973772b781952d70f1e6df27df8414d924f94638028f9025dd0eb

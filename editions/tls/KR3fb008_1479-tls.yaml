@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1479
+seq: 1479
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交周升度差并記加減號月離黃白升度差表乃以白道經度求黃道升度差若以黃道經度察表則所淂為白道升度差今寔望寔交周典地影心距交之黃道度等故察表即得交周白道升度差也求食甚交周寔望寔交周加減交周升度差淂食甚交周求月距日寔行用交食月距日寔行表以太隂寔引宮度察其所對分秒淂月距日寔行求食甚距時以月距日寔行化秒為以率三千六百秒為二率交周升度差化秒為三率求淂四率為秒以分妝之淂食甚距時交周升度差為
+  hash: sha256:99c4963570a713ca9b47a57b9b803b6b4cc66365776ee14b27a63e88d07f3479
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e71cea82ed7f70394c23581ab0a19da2d6e340c218c4d244747c97a8d1e05b6b

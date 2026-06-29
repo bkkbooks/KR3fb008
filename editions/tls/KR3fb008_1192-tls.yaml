@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1192
+seq: 1192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以月離內寔引查交食視半徑表淂月距地半徑又以月寔引查交食太陰寔行表淂月一小時寔行置恒星經度於九十度限之宮度分內減之為限大則星在西若不及減于星經度內減去九十度限之宮度分為限小則在東所餘為星距限度置月離內正交經度以減九十度限宮度若九十度限不足減加十二宮以減之即淂較數以較數查交食大陰距度表淂月寔緯北加南減于限高度淂其高度以真高度及月距地半徑查交食時氣差簡法表淂地平差即地平上
+  hash: sha256:79e6594e22e98edf8b6ec70d371195ea106666d2fa399a1735aea191358dfdbf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b9a21d0660d38c0d7cf15603a008f3ec65e072220f2e22d263f4b0de6a856f77

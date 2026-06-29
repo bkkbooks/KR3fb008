@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1598
+seq: 1598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東西差相并為差分以減初杅復圓距弧淂初杅視行求初杅距分以初杅視行化秒為一率初杅復圓距時化秒為二率初杅復圓距弧化秒為三率求淂四率為秒以時分收之淂初杅距分求初杅真時置食甚真時減初杅距分淂初杅真時推復圓真時苐十三求復圓用時置食甚真時加初杅復圓距時淂復圓用時求復圓春分距午時分
+  hash: sha256:d0179c053f74c89164ac6adb548d4d3b7c61222aa1f49b21c0cb9301f9887a21
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:557ada823858b9b9431cad99fc55f0ac37d6b41e6d1a52783b39136db9d05545

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1139
+seq: 1139
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交均依號加減于正交平行即正交經度為月距正交以月距正交查黃白同升表得同升差記加減號以加減于白道經度為黃道經度以月距正交為引數查黃白距度表對右直行大距數縱橫相遇得太陰緯度距交初宮至六宮在黃道北六宮至十二宮在黃道南以黃道寔經度查距宿鈐表如日躔法淂本日月離宿次度分求土木二星經緯度先查二百恒年表本年下星距至平行及引數兩年根後查正交行三項皆冬至後一日子正時相當之數
+  hash: sha256:f65cd01b1177a7cab111978631639e7c41b9939ac670547b711241ce3845a8c9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:413251d07531ae0697a5f5005060c520deeab8ead4636e28e7254f0d62ff8b39

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/687
+seq: 687
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 命分十分為二率視距減餘為三率得四率日食之分日徑平分十分之分如啚戊為黃道巳為視白道甲為大陽心甲乙為太陽視半徑丁為太陰心丁壬為太陰視半徑丙甲為日月兩半徑之并取丙乙與壬丁月半徑等丁甲為視距度午丙甲內減去丁甲餘丙丁即乙丑也何則丁丑與乙丙等同用乙丁則丙乙與乙丑必等而乙丑為月掩日骵之分次以乙辛日全徑命為十分用三率法得乙丑若干分為日食分數其壬丑月全徑與乙辛日全徑大小相似設兩心同在甲點亦止能食既不能如月入地影之食盡有餘也
+  hash: sha256:58742f6badf8e3406a1ff4d9a4297f7445e413bea643141135a087710f6d4107
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:99252ce67df5afb2b893af873c5a64ee2d4aa411b0b679f94500c37a72285a97

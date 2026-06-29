@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2675
+seq: 2675
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天次輪半徑也又設太陽引數為七宮二十度求太陽高卑差則以太陽引數減六宮淂一宮二十度太陽引數遇六宮者減六宮不及六宮者加六宮因太陽引數初宮起最卑此表初宮起最高故也察其所對之太陽高卑差數為一九三二八卽所求之太陽高卑差也若引數有零分者亦按中比例法求之
+  hash: sha256:275bb9197abde99d94a017fdf514d08919a39a6a16a2d465f7022b525ed76f40
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:505bd3fff0fb0e40e71dc31b4d44d7da02f0b8703422dca5e6902c28c4b8fa0f

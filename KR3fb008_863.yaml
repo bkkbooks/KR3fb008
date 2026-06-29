@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/863
+seq: 863
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古史依上法測算中星平行土星以五十九年節氣或天周年又一日四分日之一弱行次行圈即歲輪五二七周會日五五七次行天周節氣周二周又一度四十三分水星七十一年不及四日又六十分日之五十四行次行圈六十五周此積時間星行本圈天周或節氣六周不及四度又五十分火星七十九年又三日六十分日之十六行次行圈三十七周行天周四十二周又三度十分金星八年不及二日又六十分日之十八行次行圈伏見輪五周其平行與太陽同古今測金水二星恆乙太陽之平行為本天之平行蓋其運動之力在太陽骵中也水星四十六年又一是六十分日之三行次行圈伏見輪一百四十
+  hash: sha256:a93cf54ce6db8bded0aafcef51944ee7b94df7caef55fc0fb16f4c408b1fe9e7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1ce23129fb70731b6ea6fe568a2f025edf00979be50c10061621d8adbc1de427

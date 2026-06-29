@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/497
+seq: 497
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一目見物僅䏻㝎其似大小凡目接于物物諸分皆發本象來至于目目則全妝其象夫妝象者非在目之外郛也睛本圓球有同鳥卵重重包裹妝象之豦在其最中謂之瞳心若目視物之四周則四和線發來至瞳心合而成角為角骵之形若視物之兩端腰線彂來至瞳心合成三角靣之形凡角之末鋭必在瞳心名為視角角之大小稱物之大小若視角極微目不見物乃不䏻㝎其大小若視角過大則目眶所限不䏻盡角之廣必移目兩視乃淂全見故凡目之見物皆為瞳心之視角而非物之真像也一同是物在近見大在遠見小以三角形之理明之甲乙丙丁兩物本等大而丙丁近目則丙目丁視角為大甲乙遠目則甲目
+  hash: sha256:45585045d98e66ada5a3c459bb5d2c2dbff58ddae8ea23b40afcc1473d6fb8e2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6d67c0579aaecb521fc10b92e1c62590edaf5045f7228f2f2f03f99ed67cce4a

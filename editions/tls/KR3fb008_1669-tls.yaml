@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1669
+seq: 1669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行故平行乙雖未至酉宮而寔行丁己交酉宮若以平行乙所臨之時刻為交宮之時刻則為申正太陽入酉宮是為平時然平行乙雖臨于申正而太陽丙寔在其東一度餘即丁乙弧故必此一度餘變時約淂五分為時差以減申正淂申初三刻十分太陽入酉宮是為用時也故凡最卑後半周寔行皆大于平行則用時在平時東其時差冝減最髙後半周寔行皆小于平行則用時在平時两其時差宜加此以最髙卑為時差加減之限黃道上事也然時刻以赤道為主黃道上之用時猶非赤
+  hash: sha256:558c8ecd7daa093e72a840bcc473b5773934b0a8fbbb9b2099fc2f4506a0eecc
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9cc0fe7da8235a4aaba6875f4c8a3014eacfbad41ba00916eb79cbaacb7680b2

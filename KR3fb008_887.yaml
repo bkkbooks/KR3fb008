@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/887
+seq: 887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙丙等作醜丙線恆與乙甲平行又以醜為心作壬邜均輪邜最近壬最遠於均輪上取丁醜三倍之為壬巳從最遠壬右旋星止已作已丙諸線成醜丙巳丙巳甲二形先用巳醜丙形有巳醜丙醜兩邊有丑角求醜丙巳角及巳丙邊次用巳丙甲形有巳丙有丙甲全數有巳丙甲角以此數之餘醜丙甲角加巳丙丑角淂已丙甲角求丙甲乙角或丙子弧即乙丙引數相當之自行均也應減又求巳甲邊為
+  hash: sha256:33a0d5a9a95a5bbf24da3190cfccf03ae14398a29d719919cd342c42a07f26b9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1dd528cc0f5eeff851f4601bbeaadf00d70792dcf74e081ed4c5877be03d507c

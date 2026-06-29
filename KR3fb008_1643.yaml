@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1643
+seq: 1643
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十秒今自康熙五十三年于畅春園累測夏至午正太陽高度淂視高七十三度二十九分十餘秒加地半徑差五十秒淂寔高七十三度三十分減去本地赤道高五十度三十秒餘二十三度二十九分三十秒為黃赤相距最遠之率較舊測少二分准此以立太陽距度表測嵗寔以定平行古暦定太陽每日所行為一度故周天為三百六十五度四分度之一其後漸覺後天以為嵗實太強自漢以來每次修暦必有所減以合當時寔測故每日之平行雖㝎為一度而天周與嵗實訖無㝎率也今法㝎天周為三百六十度故太陽每日之行不及一
+  hash: sha256:fce786b8ce0a688629a9e34d440398e5ee6ab29a82db60e53c746225dd141d3f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a347de499e5042b58a3aaaf06b095e58d7ef620d1b79f74efff2aa52e50df340

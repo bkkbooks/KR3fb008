@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2087
+seq: 2087
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虎宿一一宮一十八度四十四分南六度五十二分三危宿三一宮二十二度一十二分北八度二十八分三危宿一一宮二十七度二十六分南一度四十八分三墳墓四二宮一度二十一分南二度五十五分三雷電一二宮九度零七分北八度一十一分三北落師門二宮九度五十六分南三十一度一十三分一室宿一二宮一十二度一十七分北一十三度三十三分二璧宿一二宮二十九度一十八分北一十三度二十六分二天倉一三宮初度五十三分南一十度三十三分三
+  hash: sha256:d93e2cb7142f4d14d9ab8257645aa25d302a2e52240f965a45fc78ff62d5683c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:38793d2a8a532dce0f3d5f0095d846cf09473b0f27f19342bcfb7487d0d9191a

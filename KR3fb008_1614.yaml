@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1614
+seq: 1614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置復圓寔緯加減復圓南北差淂復圓視緯加減之法亦典食甚視緯同求初杅緯差角用交食緯差角表以并徑分及初杅視緯分察其所對之度分淂初杅緯差角求復圓緯差角用交食緯差角表以并徑分及復圓視緯分察其所對之度分得復圓緯差角求初杅定交角初杅月距限東者初杅視緯在南則以初杅緯差角典初杅黃道高弧交角相加初杅視緯在北則以初杅緯差角典初杅黃道高
+  hash: sha256:acf97aa83988d9e235173252f36e4712f41a5a1de1815b6e3a528541b0a6870d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3cf83278378013dd665321a2ca3f5ef733bc0c4709129376cf5901b668078e75

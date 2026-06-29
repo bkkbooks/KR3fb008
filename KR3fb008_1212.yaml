@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1212
+seq: 1212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加減十二時法視朔在十二時以上減去十二時用其餘數在十二時以下加上十二時用之以搃時之時分入九十度表第二行取其相對第三行九十度限之宮度分用中比例得數與日寔經度相減得日距限度分并之東西號定東西法日寔經度大內減限度日在限東日寔經度小去減限度日在限西以搃時之時分查九十度表相對本表第五行限距天頂數置象限九十度減之餘為限距地高以日寔經度在三宮以下者加九宮在三宮以上者減去三宮查
+  hash: sha256:6705a1df1ecb7abc2ea86981f7863e1a25615c45d59071b32ae52961ca9344fd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b1fd78a8e11279ca5a1124a2a151f1b8b605a0c71800af9ca6bae3a5bd799b72

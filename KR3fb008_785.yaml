@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/785
+seq: 785
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四川成都府約減三刻七分貴州貴陽府約減二刻八分雲南雲南府約減四刻八分日食圖義新法以圖顯本食所向之方故上下書南北左右書東西其作圖則以太陰距度為主但食時先後太陰距度常有變昜或初虧距度多而後圓距度少或初虧距度少而復圓距度多此其故蓋因食在交處前後之不一也若前後離交相等則雖距度同而所向南北未免有不同矣故日食前後求太陰視距度必以交周所應食甚視距度減其自初虧至食甚所行經度則得太陰初虧視距
+  hash: sha256:c09d7a24d5e50b5fd53b4799093aa76b72919059f2378a03f1b43edf0ea3e8d5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c25e717323243f9b3f8223cb442b070694258f775ff191398599c9ce9a369ba3

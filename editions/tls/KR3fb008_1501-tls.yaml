@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1501
+seq: 1501
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初杅緯差角求復圓緯差角用交食緯差角表以併徑分及復圓距緯分察其所對之度分淂復圓緯差角求初杅㝎交角太隂在限東者初杅緯南則以初杅緯差角典黃道高弧交角相加初杅緯北則以初杅緯差角典黃道高弧交角相減淂初杅㝎交角太陰在限西者初杅緯南則以初杅緯差角典黃道高弧交角相減初緯北則以初緯差角典黃道高弧交角相加淂初杅㝎交角如初杅無距緯則無初杅緯差角而黃道高弧交角即
+  hash: sha256:de631b4bcbc43376c907e0ad0eb3422c5235fd15d36775237de05db908279ebd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dd8be8394f1bcfd8dc1ccea2022bc127f2215e5601c9a00db441f29d2e276cb7

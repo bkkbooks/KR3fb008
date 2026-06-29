@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1699
+seq: 1699
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本時太陽均数與升度差俱變為時分以加減寔朔望之時刻為朔望用時乃與測騐脗合暦書止用升度差今即用日躔時差表也求朔望時日月距地心度前求日月地半径差止用最髙最卑中矩三限而交食之日月視径以及影径影差則逐度不同且太陰在最髙两弦尤髙太陰在最卑两弦尤卑交食在朔望其髙卑皆不及两弦故欲求朔望日月遂度之髙必先定最髙最卑中矩之距地心線今依日月諸輪之行求淂太陽在最髙距地心一一七九二八本天半径加本輪半径減均輪半径其與地半径之比為一與一千一百六十二中距距地心一
+  hash: sha256:004abdadc249ccc32fc9e6b08b03213d08c606e00edcf84fa95efa83e9365303
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fd6fab1aa95323a7fbe0df963ea78e635c5191de1ffcb0a0bfc01b3e38a0de65

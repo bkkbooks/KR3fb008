@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1069
+seq: 1069
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 角亦恒與各壬癸自為平行蓋子午二點恒為伏見輪上之交壬癸二點恒為伏見輪上之大距也又伏見輪交本道南北之向因合伏點隨處不同而伏見行一周之緯不能恒六宮在南六宮在北如輪心在辛則寅壬子四宮向北子巳二宮向南退合後巳癸午四宮亦向南午寅二宮又向北輪心在丙則伏見行醜子初宮至三宮向北子癸午四宮至九宮向南午醜十宮至十二宮又向北餘度亦倣此今立表置輪心在甲交點乙同算輪上一周之緯名後緯限又置輪心在丙大距戊同算輪上一周之緯名前緯限蓋既淂甲丙二處之緯其餘自甲至丙九十度即可用中分法以該之至前與後之名不遇丘算如此非有二根夫後緯既置輪心在甲故
+  hash: sha256:4b94e5dbdacaf2dc4be141febc6e7cbe129b85877796e2c1520a80cfb5eb89ef
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d2f6fa912f5c57d23cc3154c321fc63e292eef0fadfbb89d721dde6f0d6a9088

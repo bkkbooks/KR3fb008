@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2115
+seq: 2115
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虛宿一加四十八秒二十二微減一十五秒二十微危宿三加四十四秒五十五微加一十六秒零七微危宿一加四十七秒零六微減一十七秒一十一微墳墓四加四十七秒一十五微減一十七秒五十三微雷電一加四十五秒四十四微加一十九秒零一微北落師門加五十秒五十六微減一十九秒零八微室宿一加四十五秒一十七微加一十九秒二十三微璧宿一加四十六秒四十四微加二十秒二十微天倉一加四十六秒四十二微減二十秒二十微
+  hash: sha256:a7bb350d3e70c89a44e95667dbdd36489e0fc84c05fbc5283143f4a40e3b91f3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0d1925aa65b64ca4b0dae106e3c099041df639f8d2bc2518529f2e8456b0c942

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2153
+seq: 2153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秒一十二分所對之太陽平行為二十九秒三十四微二十四秒所對之太陽平行為五十九微零八纎合計三数得一十二分四十九秒三十三微零八纎即所求之太陽平行也又或有太陽平行一十二分四十九秒三十三微零八纎求時分秒則察太陽平行表內與一十二分四十九秒相近畧小之數為一十二分一十九秒其所對為五時乃以一十二分一十九秒與設数相減餘三十秒三十三微零八纎又察太陽平行表內與三十秒三十三微相近畧小之
+  hash: sha256:b8c034ca22d6fedcc09b1547cbbf31f6bae73fa1b5df75912596db33ba5a9a28
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a7dc46a52d4eaea7c6abad16fe94cbbd631f0d7a4f137e56c8f4934e366ac668

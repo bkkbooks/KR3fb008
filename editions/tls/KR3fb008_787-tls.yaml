@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/787
+seq: 787
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度又以加于自食甚至復圓所行經度則得其復圓視距度也復求交周所應太陰食甚視距度查距度表內上下左右則得交周度及其在交前後分數如圖設日食在陽曆先作乙丁及丙戊兩直線以直角在甲相交指南北東西方位乙丁為黃道甲心為太陽居其中壬辛庚俱為太陰心其視徑略大于太陽視徑食甚太辛甲辛乃當時視距度初虧在壬即乙壬與甲已相等復圓在庚得丁庚與甲癸相等而壬辛庚皆在南視距其乙壬甲辛庚丁距度虧與復大小各不同也
+  hash: sha256:3ec5e579006ade44909a07aa62fe126722e9d8791479bbde75f14c4ca71a6466
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:677eb7c2ef757cc3a72e197b2bafe6e20d1fb3f61c0a7968ecd80c370491ec6a

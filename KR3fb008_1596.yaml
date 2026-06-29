@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1596
+seq: 1596
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用交食東西南北差表以初杅白道高弧交角及初杅高下差察其典東西差所對之数淂初杅東西差求初杅南北差用交食東西南北差表以初杅白道高弧交角及初杅高下差察其典南北差所對之数淂初杅南北差求初杅視行初杅典食甚同在限東或同在限西者以初杅東西差典食甚東西差相減為差分以加減初杅復圓距弧初杅典食甚同在白平象限東初杅東西差大則以差分減初杅東西差小則以差分加初杅典時甚同在白平象限西初杅東西差大則以差分加初杅東西差小則以差分減淂初杅視行初杅在限東食甚在限西者以初杅東西差典食甚
+  hash: sha256:899d010952bbe8c087e832ead2a246d6fcc44ed723b8a28ddc696a9dc081ef69
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:04d0c158c2c61e6d60915f4eec3380aa7f6fc4244873981ff60df9e156017bbd

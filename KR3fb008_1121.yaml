@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1121
+seq: 1121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四十一分五十二秒木星距至平行十一宮十八度五十一分五十一秒最高行九宮八度五十七分五十九秒正交行六宮七度九分八秒火星距至平行五宮五度四十五分三十秒最高行七宮二十九度三十分四十秒正交行四宮一十七度二分二十九秒金星距至平行五十三分三十五秒三十九微最高行六宮度一十六分六秒伏見平行宮九度十一分七秒水星距至平行五十三分三十五秒三十九微最高行十一
+  hash: sha256:e4de82af886acf7cf34d6ded8ba80e0c473ad6c441c3b6eb4ffaa8bc1f318a70
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7777c79326f0157edd8daad4bfb42029003dc925f6c9e06979ead4a3a7a1092d

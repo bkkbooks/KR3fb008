@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1801
+seq: 1801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道兩交之中星又行至次輪兩交點之中則緯度樞大故五星之交周點即緯度起筭之端也新法曆書載崇禎元年戊辰土星正交在鶉首宮二十度四十一分五十二秒每年交行四十一秒五十三㣲本天與黃道相交之角為二度三十一分木星正交在鶉首宮七度九分八秒每年交行一十三秒三十六㣲本天與黃道相交之角為一度一十九分四十秒火星正交在大梁宮十七度二分二十九秒每年交行五十二秒五十七㣲本天與黃道相交之角為一度五十分金星正交恒距最高一十六度在寔沈宮十四度十六分六秒每年交行一分二十二秒五十七㣲水星正交恒與最高同在實沈宮一度二十五分四十二秒舊作中交
+  hash: sha256:fa29bd0ff69ea7bcbabbf7063ee55adc8c503fa5d57aa78c170fbe8e9977b61a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a22ffa0d03d30035257428d9e7b129c874cb603d9e868c97dbe8fc4e70e93af6

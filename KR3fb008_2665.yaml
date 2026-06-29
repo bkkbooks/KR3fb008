@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2665
+seq: 2665
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十六度所對之數為一一八六六六五九卽所求之星距地心線也若星距日次引有零分者亦按中比例法求之
+  hash: sha256:720d739d4988d854de640e805967cf3afae7ee98ee853db1e4fc80eb75089f16
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5ab8d70d8f2054aeec398534c4027aff53b6406c22d3343a4805b3ac785b145b

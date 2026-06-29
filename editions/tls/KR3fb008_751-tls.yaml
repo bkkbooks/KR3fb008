@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/751
+seq: 751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物安得更顯物色今月居厚影尚有光可見更彂色象或赤色或青黑色或雜色究所從生従生皆由日光與蒙氣之所為也一日月不獨食于地影論通光者有二骵一謂物象遇甚微之骵昜于通射比于發象原處更加透明則形若開而散焉一謂物象遇次徹之骵難于通射比于發象元處少襍昏暗則形若歛而聚焉其遇甚徹者如舟用篙艣半在水中發象上出于水面所遇空明氣之光甚徹之骵也則其象散而斜射視之若曲焉如遇次徹者如太陽下入地平其光焒地旁本宜直上乃所遇清蒙之氣次徹之骵也則其象合聚而射于地面凡地平以上皆得其次光為朦朧焉即昧爽黃昏此兩者皆以一物經由兩骵其勢曲折皆謂之
+  hash: sha256:a0768c2ac6db831e0148ad50241191a8571c25a569db7af6fda11548b6ad2f93
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:edbcf6d66126adf769e5419ecd9ad7c7efa59bfc985ded59f75cfc2e1bd6c5ab

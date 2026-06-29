@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1261
+seq: 1261
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘開方得食既距弧為三率以六十分化秒為二率月一小時寔行化秒為一率推得四率妝之為食既距時分初虧時刻置視望時分以初虧時分減之即初虧時刻復圓時刻置視望時刻以初虧距時分加之即復圓時刻食甚搃時復圓時刻內減去初虧時刻即搃時食既時刻置視望時刻以食既距時分減之即食既時刻生光時刻置視望時刻以食既距時分加之即生光時刻既限搃時生光時刻內減去食既時刻得既限搃時十三求宿度以月寔經度查黃道距宿鈐按宮減宿得食甚時月離黃道宿次
+  hash: sha256:fbb946ba35ff886b958cb9f1aff454301bf8e751fab8854919c6d1ff780f633a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:397aec27df26e388e8e9e1a0fddad5b6a20f9fb5018a16c6def04c73959d6ac7

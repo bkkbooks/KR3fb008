@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1198
+seq: 1198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推日食法一求諸平行查交食二百恒年表本年下首朔等五種年根一首朔二太陽引數三太陰引數四交周度五太陽經度并紀日錄之為首朔根查十三月表以所求某月五種朔策之數錄于各年根下為朔策數以首朔日時與寔數十三月表內查得者及紀日并之為平朔滿二十四時進一日滿六十日去之以太陽引根與十三月表查得太陽引數并之為太陽平引以太陰引根與十三月表查得太陰引數并之為太陰平引
+  hash: sha256:cf8d826a9ddc9a52762988ed56b58c23c7685a4e7c2eec808fdc316974f237a4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4f7f22c004b659cb6c2897157b14bf792894c3dc5596248e7651bcf20928c972

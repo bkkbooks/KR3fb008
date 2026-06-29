@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2209
+seq: 2209
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 橫相遇即所求之月行分秒和太陽太陰兩半徑之和三十二分食甚距緯一十二分求初虧至食甚之月行分秒則察兩徑和較三十二分與食甚距緯一十二分所對之數為二十九分四十秒即所求初虧至食甚之月行分秒又如太陰地影兩半徑之較三十分食甚距緯五分求食既至食甚之月行分秒則察兩徑和較三十分與食甚距緯五分所對之數為二十九分三十五秒即食既至食甚之月行分秒若距緯及兩徑和較皆有零秒者用中比例三次求之
+  hash: sha256:87749f925cbb4703150ead11ebd1fd5bab2213be5a6179d57c2b810720bad59a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4b67fb87f28c436f4fb4d05459b045958a5dcde157d4495a8623d440c9958f39

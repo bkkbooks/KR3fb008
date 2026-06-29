@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1321
+seq: 1321
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 搃加數大為加減數六為減求時差行以三千六百科為一率二小時為太陰平行一千九百七十六秒四五九二一五七為二率時差搃化秒為三率求淂四率為秒以分妝之淂時差行時差搃為加者則為減時並搃為減者則為加求用時太陰平行置太陰平行加減時差淂用裏太陰平行太陰平行獨求用時者因太陰行度甚疾必加減時差行方為子正初刻之平行度其餘諸平行所差微可以不計也求引數置用時太陰平行減月孛減月孛平行淂引數
+  hash: sha256:1cce89bbed790f77906eb9ba425122243bd46702e0d7916ca906e2382aeed929
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1545b70899913b9e1a618d96b85df835bf864dfa1e356ede9a702723aaa7d1b1

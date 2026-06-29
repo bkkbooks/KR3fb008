@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/959
+seq: 959
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夕測水星伏見輪心近最卑大距度為二十三度十五分太陽平行在降婁十一度五分此測亦未到最卑少二十一度與上測相對如圖甲為地心任取甲乙為兩心差如前法成撱形大圈為星本天戊為最高丙為最卑次輪心在最高戊星在巳留際測淂戊甲巳角為十九度二分距日平行最大角輪心在最卑
+  hash: sha256:17576af2812787814cb37a98491645f76efbd84e3b0926475a2d36444bcddb8d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ec93c91f3de6a6d25c6272d55ba3e0720fec3c3b345a830fb634705364cd9ad7

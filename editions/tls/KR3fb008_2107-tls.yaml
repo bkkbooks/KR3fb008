@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2107
+seq: 2107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恒星赤道經緯度嵗差表恒星赤道經緯度嵗差表以各星每年應加減之数列之上列星名次列經度嵗差次列緯度嵗差用表之法設康熙六十一年壬寅求斗宿第一星赤道經緯度則以壬寅年距曆元甲子年三十八年與斗宿經度嵗差加五十七秒零八微相乘得三十六分一十一秒零四微即赤道經度應加之数與曆元甲子年斗宿第一星赤道經度初宮六度三十三分相加得初宮七度零九分一十一秒零四微即所求
+  hash: sha256:7b44fdec5ec74ecf13b07f692f2a2b536eacb0696cd358e60f8919ba2d0f12d3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f6724ec2da806faa6a698eaefc99c1a7cecf77df2623cb8ed240e2f5ef29414d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1033
+seq: 1033
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大火宮十九度五十六分半水星最高在壽星六度五分則引數為四十三度五十一分半又平視兩行相減淂十七度二十一分半如圖甲地心庚最高庚乙巳丙為引數依法求淂乙甲丁初均角一度三十三分丁甲邊一三九二以初均與乙甲辛角十七度二十一分相減淂丁甲辛角次丁甲辛形有丁辛丁甲二邊有丁甲辛角求辛丁甲角淂辛午弧三十一度三十三分加半周淂癸午辛弧二百十一度三
+  hash: sha256:ab6a7a737f6b16d69e233bf9cb1e16ca058c17d9389aa3c283b38a068244f8b6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:386c04052f4b3701fbd205432dc099d7a9be68edce2d52207675a6601367578d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1184
+seq: 1184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定限距太陽五度水星定限距太陽十一度半以缺規矩定之限挨地平視星所在之中度及緯南北之度視其在限之內外限內者不見限外者為見也求諸曜淩犯法月犯恒星以本年所推月離經緯度與恒星鈐表之恒星經度及南北緯度月在上相距二度內取月在下相距一度內取之又以本日與次日之月視行相較化分為一率日法一千四百四十分為二率恒星經度內減月經度之較化分為三率二三相乘一率除之淂淩犯時刻月犯五星以本年所推月與五星經度及南北緯度月在上相距
+  hash: sha256:d4d0c09db1d96b86cf562a0cd0c0288f1c7e75523605781af761c6da8a98f42a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d214fc3824d80cb899f248c1d54f818dd80c0d08104f4cef3db3b77a12ac4aa0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1635
+seq: 1635
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七七為乙子邊又以甲角典半周相減餘数半之得八十一度三十五分一十五秒為乙角亦即子角次用乙戊子三角形乙子過二九二五九七七有戊乙子角八十一度四十分四五二三半周內減去甲乙子角又減去庚乙戊角餘即戊乙子角有戊子乙角九十八度一十八分二三一二半周內減去甲子乙角又減去戊子丑角餘即戊子乙角即有乙戊子角五十一秒二十五㣲求淂戊子過一一六一三二二三八三九次用戊子甲三角形有戊子邊有子用邊有戊子甲之外角六分二十一秒四
+  hash: sha256:1ce8d8041bccd9f20f621e168df8d511a70915f87173453fb3e73f61064724b5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9a7521de7081fd45e5a981f2bd30ac5daf0964f3adc85a34b2ea157627d34fcc

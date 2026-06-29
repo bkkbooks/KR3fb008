@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1477
+seq: 1477
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置寔望加减時差搃淂寔望用時距日出後日入前九刻以內者可以見食九刻以外者則全在書即不必筽推食甚距緯食甚時刻苐八求食甚距緯用交食黃白距度表以實望寔交周宮度分察其所對之度分秒淂時甚距緯并記南北號交食黃白距度表乃以白道經度求黃道緯度典黃道成直角若以黃道經度察表則所得為白道緯度典白道成直角今寔望寔交周宮度典地影心距交之黃道度等故察表即淂白道緯度而為食甚之距緯也求交周升度差用月離黃白升度差表以寔望寔交周宮度察其所對之分秒淂
+  hash: sha256:c39b862bf65dc1259346c581cad6d23857486712008a22f773c5400a07587c18
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9af6bc21cd8c9f939241d4d573980af269cac33bb1a6aed255afc6bd50ce4f37

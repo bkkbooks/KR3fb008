@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1257
+seq: 1257
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十求躔離寔度以寔距時之時分查四行時表太陽平行兩數並之得寔距弧依寔距時加減號置太陽經平行以寔距弧加減之得日次平行置日寔均記加減號以加減日次平行得日寔經度以日寔經度加減六宮得月寔經度記寫宮名十一求視望以日寔經度查加減時表得加減時分記加減號置寔望時刻以加減時加時減之得視望日命甲子起算得望日於支時分從子正起算得視望時刻分
+  hash: sha256:5efde362945afcbc7debf750ebc3fd244e6d1c8907118753a01f8d8ffeb932ea
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:73dbe3a33e685612ea79f4d6efecede7409dee93fd1e6bae64079abb4c2b213d

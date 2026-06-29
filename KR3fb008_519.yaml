@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/519
+seq: 519
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十二度二十八分最小一十度十六分平望之食限為十五度六分平望距定望最遠淂二度三十八分者以太陽之均數最大者二度三分十五秒太陰均數最大者四度五十八分二十七秒并淂七度一分四十二秒為兩交時日月以實度相距極遠之弧也徙太陰逐及于日行訖七度二分此時間太陽又自行三十二分二十八秒太陰又須逐及更行三十二分此時間太陽又行三分弱共為三十五分以加太陽均度淂二度三十八分為日月之實會望距平望也如圖甲乙為地心所出過本輪心直線至黃道乙指中會即平會太陰實行在丙太陽實行在丁總丙丁弧七
+  hash: sha256:b61ee4ff5d23c16f448200d0cc34c73be2e2fbcb6d28b6705e863772ef1fba49
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0cc051e796516c72dd16fcf3bec0095d6a212acde3518cfed0f19b67459609b6

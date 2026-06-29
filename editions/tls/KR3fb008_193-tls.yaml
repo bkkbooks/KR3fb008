@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/193
+seq: 193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 割圓八線表度分正弦切線割線初初一一五四三六四三六一一三八七三八七三一四四五一三九一三九一九一一七四五一七四五一一五一五二一八一二一八二一二四三二六一八二六一九一三五四五三五四三五五一四七二三四九三四九二一六一一五三九二六三九二九一七七三四三六二四三六六一九五四五四七九八四八三一一一三五二三三五一四一一三七一五五六六九五六七八一一六一三六一五六一一六一一八七四五六五四六五五四一二一五四六九七大六九九三一二四四一五七四一一七四三一一二七六
+  hash: sha256:a58446b42ecd478fc2e39daadf2b826713c0bee10bb0dc5dccd95e44f8d2ef4a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a8929ec22bf85bf9744a33051c344f3b1ce75f674d5395830a8854591933cde0

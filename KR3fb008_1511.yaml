@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1511
+seq: 1511
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者太隂出入地平距食甚之時刻也月食日月相對日出時刻即月入之時刻日入時刻即月出時刻也求𢃄食距弧以三千六百秒為一率一小時月距日寔行化秒為二率即推月食所用月距日寔行也𢃄食距時化秒為三率求淂四率為秒以度分𢃄之淂食距弧𢃄食距弧者太陰出入平距食甚之行度也求𢃄食两心相距以半徑一千萬為一率𢃄食距弧之餘切線為二率食甚距緯之弦為三率求淂四率為兩心相距之餘且線檢表淂𢃄食两心相距𢃄食两心相距者𢃄食時太陰心典地影心相距之度也求𢃄食分秒
+  hash: sha256:41c03fc072d268de2d9fa1b6686e51d35256c0dcf440a286799bf52e67ecb513
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:03706eafffb6feca8db36026de68af199d06737e6b7cb92d3b3fc3d116449cbe

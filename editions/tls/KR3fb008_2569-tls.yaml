@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2569
+seq: 2569
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十度所對之數為一一二一九四八卽所求之星距地心線也若星距日次引有零分者亦按中比例法求之
+  hash: sha256:62ddec0d3f2d52bcbd6685e881c11b076aa19e915352e3a72f03287352a7044c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0ac16490b5fd28aade01cafbd93b3e08cae9b57d94deb2f4a97a2577cf801706

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2029
+seq: 2029
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如先測得太陰視高二十五度零一分一十三秒則以地半徑差五十八分四十七秒與視高相加得二十六度為本時太陰之實高也若高度有零分者按中比例法求之
+  hash: sha256:0cb83f55b69e21f7d55ba0024695528b3013ac70247b3d1f62a5b99b8539749f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:021f52ad98cd8b8f681406e8bc88ffba7f27966ec808e9ff8bd82ee2711c4199

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1253
+seq: 1253
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六求寔交周以寔距時查四行時表時分下交周平行兩數並之為交周距弧依寔距時加減號置交周平行以交周距弧加減之得交周次平行凡加者滿三十度進一宮滿十二宮去之為宮減者遇所減度數反小則加三十度退一宮減之宮度不及減則加十二宮然後減之置月寔均記加減號以加減交周次平行得寔交周度分七求月距黃緯以寔交周查太陰距度表用中比例法得月距黃緯視寔交周在宮至五宮韋在北六宮至十一宮月緯在南八求徑距較數
+  hash: sha256:82b0320c0250d1fbe33320cd999c05749d13e42a9c6a45cfba8555ea57bc3437
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6ccb6f49416869366897f3a27a54f2798fdb648368d8d137fb36153c94bd9d97

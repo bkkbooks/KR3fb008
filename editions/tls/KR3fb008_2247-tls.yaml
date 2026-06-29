@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2247
+seq: 2247
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以二時五十八分一十四秒察春分距午時分相近者得二時五十八分零六秒其與黃平象限相對之數為四宮二十三度五十三分四十四秒即所求之黃平象限宮度其與限距地高相對之數為六十七度五十七分零四秒即所求之限距地高也
+  hash: sha256:a639f5b273a6ac2acfc20cd0720fb299261d1b73a5abfc3fb64152718bdd35a6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b622d5da8cacbef047a550ce07e41b6d991da18fa96b215511698ff2bb8cfce7

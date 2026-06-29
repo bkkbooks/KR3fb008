@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1337
+seq: 1337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至丑宮初度亦為斜升
+  hash: sha256:a773b6974fe35a0deea777310070a9d263d4ebeb8365e7739459cafa58ae246d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:4ddc514b9532cdcf508987ed6761c8fb59b9421a99c6a88689c6e2f5c59caf22

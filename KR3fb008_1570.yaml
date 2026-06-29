@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1570
+seq: 1570
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 内時分相近者取其典黃平象限相對之数淂近時黃平象限宮度又置太陽黃道經度加減用時東西差近時距分加者亦為加近時距分減者亦為減淂近時太陰黃道經度两数相減餘為近時月距限度太陰黃道經度大于近時黃平象限宮度者為限東小于近時黃平象限宮度者為限西求近時黃平象限用交食北極高四十度黃平象限表以近時春分距午時分察表內時分相近者取其典限距地高相對之数淂近時限距地高求近時太陰高弧用交食太陽高弧表以近時月距限及近時限距地高之度察其
+  hash: sha256:f1cd8f1d439a0a3027ef35f9caeb8461f0d874cb9b55d36c1225e9e3f142f17f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b1d5286ae9ce69e31239001b3484a96557260c438a26bbd8fe6c5cced0bc38a4

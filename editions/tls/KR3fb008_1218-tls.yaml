@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1218
+seq: 1218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以前求得九求內月距地及本求日距地高度如前法查視差表得月高下差以日距限及限距地高如前法檢交角表得交角度用交角度及月高下差如前法檢時氣差表得近時差以近時差與先得時差相減為較若先得時差小以較減之若先得時差大以較加之即為視行又捷法倍先得時差內減去近時差得視行亦同以十求內先得時差化秒與近時距分化秒相乘為寔以視行化秒為法除之得真時距分置視朔以真時距分加減之為真時亦限西加限東減
+  hash: sha256:4d7ef80f023ea4aa73be4a54c66ed157a1d9790448ef7545ccd5165bd31c1141
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dd55392d2392f024285fd35cc78e1015840530ac75c66540494cc54a5b58a74e

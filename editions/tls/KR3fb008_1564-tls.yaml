@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1564
+seq: 1564
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交周為初宮十一宮用時月距限東則加月距限西則減食甚交周為五宮六宮用時月距限東則減月距限西則加淂用淂用時白道高弧交角加過九十度者則限東變為限西限西變為限東不足減者則于黃白交角內反減黃道高弧交角餘為用時白道高弧交角限距地高在天頂北者白平象限為在天頂南限距地高在天頂南者白平象限為在天頂北求太隂距地用交食視半徑表以太隂寔引宮度察其典月距地相對之数淂太隂距地求用時高下差用日躔太陽地半徑差表以用時太陰高弧按太陽寔引宮限察
+  hash: sha256:d963b4c12631adbd111d8d1c85e16ec32e94907c944e40b4de90754ad1d36128
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ff98fc54a3f998054159a1761903ceb98b71b7ad92ebaa01500b86312fc87788

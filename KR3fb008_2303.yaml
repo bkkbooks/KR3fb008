@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2303
+seq: 2303
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道高弧交角表黃道高弧交角表以日距限及限距地高縱橫列之日距限自一度至九十度分三段列于前每段三十度限距地高自二十度至八十九度分七段列于上每段一十度中列逐度之共道高弧交角用表之法以日距限之度對限距地高之度其縱橫相遇即所求之黃道高弧交角也設日距限三十度限距地高二十五度求黃道高弧交角則察日距限三十度與限距地高二十五度所對之數為七十六
+  hash: sha256:7baface7a6557238a62384361100b96db6ba608f9084780591ea527071c634bf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b3ad1252f9316b88861411a887271f9dd5ebe7b353ce9307e860cd2210a3faec

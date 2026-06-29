@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2861
+seq: 2861
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九一四即所求之星距地也又設金星引數為初宮一十八度求距地差則察初宮一十八度與距地差所對之數為六五一九卽所求之距地差也若伏見實行或引數有零分者亦按中比例法求之
+  hash: sha256:a1ede66d9342b776e7bfbb5e47448821e22d4cbace4c15c961356f57f065a33b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e60b55a467d8d70193f85d23b9bf0f9d984d166294f9265fc8876b2566a92aac

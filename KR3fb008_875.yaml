@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/875
+seq: 875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徑有乙辛巳角倍弧度分壬巳為子辛之倍數求辛乙巳角及巳乙線以辛乙巳角減辛乙甲角引數之餘存巳乙甲角次算巳乙甲形有乙巳乙甲兩邊有巳乙甲角求巳甲乙角淂乙丁弧即邜乙引數相當之自行均也因距最高在前六宮應用減又求巳甲邊淂星本天距地心線上星自行均最大為六度三十八分十七秒木星五度二十六分五十九秒火星十度三十四分二十秒金星一度五十分十六秒求水星自行均數水星自行均所以與四星異者以水星本天之心亦有行動時時旋轉遂致星體所麁之本天圈不為圓形而為撱形上下寬而中
+  hash: sha256:58cf24b9fad6d5e0fe833c9cb6b24963a881f752bac56a9dcc0a5021e0deb95c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dd7065a95919b6bcaaff207412ed2448325b59fcff05e3d2260130bfd2aab23b

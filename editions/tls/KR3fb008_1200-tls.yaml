@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1200
+seq: 1200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以年根交周度與十三月表查得交周度并之為交周平行視交周平行宮二十度四十分內五宮九度二十分外六宮十一度二十分內十一宮十八度四十分外俱有食後再于寔交周詳之以年根太陽經度與十三月表查行太陽經度相並為太陽經平行二求日月相距以太陽平引宮度入加減表查均數相較得日定均記加減號以太陰平引宮度入加減表查均數相較得月定均記加減號以日月定均同號相閏異號相加淂距弧
+  hash: sha256:3b8d9fafb0735b83fd92edc5ace2e002a9d43bbe41128c30985a4a76fd3b13d9
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f2247656c5ac44205ede215affbe154c495bea1612856a069a6c6e491aa7a28d

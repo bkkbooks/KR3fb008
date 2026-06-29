@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1243
+seq: 1243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日食既圖甲為太陽心癸乙丁圈為太陽戊庚丙三點為月心子甲為真距度庚甲為視距度月行至戊則丁點為初虧月行至庚得癸巳為食甚月視徑稍大於日止能相掩至盡不能食既外有餘月行至丙則乙點為復圓
+  hash: sha256:937431f2e286b69ec423870367e53c2118d0c9343ddea87c13ba05ed2a0e558d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:726c06322146e774894a44b345139215d8a44b9d0e92e671bf5b0256765ebe62

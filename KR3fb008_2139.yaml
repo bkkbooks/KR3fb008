@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2139
+seq: 2139
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四宮二十五度三十二分零一秒三十一微其太陽引數朔策為四宮二十五度三十一分三十六秒四十八微其太陰引數朔策為四宮九度零五分零一秒一十五微其太陰交周朔策為五宮零三度二十一分一十秒零五微即所求首朔後第五月各平朔策之數也求望策倣此
+  hash: sha256:69f204308407c96333a2e1168cc3c8fb1b1e190c66f22ad0aad80b5484e7ad34
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2feef3f212f924e896c14ac9738d39965c556e461675d4d82e1b792bc38b9546

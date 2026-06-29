@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2155
+seq: 2155
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 数為二十九秒三十四微其所對為一十二分又以二十九秒三十四微與餘數相減餘五十九微零八纎復察太陽平行表內與五十九微零八纎相近畧小之數餘數恰合其所對為二十四秒合計三次所得五時一十二分二十四秒即所求之時分秒也餘倣此
+  hash: sha256:622900f1fbac3eca6af272d4fa2041424ac0ae07725a7cd3da74db09358fe6d1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d29489dcab1bc2aec185c60c28d07c7d40a40859140121e967cf78fc27f06818

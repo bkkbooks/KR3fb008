@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/3037
+seq: 3037
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先測淂水星視高一十八度五十五分則以地半徑差五分與視高相加淂一十九度為本時水星之實高也高度有零分者滿三十分以上則進作一度不用中比例因逐度地半徑差所差甚微故也
+  hash: sha256:00190e3388272a004548558db61e72567d5a8d730102bf9cdb5385efa6612b2e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:008e325b640470334e6993482655d97b855993706592bc3a50fc48dfb0aae403

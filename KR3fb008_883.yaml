@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/883
+seq: 883
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行在子即子為心作丁戊本輪丁為最高又以丁為心作已井均輪巳為最遠井為最近平行自子右行而醜而辰而復於子為一周本輪左行自丁而戊為鬥而復于丁為一周均輪右行自已而亢而井而復於巳為一周其巳點之行三倍疾于丁子兩心之行如平行在最高子本輪上則在丁均輪即在巳巳為星之
+  hash: sha256:67a898b7626285f7745770c5c80e7f8fda9580aa977baba938fd88c2e58734b2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:12fc9c7ebfdd2ca54bba1d795a4ccf0869d5a08b903ac45190468f988fec36c6

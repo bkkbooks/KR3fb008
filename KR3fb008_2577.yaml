@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2577
+seq: 2577
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心距地心之法詳曆理求初均數篇次均者乃次輪心在最高木星行次輪周逐宮逐度之次均數順度為加逆度為減較分者則次輪心在最卑逐宮逐度之次均與次輪心在最記逐宮逐度之次均相較之數也求較分之法與土星同用表之法設木星引數為初宮四度一十分求初均及中分則察初宮四度一十分與初均所對之數為二十二分四十七秒其號為減即所求之初均其與中分所對之數為四秒即所求之中分也初宮在上故用順度又設星距日次引為一宮五度二十分求次均及較
+  hash: sha256:fd9e266e743eb5c628d8994dfc611915d9c1c1963eae85a2cd1d0ffbffc3b550
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2792d7407c79cfee63920353f1dceb9818c2cc6d63cf56b6535215181dc37a60

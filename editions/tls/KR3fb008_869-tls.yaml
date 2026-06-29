@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/869
+seq: 869
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 土星一日平行二分三秒一十三微三十一纎二十八芒五十一末一平年三百六十三日行十二度十三分二十三秒五十六微木星一日平行四分五十九秒一十四微二十六纎四十六芒三十一末一平年行三十度二十分二十二秒五十一微火星一日平行三十一分二十六秒三十六微五十三纎五十一芒三十三末一平年行一百九十一度十六分五十四秒二十二微有奇金星一平年行伏見輪二百二十五度一分三十三秒水星一平年行伏見輪三全周外又五十三度五十六分四十二秒
+  hash: sha256:a5aa9e36f511e80894372fc6c05ae979fc25c6b1286e539069c95363afd88ce5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6c973784638d3c493695a3d09829223e8fb0efebce74fa20353547a8d8cfa63d

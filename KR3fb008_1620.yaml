@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1620
+seq: 1620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復圓月距限西者復圓㝎交角在四十五度以內為上偏左在四十五度以外為左偏上適足九十度亦為正左過九十度為左偏下京師北極高四十度故日食方位皆以黃平象限在天頂南而定若北極高二十三度以下黃平象限有時在天頂北則日食方位之左右典此相及求食限搃時以初杅距分典復圓距分相加淂食限總時
+  hash: sha256:2f5a5e8ef8c37b936a36ec2155228fdaebfbc12e2a9673b4b15f416833735af7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0b8830b7c90f7e0d894b7a8dc16c9eed771c1d2c0ee35e0082851285cc02d27a

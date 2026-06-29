@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1991
+seq: 1991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交均距限表交均距限表按朔望兩弦分順逆列之朔望後之各宮列于上月距日初宮至二宮為朔後六宮至八宮為望後其数同兩弦後之各宮列于下月距日三宮至五宮為上弦後九宮至十一宮為下弦後其数同月距日次引在上六宮者用順度交均之號為減月距日次引在下六宮者用逆度交均之號為加用表之法以月距日次引之宮對月距日次引之度其縱橫相遇即所求之交均及距限也表以逐度為
+  hash: sha256:fb86b444be737599ba4d3966464082c74dfc2b50e1ebb8df7623f979cbb48ae0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b6d5a13cc2986160c746652172a972b61be40bc50597b9590648c6837b25820c

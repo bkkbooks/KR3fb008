@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/749
+seq: 749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為影心內圈為地影甲丙為距度小圈為月太陰心至丁為初虧壬點至乙為食既未點至甲與影心正相對為食甚至亥為生光午點至子為復圓丑點其丁甲與乙甲為初虧食既行度亦即所歷時分也甲子為復圓時分甲亥為生光時分如太陰不全食止有初虧復圓兩限而無食既生光也月在影之光色月既暗骵當全食時一入地影遂應失其借光非復人目可見盖可見之物悉無原光必借外光以顯其象無外光即無從見有此
+  hash: sha256:b690cdac42b40a3e89f2ab26a4e78eafa94f3bc2849ef4b19899efd5ced7bc4e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:5f7db33ebe5fcea423f248a412a61a27611f86ecc61a4055fb704ecdff0603ee

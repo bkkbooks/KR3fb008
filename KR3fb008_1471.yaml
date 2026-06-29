@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1471
+seq: 1471
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求寔望寔交周置寔望平交周加減太隂寔均淂寔望寔交周自初宮初度至初宮一十二度一十六分五十五秒自五宮一十七度四十三分五秒至六宮一十二度一十六分五十五秒自十一宮一十七度四十三分五秒至十一宮三十度皆為入限為有食不入此限者不食即不必筽推太陽寔經苐六求太陽距弧用交食周日諸平行表以寔距時之時分秒各察其典太陽平行相對之数而并之淂太陽距弧寔距時為加者亦為加寔距時為
+  hash: sha256:d5cf07e11778021b8f9fced877a2113709209ea248c82dacf2fe683abe6b8852
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:284a7bf3e13dc2db7bf8e26e49929dfc3bcc6d0021a78dd2bb300534369319e9

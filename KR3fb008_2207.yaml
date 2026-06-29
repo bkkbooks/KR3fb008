@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2207
+seq: 2207
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 交食月行表交食月行表以兩徑和較及食甚距緯縱橫列之食甚距緯列於前兩徑和較列於上兩徑和者太陽與太陰或太陰與地影兩半徑之和兩徑較者太陰與地影兩半徑之較日食惟用兩徑和月食十分以上兼用兩徑較中列逐分初虧至食甚或食旣至食甚之月行分秒初虧至食甚與食甚至復圓同食既至食甚與食甚至生光同其有空格者蓋兩徑之和大於距緯方有食小於距緯或僅與距緯等則不食即無月行分秒矣用表之法以兩徑和較之分對食甚距緯之分其縱
+  hash: sha256:903ccca03d71fb4f2466889b1f1cda7c49a0d274f79a790f0f0b468b6440798f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e52a2ded4c05974232e4251fe2b32752bb7b7b1e6b9fe25f639bb3493cb85903

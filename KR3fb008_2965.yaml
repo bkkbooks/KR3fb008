@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2965
+seq: 2965
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距限表一宮二十二度所對之數為五度三十二分三十七秒卽所求之距限也距交實行有零分者滿三十分以上則進作一度不用中比例因逐度交角所差甚微故也
+  hash: sha256:21256967ed613313f769543a6de9748f6432e7ef432b3b772c75ca1d93e586b8
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1890c87db628351d2778ce226d3afb0f42dfb05c19442d8bbede5069dda71a18

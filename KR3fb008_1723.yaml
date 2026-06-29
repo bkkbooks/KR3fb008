@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1723
+seq: 1723
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度五十八分三十秒如癸酉作酉戍負白極圈設白道極在亥則申白爲白道未爲正交自白極亥遇天頂甲作亥甲庚遇白経圈則午點爲白平象限申爲白道出地平白爲白道入地平申午白午皆九十度而白平象限午更在已黄平象限之東惟白極正當黄極之上如酉或正當黄極之下如戍則黄白大距當黄平象限自白極遇天頂甲之白道経圈即舆黄道経圈合故两象限亦仝度今白極亥在黄極西半周故
+  hash: sha256:bb7b072091c9146f8bf544e0326f4036f4752cd5b6a2ca45323a4b14852b5c37
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dc23b31f576fd5f76cc12c6afdd96be81b58b8ca5441b4defe6b69a6a8ae16f3

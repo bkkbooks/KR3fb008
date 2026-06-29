@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1407
+seq: 1407
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求金水日數以所設日數與金水每日平行金星三千五百四十八秒三三五一六九水星同相乘淂數為秒以宮度分收之淂金水日數求最高日數以所設日數與金水最高每日平行金星為十分秒之二又二七一九五水星十分秒之二又八八一一九三相乘淂數為秒以分收之淂最高日數求伏見日數以所設日數與金水伏見每日平行金星為二千二百一十九秒四三一一八八六水星一萬一千一百八十四秒一一六五二四八相乘淂數為秒以宮度分收之淂伏見日數求金水平行
+  hash: sha256:b3aaff2c9487252780c527f296a02ed975fa3210a4ae9427ca8e3864786467eb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:6154322582a83fac9af52d9d6d1c477e19262add88612282634fb710d8fce7cb

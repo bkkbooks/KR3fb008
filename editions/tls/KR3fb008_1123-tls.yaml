@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1123
+seq: 1123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宮一度二十五分四十二秒伏見平行三宮二十九度五十四分十六秒時憲曆推算五星諸表土星二百恒年表康熙永年表周歲平行表時刻平行表初次二均加減差表中分緯限表木星二百恒年表康熙永年表周歲平行表時刻平行表初次二均加減差表中分緯限表火星二百恒年表康熙永年表周歲平行表時刻平行表初均加減及次均距日半徑差表中分緯限表金星二百恒年表康熙永年表周歲伏見平行表時刻
+  hash: sha256:646da1d65869a0e17294e7ad2e43615d6ca1962dee997f0c1e3f36262600100f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b12d36b5fe7830cefad1f9b2b4762a0e6bd392f11d3e8ef2ee4e0c6c23f8f9f9

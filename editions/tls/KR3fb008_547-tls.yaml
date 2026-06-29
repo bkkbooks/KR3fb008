@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/547
+seq: 547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平行在黄道上壬以丁乙午壬甲午两角等故設月平行至已與日平行同在甲壬一線內此直線所指則日月中相會之度也若太隂平行至夘與壬點太陽平行度為壬甲夘一直線而指黄道子則日月中相望之度也壬辛弧為太陽减差壬甲辛角之壬辛弧即甲丁乙角故淂中會持太陽之寔度在辛設月在本輪戊則日月两骵同在甲戊丁一線直指黄道淂辛為日月寔相會之度如太陽在丁太隂在本輪庚亦在辛甲
+  hash: sha256:1d26e087019b2d82fd9feb2803831905420bff4dc34d908b31a29842d3dbd12d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e32176dcceea07454a66a1dc079c17cf4ae716d3b8bc1714422c1dd884b8820e

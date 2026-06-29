@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1487
+seq: 1487
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求復圓時刻置食甚時刻加初杅復圓距時淂復圓時刻加滿二十四日去之即復圓在次日命時之法典平望同推食既生光時刻苐十一推食既生光距弧用交食月行表以寔影半徑內減太陰半徑之餘分及食甚距緯分察其所對之分秒淂食既生光距弧求食既生光距時以月距日寔行化秒為一率三千六百秒為二率食既生光距弧化秒為三率求淂四率為秒以時分妝之淂食既生光距時
+  hash: sha256:a812cc4b5439636937872f29f606c26abd11236e790760d0bdf892e788aa1dfd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:506f28c221bcb9e0bc5591e488672297f330875c970316be31006c9fe580065d

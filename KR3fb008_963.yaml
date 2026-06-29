@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/963
+seq: 963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 半徑為十萬求他數法乙戊線八九五七二與乙戊全數若戊甲線與戊甲一一一六四內減去乙戊全數餘乙甲一萬一千六百四十乃水星天兩心之差也又求戊巳淂三萬五千七百二十為伏見輪之半徑也後第穀疑多祿某所記測數未密恆星及太陽之行古未精細因細加測算淂甲乙兩心差為十萬分之六千八百二十二分分之本輪半徑五千六百八十五均輪半徑一十一百三十七其比例若一與六伏見輪半徑定為三萬八千五百分測五星最高行五星之最高每年亦有行動法以古今兩測之最高經度用積年
+  hash: sha256:ef69824eb017870d3e10f5acd99f86175ddfbf3e52159347a2d411c2fd60e940
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a54f941e7915dd82996220a2c358fa9330147123ba0ed1c2dad3d8b5679e1894

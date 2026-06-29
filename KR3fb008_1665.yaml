@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1665
+seq: 1665
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戊丁弧之倍為壬乙日真体在乙作乙已甲乙䓁線先用丁已乙三角形求淂丁已乙角及乙已邊次用己甲乙三角形求已甲乙角淂己癸弧即太陽丙己引数之盈縮差也又求乙甲邊為太陽本天髙卑距地心線時差時差者平時與用時相較之時分也推步所淂者為平時測量所淂者為用時用時即視時也二者常不相合其故有二一因太陽之寔行
+  hash: sha256:fa6940d0e9cb8194fd9bd86d087011cfee63dc3b5c6f9516c24a942d24e8c48c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:56598ac4398fb180a921653d525e53ec23afcd6245b6b3269d0ea75df8fb62a3

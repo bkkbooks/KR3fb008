@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1821
+seq: 1821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽同在最卑之比例為一與六百五十一最大之視差為五分一十七秒盖五星距地之遠近不等故視差大喜亦不同今約最高中距最卑三限火金水三限逐度各求地半徑差立表用以加視高淂星之寔高度矣
+  hash: sha256:1b615324ba31724c0b88464366ba7a762fa659eddd66ca1c1be4d7f602e568d5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:88cf6b2a99affff9b8d4eab2dc6ffbf3470f57172754e44322376ebd564a7520

@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/markers/1243
+seq: 1243
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p428.s10}
+  - {type: line-break, offset: 0, content: '', id: KX_10_dup413, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR3fb008_tls_001-p428.s11}
+  - {type: line-break, offset: 4, content: '', id: KX_11_dup9, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3fb008_tls_001-p428.s12}
+  - {type: line-break, offset: 16, content: '', id: KX_12_dup418, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fb008_tls_001-p428.s13}
+  - {type: line-break, offset: 28, content: '', id: KX_13_dup414, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fb008_tls_001-p428.s14}
+  - {type: line-break, offset: 40, content: '', id: KX_14_dup412, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR3fb008_tls_001-p428.s15.1}
+  - {type: line-break, offset: 52, content: '', id: KX_15_dup412, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg-start', offset: 56, content: '', id: KR3fb008_tls_001-p428.s15.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p428.s15.2, KR3fb008_tls_001-p428.s16.1]}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR3fb008_tls_001-p428.s15.2}
+  - {type: line-break, offset: 64, content: '', id: KR3fb008_tls_1243-bkklb1}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fb008_tls_001-p428.s16.1}
+  - {type: line-break, offset: 72, content: '', id: KX_16_dup413, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: line-break, offset: 74, content: '', id: KR3fb008_tls_1243-bkklb2}
+  - {type: 'tls:seg-end', offset: 76, content: '', id: KR3fb008_tls_001-p428.s16.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3fb008_tls_001-p428.s16.2}
+  back: []
+hash: sha256:bc4e10db8d122b1d149d956d8e4e3a35623d1cbc03827c5b7aeb154e3068dec7

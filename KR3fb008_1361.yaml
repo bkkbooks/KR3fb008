@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1361
+seq: 1361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求升度差以半徑一千萬為一率本道與黃道交角土星二度三十一分木星一度十九分四十秒之餘弦為二率距交寔行之正切為三率求淂四率為黃道之正切線檢表淂黃道度與距交寔行相減餘為升度差距交寔行不遇象限及遇二象限為減遇象限及遇三象限為加求黃道寔行置本道寔行加減升度差淂黃道寔行求星距黃道線用土木距黃道表以距交寔行宮度察其所對之數淂星距黃道線並記南北號
+  hash: sha256:88a8e5b9eac3883f1fdcd1de367c523f620cd4495589eea90b7320d2a918cf12
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:12cb4d5e49d81ce78d184a4c42e160ccba47d78074409305971533d100a5c59f

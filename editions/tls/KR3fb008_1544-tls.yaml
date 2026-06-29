@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1544
+seq: 1544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 對之数而并之淂太陰引弧距時為加者亦加距時為減者亦減求太陽寔引置平朔太陽引数加減太陽引弧淂太陽寔引求太隂寔引置平朔太隂引数加減太陰引弧淂太隂寔引推寔朔第四求太陽寔均用日躔太陽均数表以太陽寔引宮度分察甚所對之度分秒淂太陽寔均并記加減號求太隂寔均
+  hash: sha256:db5ae91b5998ca0f9f25df10f5fd69d24556144c6e9d3387c2714ab79da7d577
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:154dadb83c3142ca89c74a56e5e7a8a148bcbcae8196499d50a8b19b6bbc9775

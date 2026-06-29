@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1965
+seq: 1965
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之宫度其纵横相遇即所求之二三均数也凡月距日滿六宮者減去六宮用其餘数原表引数及月距日俱逐度列其均数今不能盡載引数每隔五度月距日每隔四度列一数云
+  hash: sha256:986e7b51554980a30b26a01376b390bb5b8381f2279755552afdd8e861d0d656
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:12e0168aef8388aa01559853aeba03967f5a581efdf7dc687b3f14ae8f57d29c

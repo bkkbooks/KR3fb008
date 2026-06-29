@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1305
+seq: 1305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日平行以二十四時除之即淂月孛每日平行四百零一秒小餘零七七四七七月孛每日平行六分四十一秒零四微三十八纎五十四忽五十七芒以秒法通之即淂正交每日平行一百九十秒小餘六四正交每日平行三分一十秒三十八微二十四纎以秒法通之即淂太陰本天半徑一千萬太陰本輪半徑五十八萬太陰均輪半徑二十九萬太陰負圈半徑七十九萬七千次輪半徑二十一萬七千
+  hash: sha256:7bca372db27beb6c2ac99d26eb44f4faee8be7b3a9030b3f0bc8442dfa4813d1
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:e76b0eafb342b30f745fa8c6e84bed975e802d429ee09a00714820d1f55c14dc

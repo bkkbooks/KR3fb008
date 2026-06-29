@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1158
+seq: 1158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求天正冬至時刻求來年天正冬至即本年十一月冬至先於來年太陽平行根表內取根數以減日平行五十九分八秒二十微所餘為太陽之經數次以經數加於本年之最高沖數為引數以引數於太陽加減表內求均數以加於經數依變時表變為時刻分淂今年根日之前一日某時刻加日差八分為太陽躔冬至一點之時刻若所淂時滿一日二十四時之數則不用根之前一日而用本日如圖甲乙線為黃道之一弧查日平行最高沖表有平冬至與相距之數丁乙線也有日平行之根數自平冬至至次日之子正丁丙線也有日平行之度分初日子正至次日子正甲丙線也十五
+  hash: sha256:1b327c781e1493a1b538e681c7e86a75201ccd1d5f8b51eecc822198ef1faff2
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ab7a3719affdbc8d3adbe747598268b456419b6245be0a38eb763ba0b6aa9b45

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1707
+seq: 1707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從辛壬作两線切地球戊已两邊而交于癸則成戊癸已影而小于戊庚已影論其寔推筭之数爲真欲合仰覌則測量之数爲凖今用月食測淂太陽在最高太隂在中距地影視径爲四十四分四十三秒而推筭淂四十八分三十四秒相差三分五十一秒則太陽光大能侵削地影可知矣然不淂太陽之光分雖逐時測量猶有影差襍于其内則地影之大小終不能淂其真今立法以太隂
+  hash: sha256:5d255b33b68a1193b271da1f6792cf099df77692dee8be1fa7a7c12bded8b36f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:66069c854646e22f8e65e47677f3e1dd0cbdf294e2ff4af04d9be012228beaf0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1194
+seq: 1194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 最大時差以地平差作高下差及星距限度查簡法表得時差置真高度用九十度減之餘為較數以較數及月距地半徑入簡法表求得氣差較數查右直行以淩犯時刻化分為三率本日之月緯度與次日緯度相較淂數化分為二率二十四小時化分為一率推淂四率以加減于本日緯度視南北號順加逆減淂月寔緯若南北異號以兩數相加為二率所得四率數用減本日緯度以次日之號定南北以月寔緯度南加北減于氣差得月視緯置恒星緯度南北度分視月視緯北多定上月視緯南多定下以
+  hash: sha256:2bd28578db5ba932f3f2c7c580a7f23005d14d44883ef1a413144d770f0f3056
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2c37781a05ec6bfb571bf3855e24063f43ba3f4782b41d32dfdc7dde7176327b

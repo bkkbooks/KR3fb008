@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1327
+seq: 1327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求距交寔行置白道實行減正交寔行淂距交寔行求升度並用月離黃白升度差表以距交寔行宮度察其所對之分秒淂升度差並記加減號求黃道實行置白道寔行加減升度差淂黃道寔行求黃道緯度用月離黃白距度表以距交寔行宮度按黃白大距相近者察其所對之度分秒淂黃道緯度並記南北號
+  hash: sha256:118ba08ca98e3f2acd3631f3528c8b57493c4296374091584f153f8c2f1a5187
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b6d7af0c5433645e8bb49f55dc6570aa987021d777079375c840addbdc8233a0

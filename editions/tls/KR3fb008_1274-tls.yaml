@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1274
+seq: 1274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月食既圖大圈為地影五小圈為月寅醜邜為影月兩半徑之圈甲申為地影半徑午乙為月半徑甲醜為影月兩半徑並乙甲為距緯度月行至戊壬點為初虧月行至丙庚點為食既月至乙得午申為食甚月至丁癸點為生光月至已子點為復圓共有五限辰刻
+  hash: sha256:434ece9ae5e90470dc3a0fe87d489e1822781013104cda374d544d0246e44412
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ae9ccf729151b3bfec9828b3546ea80ce133946f11830afba3b0208a62724580

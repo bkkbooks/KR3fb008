@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1089
+seq: 1089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謹按古今治曆每詳於二矅而畧於五星非故畧也力不逮也我朝定鼎以來首崇欽若於二曜行度固已曲畫不遺而於五緯亦極周詳悉偹至五星緯度之算尤更古所未聞今皆一一闡明其理偹著其法凡七政會合淩犯皆可預推比時攷測若摻左券煌哉證前代之謬契乾健之行雖義和復起其能賛一辭乎求五星晨夕伏見五星近日則伏遠日則見然其伏見之遲遠卻有四根一由星骵之大小一由距之遠近一由黃道之正斜即正斜升降一由星緯之
+  hash: sha256:a051a3086b4d2ef69c0320f424f5fc32d89f4216ded2f10e9fddf2891e17df64
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dc3bd735129bfaf7c0c4fafd53284afc0f5a1d5a1592f2eff971f316db5e06b6

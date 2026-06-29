@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/681
+seq: 681
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距天頂及距太陽度因以本高弧及高弧交黃道角復算視差如前辛未年十月朔日食得真時差九分一十九秒何以知其然也因減時九十度略在前即壽星宮二十三度六分距天頂五十三度四十分距午二十三度三十一分較太陽復西去八度二十一分算得高弧三十六度三十四分交角八十三度四十五分推東西差五分十三秒故以三率法用太陰一小時實行三十三分二十秒以真時差得五分一十秒為太陰實距太陽分數見其與才得之東西差相等則前時之時差亦準若未等則求所差分數如前東西差三分五十秒得九分一十九秒為時差此不等之三秒亦得七秒依前法視會內應減實得午正三刻一十四
+  hash: sha256:c21f23326d035b0f5fc54a65bc4d17a8f6c2d4c17fd47a3333ee4e3208ded9f7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:0b7ecf2ff010ddbb2485009916ca0e5be3dee7ca32ca5b7fe4c995bd999196dd

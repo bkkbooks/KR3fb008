@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1481
+seq: 1481
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加者亦為加減者亦為減求食甚時刻置實望用時加減食甚距時淂食甚時刻命時之法典平望同推食分苐九求太隂半徑用交食視半徑表以太隂寔引宮度察其典月半經相對之分秒淂太陰半徑求地影半徑用交食視半徑表以太隂寔引宮度察其典影半徑相對之分秒淂地影半徑
+  hash: sha256:c79c2875206e6b68616dd7d09ee4c633c5a6fb2df2a214e06bfc1b8c489646eb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a7cce48a368c08e2345426bdf3e1366bf876074717a240d7addfc71e0a3cfa76

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1475
+seq: 1475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用日躔均数時差表以太陽寔引宮度察其所對之分秒淂均数時差并記加減號求升度時差用日躔升度時差表以太陽黃道經度察其所對之分秒淂升度時差并記加減號求時差搃均数時差典升度時差同為加者則相加為時差搃仍為加同為減者亦相加為時差搃仍為減一為加一為減者則相減為時差搃加数大為加減数大為減求寔望用時
+  hash: sha256:2262854c720955948e30caa48e9a11e7bb0eca09088e08d0605c6e10b2aa9077
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:48eb426cdf4100aceece866538807c33475e08c68e3ced54f77506ec3194832a

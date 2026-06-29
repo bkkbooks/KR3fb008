@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1963
+seq: 1963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陰二三均数表太陰二三均数表按引数及月距日分順逆列之引数初宮至五宮依次順列于前六宮至十一宮依次逆列于後月距日宮度亦分順逆列于上下引數初宮至五宮用上宮度六宮至十一宮用下宮度中列逐宮逐度之二三均数其曲折界線乃加減所由分順度為減者遇界線則為上加下減順度為加者遇界線則為上減下加逆度為加者遇界線則為上加下減逆度為減者遇界線則為上減下加用表以太陰引数之宮度對月距日
+  hash: sha256:44dc459ad431c07321ba7dcfea3678c0a509652f7915343ce8e9bcf515fe69b7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:60fe5e02c46e09a963840041d43037ee553351e1f624798d13a114ff9c545c08

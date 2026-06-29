@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2165
+seq: 2165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所求之月距日實行也設太陰引數為初宮二十四度求月距日實行則察初宮二十四度所對之數為二十七分五十七秒即所求之月距日實行也初宮在上故用順度若引數有零分者滿三十分以上則進作一度不用中比例因逐度實行所差甚微故也
+  hash: sha256:0b24e23a02d03be26154f9204c636152fba603225adf135bcbde2e3620756e1d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1fe8bd21c5de9ec04f69c1bbaa27ba7080b2ee0db5d7151f59d6a2dd34eacd68

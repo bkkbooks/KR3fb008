@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1249
+seq: 1249
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減距弧得時視相當近小數本行上頂格所書時數録之即是其餘數再如法查取得時之分秒依上法以相當近小數取之並所查數為距時距時隨定其加減號兩均同加者日大則加日小則減兩均同減者日大則減日小則加兩均一加一減者加減從日三求寔引以距時之時及分查四行時表太陽平行兩數兩數謂時分下同並之為日引弧依距時加減號置太陽平引以日引弧加減之為日寔引以距時之時分查四行時表內太陰平引兩數並之為月引弧依距時加減號
+  hash: sha256:9478d2ab5015a2e9e7bc5d4f55b32401d5804f3fc1fd6482307d811aa4f295fb
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:564ebd8b22f467b625ca9588f7eec1741832a23f6106bc4b1a0c2571e86aad99

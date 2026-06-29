@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1234
+seq: 1234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加歲差後宿鈐轉大于食甚黃道不及減退一宿如法減之得食甚時黃道宿度以黃道宮度入升度表對度取之即得所變食甚時赤道宮度記寫宮名或檢儀象志八卷取用亦同得赤道宮度以所入宿黃道宮度並其宿南北緯度入儀象誌八卷內如法求其宿赤道宮度置所淂食甚時赤道宮度以本宿赤道宮度減之餘為食甚時赤道宿度或作弧三角法求之亦同定日食方位視日食八分以上者初虧正西復圓正東不及八分者看月寔黃緯號在南者初虧西地食甚正南增圓東南黃緯號在北者初虧西北食甚正北復圓東北
+  hash: sha256:f0b7e1b2e467291ad4055209256cb2213f322d36fc611e1333cc5e9dee8c1b1c
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b32f9f546bc6709460f0385311de4c253f34fd224ef4ae770dbc5f1ba9f83eb2

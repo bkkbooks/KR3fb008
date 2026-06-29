@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/937
+seq: 937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金星弦望圖求金星最高測金星距太陽大距度距平行晨夕兩次其距度分為等者兩平行金星平行折中之處必金星本天最高或最卑如圖丁為地心大圈為星平行天設晨一測太陽平行在甲測淂晨大距度為巳丁甲角又夕一測太陽平行在癸測淂夕大距度為癸丁
+  hash: sha256:b512319fca4fbbec5c38990949e8cbc85d887e267c17a414bbf0f91bcc285598
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ac8f9fd6c15f4c5ffa7c11ad639c8068f89f2fa8f0ce6afffe9ee68ffdd386a1

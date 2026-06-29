@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/775
+seq: 775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丙月之初入影所向為已也今求東巳弧先設辛為天頂出高卑以遇甲至壬為頂極圈又作一癸午弧與甲庚為直角次甲乙丙小三直角形有乙丙距度有丙兩半徑有甲乙丙直角依法推得甲角次以食時及甲影所躔黃道度求得戊甲辛角即高弧與黃道交角以加已甲戊角即乙甲丙角也得午甲辛角次甲辛午三角形有甲角有午直角又以北極高及黃道距亦度得甲辛弧即黃道甲點距天頂為壬甲高弧之餘可推得辛午線以加辛癸象限得午癸弧為午巳癸角也其餘角為甲已壬而已甲壬為午甲辛之余角甲壬為辛甲之餘因可推我巳弧又戊甲壬三角形
+  hash: sha256:0478347fab2e24a5dff3c4e6a6fb6e34630800ac5a1b7e6ce4f7720056fbf075
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:67342829c942d74bdc6c03df46ac68b435dd89d2a58b521e921aaffd35bd3768

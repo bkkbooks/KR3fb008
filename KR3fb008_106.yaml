@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/106
+seq: 106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其算法如已丙戊卯癸辰兩相似形己丙與丙戊若卯與亥庚則己丙黃道正弦與丙甲距度正弦若全數與乙角之正弦也詳見後曲線形各角之正弦與其對邊之正弦比例等弧三角形各角正弦與其對邊之正弦皆為同理之比例先以直角形明之如甲乙丙直角形甲為直角依前圖法為半徑與乙角之正弦若乙丙之正弦與丙甲之正弦更之則乙角之正弦與對邊丙角之正弦若半徑與乙丙之正弦也又丙角之正弦與其對邊乙甲之正弦亦若半徑與乙丙之正弦
+  hash: sha256:6c089f7f4ef6833cfb2e0b5cef094b5ba1d977444a3b49f006998de94eaa1157
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:be43142ba49bb2ca63a143a5f7da1be444a1dd5be78a16e98d5200b2352046e1

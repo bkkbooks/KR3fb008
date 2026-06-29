@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1349
+seq: 1349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置中積分加氣應七日六五六三七四九二六淂通積分上考徃古則置中積分減氣應淂通積分求天正冬至置通積分其日滿紀法六十去之餘為天正冬至日分上考徃古則以所餘轉與紀法六十相減餘為天正冬至日分求積日置中積分加氣應分六五六三七四九二六不用日減本年天正冬至分亦不用日淂積日上攷徃古則置中積分減氣應分加本年天正冬至分淂積日求土木二星年根
+  hash: sha256:1dbddf7fe95d8fe462bbf59a76ae247ea28f4123214cc0f0a0dc5764f434dcde
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:fd1504c003f5c34c9e1b04a7f9b2600e176207a1d86622cd2eb88dc5570ea81d

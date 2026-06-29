@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2063
+seq: 2063
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天苑五四宮九度二十六分南二十五度五十九分三天囷一四宮九度五十七分南一十二度三十七分二胃宿一四宮一十二度三十三分北一十一度一十六分四天苑四四宮一十三度五十五分南二十七度四十七分三天苑三四宮一十六度一十七分南二十八度四十七分三昂宿一四宮二十四度四十八分北四度一十分五星宿一五宮四度零三分南二度三十七分三玉井三五宮一十度五十二分南二十七度五十五分三參宿七五宮一十二度二十七分南三十一度一十二分一
+  hash: sha256:4abed91a6b6fdea3150f505530a6da588c4a84364aa7fd16444f0aa85b613e77
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:990a9914307116fb5b5f16a2aa3f8b310bf88f27a67e353bd0beed79fdab9065

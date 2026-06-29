@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1387
+seq: 1387
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 線並記南北號求星距地心線以次均數之正弦為一率次輪寔半徑為二率星距日次引之餘弦為三率星距日次引遇半周者全周相減用其餘求淂四率即星距地心線火星次輪半徑既時時不同則星距地亦時時不同故湏用三角形隨時推算也求視緯以次輪心距地與本天半徑一千萬相減餘為距地差以加減星距地心線為一率次輪心距地大於本天半徑者用減小於本天半徑者用加星距黃道線為二率半徑一千萬為三率求淂四率為視緯之正弦檢表淂視緯星距黃道線當以次輪心距地心線與初緯之正弦為比例與土木二星不同今表中所列星距黃道線即初緯之正弦而星距地
+  hash: sha256:8a372b32e228e8d0a704982eb8fbd4e9eee8a97395733ea565df41bea24decab
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9e347e05c961200e6539acc7cbf08cea69b855efb0e77ef314ba1ecbcf59f166

@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR3fb008/bkk/v1/markers/2675
+seq: 2675
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p798.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup619, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fb008_tls_001-p798.s2.1}
+  - {type: line-break, offset: 20, content: '', id: KX_2_dup630, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg-start', offset: 39, content: '', id: KR3fb008_tls_001-p798.s2.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p798.s2.2, KR3fb008_tls_001-p798.s3.1]}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR3fb008_tls_001-p798.s2.2}
+  - {type: line-break, offset: 40, content: '', id: KR3fb008_tls_2675-bkklb1}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR3fb008_tls_001-p798.s3.1}
+  - {type: line-break, offset: 41, content: '', id: KX_3_dup629, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: line-break, offset: 59, content: '', id: KR3fb008_tls_2675-bkklb2}
+  - {type: 'tls:seg-end', offset: 77, content: '', id: KR3fb008_tls_001-p798.s3.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3fb008_tls_001-p798.s3.2}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3fb008_tls_001-p798.s4}
+  - {type: line-break, offset: 79, content: '', id: KX_4_dup624, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: punctuation, offset: 92, content: 〇, id: KR3fb008_tls_2675-bkkpn1}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR3fb008_tls_001-p798.s5}
+  - {type: line-break, offset: 98, content: '', id: KX_5_dup620, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3fb008_tls_001-p798.s6}
+  - {type: line-break, offset: 118, content: '', id: KX_6_dup620, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  back: []
+hash: sha256:abd88ee907d282bb00fe02f962721ec66f199b672f8bc7637b2126f6df713101

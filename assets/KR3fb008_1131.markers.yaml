@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fb008/bkk/v1/markers/1131
+seq: 1131
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p400.s2}
+  - {type: line-break, offset: 0, content: '', id: KX_2_dup393, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fb008_tls_001-p400.s3}
+  - {type: line-break, offset: 24, content: '', id: KX_3_dup393, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3fb008_tls_001-p400.s4}
+  - {type: line-break, offset: 48, content: '', id: KX_4_dup392, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fb008_tls_001-p400.s5}
+  - {type: line-break, offset: 72, content: '', id: KX_5_dup392, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR3fb008_tls_001-p400.s6}
+  - {type: line-break, offset: 96, content: '', id: KX_6_dup394, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3fb008_tls_001-p400.s7}
+  - {type: line-break, offset: 99, content: '', id: KX_7_dup389, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3fb008_tls_001-p400.s8}
+  - {type: line-break, offset: 104, content: '', id: KX_8_dup390, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3fb008_tls_001-p400.s9}
+  - {type: line-break, offset: 128, content: '', id: KX_9_dup390, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3fb008_tls_001-p400.s10.1}
+  - {type: line-break, offset: 153, content: '', id: KX_10_dup387, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg-start', offset: 155, content: '', id: KR3fb008_tls_001-p400.s10.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p400.s10.2]}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3fb008_tls_001-p400.s10.2}
+  - {type: line-break, offset: 158, content: '', id: KR3fb008_tls_1131-bkklb1}
+  back: []
+hash: sha256:9b9604c9f6dbd29bd13c4a212c67c5f9f249773359a454f789e359961977583f

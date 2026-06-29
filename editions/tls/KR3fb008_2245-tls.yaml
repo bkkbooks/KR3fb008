@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2245
+seq: 2245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北極高二十三度正午黃道近夏至則黃道過天頂北夏至後復過天頂南故界線所分即南北差之加減所由辨也今黃平象限止載京師北極高四十度及盛京北極高四十二度而表餘不及載用表之法設京師北極高四十度太陽黃道經度三宮一十五度合朔距午後二時零三分求春分距午時分及黃平象限宮度並限距地高則察本表正午黃道三宮一十五度與春分距午相對之數為五十五分一十四秒與合朔距午後二時零三分相加得二時五十八分一十四秒為所求春分距午時分乃
+  hash: sha256:278febb611cfd2741ae92f4163a35898425f4d8313408592682ed486b9978d0b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:38ee48eccfba5d5d1be24f33c6e985342fb0c2668c36ed07149844d2a9dde295

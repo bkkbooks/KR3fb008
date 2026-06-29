@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1463
+seq: 1463
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所對之時分秒淂距時凡太陽太隂两均数同為加者太陽加均大則距時為加太陽加均小則距時為減同為減者太陽減均大則距時為減太陽減均小則距時為加一為加一為減者太陽為加均則距時為加太陽為減均則距時為減推寔引第三求太陰引弧用交食周日諸平行表以距時之時分秒各察其典太陽平行相對之数而并之淂太陽引弧距時為加者亦為加距時為減者亦為減求太隂引数
+  hash: sha256:58bbb466efe9e6331e713d321c5084f9bdf5afb11dc0b6128b354da215d8495f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:d789240bebcb54313e1b645f1576e6a8ed127e7129e87769b863fc7bee64f734

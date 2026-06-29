@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1503
+seq: 1503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初杅定交角求復圓㝎交角太陰在限東者復圓緯南則以復圓緯差角典黃道高弧交角相減復圓緯北則以復圓緯差角典黃道高弧交角相加淂復圓㝎交角太陰在限西者復圓緯南則以復圓緯差角典黃道高弧交角相加復圓緯北則以復圓緯差角典黃道高弧交角相加淂復圓交角如復圓無距緯則無復圓緯差角而黃道高弧交角即復圓㝎交角求初杅方位太隂在限東者初杅㝎交角在四十五度以內為下偏左在四十
+  hash: sha256:c8e8036f49054da961c539177b7589b8fe70f6f4c397b53de1d1989de61172c0
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:edcde580bc95149c53f89d56b20dba50bc8d111aacc7c6bbd37f7bd16576f7f7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1186
+seq: 1186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二度內取月在下一度內取之次以本日之月視行內減次日之月視行取其較又以五星本日經度內減次日經度取其較視星順行者兩較相減逆行者兩較相加化分為一率日法一千四百四十分為二率以本日五星經度內減月經度為月未及星之距化分為三率求得四率為淩犯時刻五星犯五星以本年所推五星經度及南北緯度相距一度內取用五星各以本日經度與次日經度相減淂較如俱順俱逆者兩較相減一順一逆者兩較相加化分為一率日法一千四百四十為二率又以本日五星經度兩相減之較化分為三率如法求得四率為淩犯時刻
+  hash: sha256:dce24c3dd4fec1aa98f82af4ed6d0e8e10e03f4253311aaf5be7e503fc70529e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:049e8d081d0456b3782ba8f3024430172ab82267ebd401dbd601fab10dec873d

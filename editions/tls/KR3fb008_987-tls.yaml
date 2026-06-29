@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/987
+seq: 987
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙太陽為心圖算逈異嘗細繹之火星以距日而生次均之理元與土木兩星同所異者歲輪之半徑是以測算倍難西國古今累測始淂明其半徑變易之理以定行度之法乃五星中最為無定者古稱火星為熒惑良有以也火星歲輪半徑之大小其根有二一為日躔高低之差一為星本輪上高低之差一日躔高低差者凡星之歲輪皆與太陽天等大而太陽之本夫有最高最卑不同高則太陽本圈大則星之歲輪亦大卑則太陽本圈小則星之歲輪亦小故火星歲輪半徑之大小從乎太陽之高卑但此差土木二星亦同第因二星本天甚大其與太陽高卑
+  hash: sha256:3bc644c1d3e1776527bdf6d1dd799ac1ab781cc28e8c32540d72af61498fe5ab
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8140f7f615d1f814d98fac0ea7daf38a6ec6450ddb68100d96ce8a4c84b24809

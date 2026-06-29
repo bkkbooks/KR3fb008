@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1433
+seq: 1433
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求五星交宮時刻以本星一日之實行為一率一千四百四十分為二率本星實行距某宮初度之度分為三率順行者以本日寔行與三十度相減逆行者即用本日寔行求淂四率為距子正之分數以時刻收之淂交宮時刻求五星同度時刻以兩星一日之寔行相加減為一率兩星皆順行或皆逆行者則相減一順一逆者則相加一千四百四十分為二率兩星相距為三率求淂四率為距子正之分數以時刻收之淂同度時刻
+  hash: sha256:244b62a9e3e49f1ed6e3ea3c65a87a70e75d644bb4e78b5388ca21d4e1fff8a3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:a56dd37aed3ce63c54d68353754f41053710cd8ff63eb1f1624dc93da6dbcade

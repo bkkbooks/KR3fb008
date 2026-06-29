@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1003
+seq: 1003
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 申寅星數與寅乙距日相加淂戊乙為總又相減淂亢乙為較次以星距日餘弧申戌折半得女戌為半距取其女鬥切線又作牛寅線與甲乙平行淂牛寅鬥角與甲乙寅角等次用比例戊乙搃與亢乙較若女鬥切線與女牛
+  hash: sha256:324f71a173bf33680a679252bb6dd52bd1c9095b58bee2de94fe730e02a6a9ca
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dee0203c535376b93e29c6eb086150fa21f3d87940617a95d45eb14d9a0992d6

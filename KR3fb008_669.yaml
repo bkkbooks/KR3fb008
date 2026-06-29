@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/669
+seq: 669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日在陽曆以南北差加實距度潯視距度在陽曆以南北差減實距度潯視距離論東西差食在限東末潯實會而先潯視會在限西既潯實會尚為及視會而其根則皆本子地面地心之差無二理也求太隂一小時實行度太隂有平行有實行論平行萬古皆同而實行為小論故時時不等當太隂在小論最高其行極運實行不反平行在最畀其行極疾實行大于平行在兩中距時適與平行相等外此最高上半周恆遲最畀下半周恆疾今欲求一小時實行者為日食初虧後圓時差之用也法以太隂一日平行距日度十二度一十一分二十
+  hash: sha256:480a8dcc81d5f8918583b5c18745dfe9d4d9c423bb8319a5d1f0aefeabf20b75
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:2fca8304cbe00216fb2b95ce34f9814928fc08dc5de85b77cb4f021c79c76721

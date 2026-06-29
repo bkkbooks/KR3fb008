@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1377
+seq: 1377
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九相乘淂數為秒以分收之淂最高日數求正交日數以所設日數與火星正交每日平行十分秒之一又四四九七二三相乘淂正交日數求火星平行以火星年根與日數相加淂火星平行求最高平行以最高年根與最高日數相加淂最高平行求正交平行以正交年根與正交日數相加淂正交平行
+  hash: sha256:39eda341ffadd78b19b60600f8c588431fff69b8da0e9af16abd0083a43c37bf
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:65a747f47b73bdb09be4529eae2e9fd31f15bd8f0de07f5660fce9fa13af530b

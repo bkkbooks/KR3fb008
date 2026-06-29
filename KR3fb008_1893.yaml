@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1893
+seq: 1893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度若實行有零分者亦按中比例法求之
+  hash: sha256:f683a851509a20c112e332d41900df6cb7bec0e5756e3c184f2ae45b928d0b01
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3ce53825b789ea92ffc811c0a0e37b2be202b9875e23b2b62ba0bbdbd3cd52bd

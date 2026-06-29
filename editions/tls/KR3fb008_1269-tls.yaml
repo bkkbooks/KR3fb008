@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1269
+seq: 1269
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而必不見生光復圓在暮為不見初虧但見食既或並不見食既而但見生光復圓若月出入時刻在食甚後其所帶食分為退在朝為見初虧食甚不見復圓在暮為不見虧與甚但見復圓若食既者在朝為但見初虧食既食甚生光不見復圓或並不見生光在暮為不見初虧食既食甚生光但見復圓或並可見生光
+  hash: sha256:7ae0ea586d047a7c9c6211de1d040122aae4e5f4e9a56a2eb5e0a229efcf91c7
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:3c313d77dd6a4a6703c9484fc70ea245e50c7c16337b3f5eaa52555ad1df2e6c

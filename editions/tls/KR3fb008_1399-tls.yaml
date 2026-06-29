@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1399
+seq: 1399
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大距交角較五十一分二秒水星次輪心在中交當黃道南交角四度五十五分三十二秒其與大距交角較四十四分二十八秒氣應七日六五六三七四九二六水星平行應二十分一十九秒一十八㣲與暦元甲子年天正冬至次日子正初刻太陽平行度同水星最高應十一宮三度三分五十四秒五十四㣲水星伏見應十宮一度一十三分一十一秒十七㣲推金星水星法求積年
+  hash: sha256:230bd672236061a6b58a5ab7f0bfbfdedcb189f0597e4697f31e339ec35eb97a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:dd73a8741e9c56f622fc32003488bd09bee2bd9e4fb9d8908829b33449044f53

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/2119
+seq: 2119
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天苑六加四十四秒二十五微減一十五秒二十八微天囷一加四十七秒二十八微加一十五秒一十微天苑五加四十四秒一十四微減一十四秒一十七微天苑四加四十三秒五十四微減一十三秒零七微昂宿一加五十三秒三十四微加一十二秒三十八微天苑三加四十三秒四十二微減一十二秒二十九微畢宿一加五十二秒四十九微加九秒一十七微玉井三加四十四秒五十三微減五秒五十微五車二加一分零六秒四十四微加五秒四十三微
+  hash: sha256:b20d5ae7f0987d1c31aaf0b7cca55f188ab6b1c72cf6ccec04ab5eb4f824f58f
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:8cbd42bf54b46debd7ee8f1925b9b5c2a16352410a380774b7cc49213ede884c

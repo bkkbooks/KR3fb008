@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/563
+seq: 563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蓋月雖所用以視時及求平時此則以平時求視時也太隂距黃道度會望時太隂距黃道之遠近為食分多寡之原故以實會時距交求太隂距黃道度但黃白二道之交角大小不同朔望時測㝎為最小之距四度五十八分三十秒凖此以求距度如圖丙戊圈為黃道丁癸圈為白道戊為正交巳為中交丁丙朔望時大距四度五十八分三十秒即戊巳丙角設太隂距交至庚即從黃極乙作乙辛庚弧淂庚辛為距度求之用庚辛戊三角形全數與戊角之正弦若成庚之正弦與庚辛之正弦淂距度月食即用庚辛實
+  hash: sha256:0283b75dbf60cde2b01c27787c0839dce6b3d9f586fe1a8550501912bf6b25d5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9a4bc8ee19459792d70977b5e178c810a337c412a3c924ea857e4f4fffa74cd4

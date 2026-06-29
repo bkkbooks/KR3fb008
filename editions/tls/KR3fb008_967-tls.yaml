@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/967
+seq: 967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火星多祿某於漢順帝永和四年巳邜用火星沖太陽平行淂星最高在鶉首宮二十五度半此時太陽躔星紀宮十五度距最卑三十五度時太陽最高在寔沈宮十度均數為一度三十分應加又太陽一日細行為六十分火星為二十五分沖日時一日逆行之數兩行並之淂一日太陽與火星相近為一度二十五分用三率法一度二五與二十四時若均數一度半與二十五時二十四分乃火星預先沖太陽之寔經度也依此法補前第一第二測再算得當時最高寔在鶉首二十八度十五分又萬曆二十八年庚子第穀自測得在鶉火二十八度五十五分相差為三十度四十分以中積一千四百六十一年而一得每年行一分十四秒五十二微
+  hash: sha256:6937be1de8cb1762d41d4acbd0e14491357cf21f80906f40fec7ae31ab5b3aab
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:eeae1bff7a5996e2ac9ff01a0a1d8b27a8b35efda887f5c508fd08ecf42d7566

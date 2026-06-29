@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1586
+seq: 1586
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用交食視半徑表以太陰寔引宮度察其典月半徑相對之分秒淂太陰半徑求并徑以太陽半徑典太陰半徑相加淂并徑求食分以太陽半徑倍之為一率十分為二率并徑內減食甚視緯餘為三率求淂四率即食分推初杅真時苐十二求初杅復圓距弧用交食月行表以并徑分及食甚視緯分察其所對之分秒淂初
+  hash: sha256:5ade6eef2a116b2de447e4a4ebac3682c170b7b577272972089b8e9a3c97bcd6
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:ab6207331ba0a90a98ee19ed71291166d694775012891c3cee65ab43e187b81e

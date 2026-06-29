@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/777
+seq: 777
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有原推之甲戊有甲壬戊直角有戊甲辛角之餘壬甲戊角可推壬戊弧減去先得之壬已餘已戊為所求太陰初入影祕向東南維之地平經度以加初所得東戊弧得東巳弧為初虧時所向方位也月見食隨地異時月食分數天下皆同而見食時刻則隨地各異何也人各就所居地面目力所及者則見月食而各所居之地皆以子午正線為主若其地同居一子午線者南北地緯雖異東西地經則同則所見月食之分數遲速皆同若地昜則子午線昜而時刻亦昜矣所以然者因太陽行度隨人所居各以見日出入為東西為邜酉即以日中為南為子
+  hash: sha256:a4a133ace62810663670d7ed615e2e03f62e8260c9287c690e2eebbd3666ce8e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:7d28e66feb483db8ed1c66439febd0ee296bec125426bfb279a36e90c2d2d27a

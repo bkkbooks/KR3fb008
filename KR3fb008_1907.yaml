@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1907
+seq: 1907
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均数時差表均数時差表亦按最卑最高分順逆列之最卑後六宮列于上最高後六宮列于下前後列引数度分順逆以別加減中列逐宮逐度之均数時差即均数度分所變時刻之分秒每一度變時之四分每一十五分變時之一分每一十五秒變時之一秒太陽引数在上六宮者用順度其號為減太陽引数在下六宮者用逆度其號為加用表之法以引数之宮對引数之度其縱橫相遇即所求之均数時差也設太陽引数為十一宮二十五
+  hash: sha256:d52910c787a2c165cd460c5a6f7e5443c3dd263743493deead7b4f2bab1abe3b
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:f1b5b18446129fa8a99537a9547bdf107e0708b20bbc29cff05919f946deb31b

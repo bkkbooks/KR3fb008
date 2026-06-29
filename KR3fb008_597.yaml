@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/597
+seq: 597
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 年庚子三月其地距順天府西八十一度卯初時淂見食于時太隂交周淂九度二十分距黃道北四十八分三十秒食全徑十二分之三又周景王二十二年戊寅六月里差同工順天府寅初時淂見食于時太陰交周淂七度四十二分距黃道南四十分四十秒食十二分之六如圖巳乙戊丙為地影丁與戊為兩食太陰所過巳甲丙線為黃道第一食月在丁次食在戊各依食分入影為巳辛為戊庚其太陰之距度為甲丁四十八分三十秒甲戊四十分四十秒而甲戊與甲巳必等則甲丁減甲戊餘巳七分五十秒又巳丁為月徑四分之一而先淂月
+  hash: sha256:8ec40a5a45658aadc2bc3f74e3fab516f4e002e27422a37217c91a83467a06d3
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:cfa7cb41a93e2090f9ced433563b8f087ad1a28cfe0e2e26121cb8d348f04070

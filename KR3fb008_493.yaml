@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/493
+seq: 493
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淂實會仍須推其視會若僅據實會則是地心之見食非地靣之見食凡有無多寡加時先後悉皆垂失矣如圖丁為月或正居于兩交或在交之左右日月二徑之各半合之小于距度分則月䏻掩日日為之食不然則不食也所謂實會視會兼推則合者地靣所見先後大小遲疾漸次不同如人在地靣癸依丁月之徑適滿太陽之庚辛徑則見為全食若人在地在地靣豫依丁月之徑乃見兩切線所
+  hash: sha256:25a47771fef91ce3d868a66665e16faaae44f71fb00b84579371304d7a84256d
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:86755f98cde563e83b4587acb121bb0ce527a19c0bdb4241a074f4ba1e4b1d5c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/683
+seq: 683
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分十四秒乃真時會也算日食復求太陰視距度之故前以實會而不得其視會則所求者在東西差乃今視會既真當求食分之大小及月掩日所向之方位而其故皆由于太陰之視距度蓋于食甚求視距度則得日應食幾何分又于初虧復圓求視距度則得月掩日之光在何方但此視距度因真視會與實會不同則南北差及月距交宮度與距黃道實度皆與實會時所得不同法以太陰視會及實會間之本行或加或減于其交周度依時差加減得視會時太陰交周度因以得食甚時實距度假如時差為三十五分二十一秒宜加此間太陰遇太陽行一十七分五十六
+  hash: sha256:bcdcd5b98d1b0c25412d833b93c586d6ba65f87ab7b4661fa5f87f5bdc93b0a4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:91a322359e46af30e57f3c7a82764f31be9dbc5c11a5d1b9a5b99e7bdfee3e71

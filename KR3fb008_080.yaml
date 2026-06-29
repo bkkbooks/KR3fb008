@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙之垂線三㸃同圈法有甲乙丙三㸃欲作一圈以貫之術任以甲為心作虛圓分用元度以丙為心亦作虛圓分兩圓相較于戊于辛作戊辛直線又任以乙為心以丙為心各作同度之虛圓分相交于庚于壬作庚壬直線兩直線相遇于丁以丁為心作圈則甲乙丙三㸃並在圈周
+  hash: sha256:280fe087ac9bb23fd7a6cb3656e9f8ed35c6750bb4878d22d7acb69cfdc782c5
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:20fbae430287dd26752241ee46300ab2bc5b12d484abac946d1dfcb79a5b4873

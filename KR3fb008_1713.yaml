@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1713
+seq: 1713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一十三秒爲太隂在最高所遇地影之半径于甲庚内减太隂在最卑距地心之甲未五千四百八十四餘未庚一萬六千一百四十八以甲邜庚勾股形舆未申庚勾股形爲比例淂未申七十四小餘六又用甲未申直角三角形求淂甲角四十六分四十八秒爲太隂在最卑所遇地影之半径比舊表最高多一十三秒最卑少一十二秒以月距地之高卑舆舊表有不同故也于是随時以
+  hash: sha256:9d090b454095fa883df92b08e9bcdada7e7c024ae884f594272849676493942e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:1747cb437c622043da6ccbd38813cb3c4704955d0c8e21d6ad0a12675bc5cc88

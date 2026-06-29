@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1220
+seq: 1220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十二求考定真時復置搃時以真時距分加減之日在限西則加限東則減為真搃時以真搃時如前法求得日距限及限距地高與日距地高度並以真搃時查再如前法求得月高下差及兩圈交角以本求所淂交角及高下差入時氣差表如前法查淂時差并查得氣差以真距時分與月寔行化秒相乘為寔一小時化秒為法除之得數為真距度以所淂真距度與本求真時差相較若相等者即用真時為食甚之時如此即不用後條距較考定法
+  hash: sha256:67648665f555b914a558deaf8902e136d164f45ebb34c53013b93f2d166ff69a
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:9c83245a031cc06aea9a5bd20af6deafaf0e1745ea3d3c1f07e9d6f84ed24966

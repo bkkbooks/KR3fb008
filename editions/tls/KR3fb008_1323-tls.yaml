@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1323
+seq: 1323
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求初均數用月預備黨員陰初均數表以經引數宮度分察其所對之度分秒淂初均數並記加減號求初寔行置用時太陰平行加減初數淂初寔行求月距日次引置初寔行減本日太陽寔行淂月距日次引求二三均數用月離太陰二三均數表以引數宮度及月距日次引宮度察其所對之度分秒淂二三均數並記加減號
+  hash: sha256:6b4c1262a0e1830937f0f6e1f4ee8b97ef072e1d96521dd467f8f058efe0770e
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:679b0f3a85b8ffb753b4b1869bb0373283bee5a2cef6a909b242855755e663af

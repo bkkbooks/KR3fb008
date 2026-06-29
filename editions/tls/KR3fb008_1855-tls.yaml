@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/1855
+seq: 1855
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃赤距度表黃赤距度表按二分二至分順逆列之二分後之各宮列于上降婁大梁實沈三宮係春分後為北緯壽星大火析木三宮係秋分後為南緯其數同二至後之各宮列于下鶉首鶉火鶉尾三宮係夏至後為北緯星紀元枵娵訾三宮係冬至後為南緯其数同太陽實行在上六宮者用順度太陽實行在下六宮者用逆度用表之法以實行之宮對實行之度分其縱橫相遇
+  hash: sha256:5790ee7beae37c751f18dece23982e4d3e4c698ef68e9be6e46b7f65335b62bd
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:b7638ca9d86262294aa7ae42fc13a86731d7d13aaba357b17d4d1fe73f0d94a7

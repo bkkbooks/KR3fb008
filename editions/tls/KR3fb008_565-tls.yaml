@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb008/tls/v1/juan/565
+seq: 565
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 距度若日食則以庚辛加减南北差為視距度几月距交在正交後六宫緯北中交後六宮緯南太陽太隂視半径日月之骵皆為圓球祗因其去地絕遠人視之若一平靣然測之者不依其形而依其径視径者言與寔径不同也盖論寔径日月两骵大小径庭而人目所見則皆視度故以視径為主但此径變易多端測候不易曆家所當審慎者也一視径與寔径不同日月之径日視之不過寸許而謂大于地誰其信之不知乃自然之理也如圖甲乙為地径内辛為日径丙辛
+  hash: sha256:77eed2b6110af7f1f0ccca23899ba2903fe6c3a33dd81c5469eb3337aea687c4
+metadata:
+  title: 歷誌
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb008.xml
+hash: sha256:c1f75012db3233d24b41e515cb4f02543bcbdbebf7264630f148f13056f762fc
