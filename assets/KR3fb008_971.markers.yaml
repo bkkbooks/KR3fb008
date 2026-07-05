@@ -7,7 +7,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup347, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 7, content: '', id: KR3fb008_tls_001-p360.s2}
   - {type: line-break, offset: 7, content: '', id: KX_2_dup353, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 27, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0610}}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fb008_tls_001-p360.s3}
   - {type: line-break, offset: 32, content: '', id: KX_3_dup353, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 57, content: '', id: KR3fb008_tls_001-p360.s4}
@@ -16,7 +15,6 @@ markers:
   - {type: line-break, offset: 82, content: '', id: KX_5_dup352, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 107, content: '', id: KR3fb008_tls_001-p360.s6}
   - {type: line-break, offset: 107, content: '', id: KX_6_dup355, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 125, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 132, content: '', id: KR3fb008_tls_001-p360.s7}
   - {type: line-break, offset: 132, content: '', id: KX_7_dup351, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 157, content: '', id: KR3fb008_tls_001-p360.s8}
@@ -29,4 +27,4 @@ markers:
   - {type: 'tls:seg', offset: 227, content: '', id: KR3fb008_tls_001-p360.s10.2}
   - {type: line-break, offset: 233, content: '', id: KR3fb008_tls_971-bkklb1}
   back: []
-hash: sha256:4e0343671410cd31a172653e366d4055e093107a46b6d2c10dfd7e6dfffdbbf4
+hash: sha256:6faf8345b312b2b7d137e9cad00683353922f030c85ab17237a34f26eff19fff

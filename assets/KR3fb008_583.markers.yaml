@@ -7,24 +7,18 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup249, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3fb008_tls_001-p259.s2}
   - {type: line-break, offset: 15, content: '', id: KX_2_dup253, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 27, original: 炤, replacement: 照, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1355}}
   - {type: 'tls:seg', offset: 29, content: '', id: KR3fb008_tls_001-p259.s3}
   - {type: line-break, offset: 29, content: '', id: KX_3_dup253, _xml_error: duplicate-id, _xml_original_id: KX_3}
-  - {type: substitution, offset: 34, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fb008_tls_001-p259.s4}
   - {type: line-break, offset: 44, content: '', id: KX_4_dup251, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3fb008_tls_001-p259.s5}
   - {type: line-break, offset: 69, content: '', id: KX_5_dup251, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 78, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0782}}
-  - {type: substitution, offset: 89, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3fb008_tls_001-p259.s6}
   - {type: line-break, offset: 94, content: '', id: KX_6_dup254, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 113, content: '', id: KR3fb008_tls_001-p259.s7}
   - {type: line-break, offset: 113, content: '', id: KX_7_dup252, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 116, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0610}}
   - {type: 'tls:seg', offset: 137, content: '', id: KR3fb008_tls_001-p259.s8}
   - {type: line-break, offset: 137, content: '', id: KX_8_dup251, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 149, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fb008_tls_001-p259.s9.1}
   - {type: line-break, offset: 162, content: '', id: KX_9_dup252, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg-start', offset: 177, content: '', id: KR3fb008_tls_001-p259.s9.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p259.s9.2]}
@@ -34,6 +28,5 @@ markers:
   - {type: 'tls:seg', offset: 183, content: '', id: KR3fb008_tls_001-p259.s9.3}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fb008_tls_001-p259.s10}
   - {type: line-break, offset: 190, content: '', id: KX_10_dup249, _xml_error: duplicate-id, _xml_original_id: KX_10}
-  - {type: substitution, offset: 212, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   back: []
-hash: sha256:1da492b2240f484ac9079e2994282c0fff019b9e411875b09d469352774a5472
+hash: sha256:a38d65fc188e009e31f3ed9592a8f7bf8e725f244390152ea798ed0882069ea8

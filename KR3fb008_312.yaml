@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曆志卷五日躔恆星
-  hash: sha256:90a5bfac9b428af351989f93126961884b9ec0dfd0f74e27dfd426f50b310374
+  text: 暦志卷五日躔恒星
+  hash: sha256:e96849e931f9be1156f951af14b2ecba3be4e93a14df28443d958b7aaa5b67e2
 metadata:
   title: 歷誌
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb008.xml
-hash: sha256:89aee16a10c375b2301e80afe4b4a05a385a03de81fbbf9d2967c41a39fc258f
+hash: sha256:b8ab0c4102cf5a53aa23b03561f6eef4fad235dc054afd9af632ffeb2e5f61ed

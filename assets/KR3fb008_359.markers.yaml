@@ -20,28 +20,21 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KR3fb008_tls_359-bkklb2}
   - {type: 'tls:seg-end', offset: 39, content: '', id: KR3fb008_tls_001-p175.s3.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fb008_tls_001-p175.s3.3}
-  - {type: substitution, offset: 50, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3fb008_tls_001-p175.s4.1}
   - {type: line-break, offset: 52, content: '', id: KX_4_dup168, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 55, original: 両, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3211}}
-  - {type: substitution, offset: 62, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'tls:seg-start', offset: 67, content: '', id: KR3fb008_tls_001-p175.s4.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p175.s4.2]}
   - {type: 'tls:seg', offset: 67, content: '', id: KR3fb008_tls_001-p175.s4.2}
   - {type: line-break, offset: 68, content: '', id: KR3fb008_tls_359-bkklb3}
   - {type: 'tls:seg-end', offset: 69, content: '', id: KR3fb008_tls_001-p175.s4.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3fb008_tls_001-p175.s4.3}
-  - {type: substitution, offset: 69, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fb008_tls_001-p175.s5}
   - {type: line-break, offset: 70, content: '', id: KX_5_dup168, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 76, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3fb008_tls_001-p175.s6}
   - {type: line-break, offset: 87, content: '', id: KX_6_dup172, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fb008_tls_001-p175.s7}
   - {type: line-break, offset: 95, content: '', id: KX_7_dup169, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 96, original: 両, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3211}}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fb008_tls_001-p175.s8}
   - {type: line-break, offset: 111, content: '', id: KX_8_dup169, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 116, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 136, content: '', id: KR3fb008_tls_001-p175.s9}
   - {type: line-break, offset: 136, content: '', id: KX_9_dup169, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 161, content: '', id: KR3fb008_tls_001-p175.s10.1}
@@ -61,10 +54,8 @@ markers:
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fb008_tls_001-p175.s12.3}
   - {type: 'tls:seg', offset: 212, content: '', id: KR3fb008_tls_001-p175.s13}
   - {type: line-break, offset: 212, content: '', id: KX_13_dup166, _xml_error: duplicate-id, _xml_original_id: KX_13}
-  - {type: substitution, offset: 224, original: 両, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3211}}
   - {type: 'tls:seg', offset: 237, content: '', id: KR3fb008_tls_001-p175.s14}
   - {type: line-break, offset: 237, content: '', id: KX_14_dup164, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 252, original: 両, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3211}}
   - {type: 'tls:seg', offset: 254, content: '', id: KR3fb008_tls_001-p175.s15}
   - {type: line-break, offset: 254, content: '', id: KX_15_dup165, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 271, content: '', id: KR3fb008_tls_001-p175.s16}
@@ -72,7 +63,6 @@ markers:
   - {type: punctuation, offset: 271, content: ○, id: KR3fb008_tls_359-bkkpn3}
   - {type: 'tls:seg', offset: 287, content: '', id: KR3fb008_tls_001-p175.s17}
   - {type: line-break, offset: 287, content: '', id: KX_17_dup167, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 295, original: 両, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3211}}
   - {type: 'tls:seg', offset: 304, content: '', id: KR3fb008_tls_001-p175.s18}
   - {type: line-break, offset: 304, content: '', id: KX_18_dup167, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 321, content: '', id: KR3fb008_tls_001-p175.s19}
@@ -84,4 +74,4 @@ markers:
   - {type: punctuation, offset: 392, content: ○, id: KR3fb008_tls_359-bkkpn4}
   - {type: punctuation, offset: 394, content: ○, id: KR3fb008_tls_359-bkkpn5}
   back: []
-hash: sha256:1ef322d62ca76bd872182da8ff2b6b208ce3d4d42bcf118c9b3430989f2f7049
+hash: sha256:653263e45377be775ad37234869cce1a5a49fd75702279babacdaa7a5d463857

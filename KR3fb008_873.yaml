@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 取子辛弧左旋與邜乙等以辛為心取辛壬為半徑數其後作戊壬圈為小均輪又作乙戊遇兩心線恆與邜甲平行淂壬為最近戊為最遠次從壬取子辛之倍弧至巳右行星至巳作辛巳乙巳甲巳諸線成辛乙巳乙巳申兩三角形先算乙辛巳形有乙辛本輪半徑有巳辛均輪半
-  hash: sha256:f627fcf5e9055a9fbf01bdb93e99f921e5e22ce6e322c0d839546c6eb6944bee
+  text: 取子辛弧左旋與邜乙等以辛為心取辛壬為半徑數其後作戊壬圈為小均輪又作乙戊遇兩心線恒與邜甲平行淂壬為最近戊為最遠次從壬取子辛之倍弧至巳右行星至巳作辛巳乙巳甲巳諸線成辛乙巳乙巳申兩三角形先算乙辛巳形有乙辛本輪半徑有巳辛均輪半
+  hash: sha256:890bd66d04ff231ec2be556561fa6f8a675ccdd391547aaa86d38688eb65dfb5
 metadata:
   title: 歷誌
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb008.xml
-hash: sha256:4080c7e34498a4b7a4c685d363925a2ee93138846f7d78b6a67c1f600ced2fc1
+hash: sha256:5a34017ca72f77870e5aff4164dcee802be70dd79393dd348d7fff89371bace2

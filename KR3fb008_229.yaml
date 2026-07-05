@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 三九九九九六一一四五八八六五一一四五九三二四五九九九九九二二九一八一六六二二九一八三八五九一度分餘弦餘切綫餘割線本割圓表每弧一度析為六十分每分各具弦矢切割共有二萬一千六百之數今隔十五分列一數以概其餘十五分以內各線用中比例法可求也
-  hash: sha256:fb6803fb87e1c83f01c0dc8cfabcc8a0163afeb4c17bc6d0c3e3f52598e390dd
+  text: 三九九九九六一一四五八八六五一一四五九三二四五九九九九九二二九一八一六六二二九一八三八五九一度分餘弦餘切线餘割線本割圓表每弧一度析為六十分每分各具弦矢切割共有二萬一千六百之數今隔十五分列一數以概其餘十五分以內各線用中比例法可求也
+  hash: sha256:c951609c39e7b3a678cbe138e98f0d1f7b7802c23940719383048a03ae55cffd
 metadata:
   title: 歷誌
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb008.xml
-hash: sha256:57863c9b36ebeae977fd5542174b10abc2b54c712ac6081feb2dfda340733072
+hash: sha256:49433c0148b78d481127ea0a9d7ceef2fe7dab369b052b02e4d6bdaa93974d7f

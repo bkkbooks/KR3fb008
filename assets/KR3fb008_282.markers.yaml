@@ -11,7 +11,6 @@ markers:
   - {type: line-break, offset: 20, content: '', id: KX_3_dup133, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fb008_tls_001-p139.s4}
   - {type: line-break, offset: 37, content: '', id: KX_4_dup133, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 37, original: 搃, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3610}}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fb008_tls_001-p139.s6}
   - {type: line-break, offset: 53, content: '', id: KX_6_dup137, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 78, content: '', id: KR3fb008_tls_001-p139.s7}
@@ -28,7 +27,6 @@ markers:
   - {type: line-break, offset: 174, content: '', id: KX_13_dup133, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 199, content: '', id: KR3fb008_tls_001-p139.s14}
   - {type: line-break, offset: 199, content: '', id: KX_14_dup131, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 201, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: 'tls:seg', offset: 224, content: '', id: KR3fb008_tls_001-p139.s15}
   - {type: line-break, offset: 224, content: '', id: KX_15_dup132, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 235, content: '', id: KR3fb008_tls_001-p139.s16}
@@ -48,4 +46,4 @@ markers:
   - {type: 'tls:seg', offset: 331, content: '', id: KR3fb008_tls_001-p139.s21}
   - {type: line-break, offset: 331, content: '', id: KX_21_dup129, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:0fc38232d198d0b2da51559aef9671aa1bd85465de8dbc112f67fd947c022258
+hash: sha256:159c17d86bb9903991725619dc99d3341d9eccecab92914f6762debc1324a853

@@ -11,7 +11,6 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KX_3_dup3, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 26, content: '', id: KR3fb008_tls_001-p3.s4}
   - {type: line-break, offset: 26, content: '', id: KX_4_dup3, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 32, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fb008_tls_001-p3.s5}
   - {type: line-break, offset: 40, content: '', id: KX_5_dup3, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fb008_tls_001-p3.s6}
@@ -28,8 +27,6 @@ markers:
   - {type: line-break, offset: 108, content: '', id: KX_14_dup3, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 127, content: '', id: KR3fb008_tls_001-p3.s15}
   - {type: line-break, offset: 127, content: '', id: KX_15_dup3, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 138, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
-  - {type: substitution, offset: 142, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fb008_tls_001-p3.s16}
   - {type: line-break, offset: 146, content: '', id: KX_16_dup3, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 159, content: '', id: KR3fb008_tls_001-p3.s19}
@@ -45,4 +42,4 @@ markers:
   - {type: 'tls:seg', offset: 218, content: '', id: KR3fb008_tls_001-p3.s24}
   - {type: line-break, offset: 218, content: '', id: KX_24}
   back: []
-hash: sha256:e7efea6fa7dbb6ee4a00ade87a5555f1712abf75dd824f1b19e88ad7211867b2
+hash: sha256:8f0bed062105313788f2ec4a78cbd60401b1f96a97a9dd4f0d3caa9e4cabbeb7
