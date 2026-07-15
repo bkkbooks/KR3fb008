@@ -17,6 +17,8 @@ markers:
   - {type: line-break, offset: 95, content: '', id: KX_6_dup131, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fb008_tls_001-p133.s7}
   - {type: line-break, offset: 99, content: '', id: KX_7_dup130, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 109, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
+  - {type: substitution, offset: 111, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fb008_tls_001-p133.s8.1}
   - {type: line-break, offset: 124, content: '', id: KX_8_dup130, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg-start', offset: 147, content: '', id: KR3fb008_tls_001-p133.s8.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p133.s8.2, KR3fb008_tls_001-p133.s9.1]}
@@ -48,16 +50,21 @@ markers:
   - {type: line-break, offset: 342, content: '', id: KX_17_dup128, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 367, content: '', id: KR3fb008_tls_001-p133.s18}
   - {type: line-break, offset: 367, content: '', id: KX_18_dup128, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 375, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: 'tls:seg', offset: 392, content: '', id: KR3fb008_tls_001-p133.s19}
   - {type: line-break, offset: 392, content: '', id: KX_19_dup129, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 402, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
+  - {type: substitution, offset: 406, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17258}}
   - {type: 'tls:seg', offset: 417, content: '', id: KR3fb008_tls_001-p133.s20.1}
   - {type: line-break, offset: 417, content: '', id: KX_20_dup126, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg-start', offset: 425, content: '', id: KR3fb008_tls_001-p133.s20.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p133.s20.2]}
   - {type: 'tls:seg', offset: 425, content: '', id: KR3fb008_tls_001-p133.s20.2}
   - {type: line-break, offset: 429, content: '', id: KR3fb008_tls_270-bkklb4}
+  - {type: substitution, offset: 431, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17258}}
   - {type: 'tls:seg-end', offset: 433, content: '', id: KR3fb008_tls_001-p133.s20.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 433, content: '', id: KR3fb008_tls_001-p133.s20.3}
   - {type: 'tls:seg', offset: 446, content: '', id: KR3fb008_tls_001-p133.s21}
   - {type: line-break, offset: 446, content: '', id: KX_21_dup123, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 447, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   back: []
-hash: sha256:61cb5d20b1f969b49a614de53969368e2170527c717b29cb4bf51b5e0db8a237
+hash: sha256:5712bf73d448e677b64f3cfa586e5f488d343dab957481e085514751d99b6e73

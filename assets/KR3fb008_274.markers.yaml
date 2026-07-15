@@ -9,8 +9,10 @@ markers:
   - {type: line-break, offset: 16, content: '', id: KX_2_dup129, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fb008_tls_001-p135.s3}
   - {type: line-break, offset: 32, content: '', id: KX_3_dup129, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 44, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fb008_tls_001-p135.s4}
   - {type: line-break, offset: 48, content: '', id: KX_4_dup129, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 49, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: 'tls:seg', offset: 50, content: '', id: KR3fb008_tls_001-p135.s5}
   - {type: line-break, offset: 50, content: '', id: KX_5_dup130, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fb008_tls_001-p135.s6}
@@ -41,5 +43,6 @@ markers:
   - {type: line-break, offset: 230, content: '', id: KX_20_dup128, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 255, content: '', id: KR3fb008_tls_001-p135.s21}
   - {type: line-break, offset: 255, content: '', id: KX_21_dup125, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 258, original: 䖏, replacement: 處, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19924}}
   back: []
-hash: sha256:2f7ede7e5bfda89890fd0ec1def49ccf5bd8b0b589c15192749e00ecf639f9bd
+hash: sha256:5912c665e880e502a43a697fe5456b3d0f484bb6a7307bcaee7c400e1d389c1c

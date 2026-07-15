@@ -25,6 +25,7 @@ markers:
   - {type: line-break, offset: 78, content: '', id: KX_16_dup325, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3fb008_tls_001-p336.s17.1}
   - {type: line-break, offset: 87, content: '', id: KX_17_dup326, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 89, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: 'tls:seg-start', offset: 90, content: '', id: KR3fb008_tls_001-p336.s17.2, seg_type: comm, member_ids: [KR3fb008_tls_001-p336.s17.2]}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fb008_tls_001-p336.s17.2}
   - {type: line-break, offset: 92, content: '', id: KR3fb008_tls_877-bkklb3}
@@ -34,9 +35,10 @@ markers:
   - {type: line-break, offset: 98, content: '', id: KX_18_dup327, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fb008_tls_001-p336.s19}
   - {type: line-break, offset: 108, content: '', id: KX_19_dup326, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 108, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fb008_tls_001-p336.s20}
   - {type: line-break, offset: 117, content: '', id: KX_20_dup320, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 126, content: '', id: KR3fb008_tls_001-p336.s21}
   - {type: line-break, offset: 126, content: '', id: KX_21_dup312, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:e6e9cc58d96338f1022993d4f8748da13837128f8292018e0416dc0a3fc5adbd
+hash: sha256:6e5083fc47f75534ed241b1d0999a453a1a39f72e0e293859666652bee802948

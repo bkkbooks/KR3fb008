@@ -5,5 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p152.s9}
   - {type: line-break, offset: 0, content: '', id: KX_9_dup147, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 0, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
+  - {type: substitution, offset: 6, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   back: []
-hash: sha256:2a3be2b5d321f1a6e90f46e42a3bc1a5c57cc14b37c4e509e9f9c6ddd7a9e2c3
+hash: sha256:bb646a59e47d6bf8a56c7be59cefd7313cc8925123da423a456354707a67a050

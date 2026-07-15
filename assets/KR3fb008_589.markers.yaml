@@ -5,17 +5,27 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb008_tls_001-p260.s12}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup253, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 1, original: 倾, replacement: 傾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17157}}
+  - {type: substitution, offset: 10, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
+  - {type: substitution, offset: 11, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
+  - {type: substitution, offset: 14, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: 'tls:seg', offset: 25, content: '', id: KR3fb008_tls_001-p260.s13}
   - {type: line-break, offset: 25, content: '', id: KX_13_dup250, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 50, content: '', id: KR3fb008_tls_001-p260.s14}
   - {type: line-break, offset: 50, content: '', id: KX_14_dup248, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 53, original: 𤰞, replacement: 卑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0499}}
+  - {type: substitution, offset: 73, original: 𤰞, replacement: 卑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0499}}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fb008_tls_001-p260.s15}
   - {type: line-break, offset: 75, content: '', id: KX_15_dup248, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 86, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: 'tls:seg', offset: 100, content: '', id: KR3fb008_tls_001-p260.s16}
   - {type: line-break, offset: 100, content: '', id: KX_16_dup249, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 105, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: 'tls:seg', offset: 125, content: '', id: KR3fb008_tls_001-p260.s17}
   - {type: line-break, offset: 125, content: '', id: KX_17_dup250, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 137, original: 𤰞, replacement: 卑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0499}}
   - {type: 'tls:seg', offset: 150, content: '', id: KR3fb008_tls_001-p260.s18}
   - {type: line-break, offset: 150, content: '', id: KX_18_dup251, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 160, original: 搃, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19893}}
   back: []
-hash: sha256:8fab65bba77456acfd025e6556bab84675677a058cb09ccd02c674379a807ebc
+hash: sha256:9d2f68065f9e082bfd2a5deb51d47d81de4b48086dc8d76dcbdaa85921c5fac8

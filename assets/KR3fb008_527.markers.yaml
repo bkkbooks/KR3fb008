@@ -20,13 +20,16 @@ markers:
   - {type: line-break, offset: 103, content: '', id: KX_5_dup237, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 128, content: '', id: KR3fb008_tls_001-p245.s6}
   - {type: line-break, offset: 128, content: '', id: KX_6_dup240, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 139, original: 搃, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19893}}
   - {type: 'tls:seg', offset: 153, content: '', id: KR3fb008_tls_001-p245.s7}
   - {type: line-break, offset: 153, content: '', id: KX_7_dup238, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fb008_tls_001-p245.s8}
   - {type: line-break, offset: 178, content: '', id: KX_8_dup237, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 196, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: 'tls:seg', offset: 203, content: '', id: KR3fb008_tls_001-p245.s9}
   - {type: line-break, offset: 203, content: '', id: KX_9_dup238, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 228, content: '', id: KR3fb008_tls_001-p245.s10}
   - {type: line-break, offset: 228, content: '', id: KX_10_dup235, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 230, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   back: []
-hash: sha256:6bef74b47b6ff978ab169dcdd8247bb2cc5d0ccfc2adff54b0e600d8123504ad
+hash: sha256:64273b9fd5377c17ccc61efe344959c73a8b176832f1669afffb7fbecde472da
